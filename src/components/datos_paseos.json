@@ -1,0 +1,125 @@
+{
+  "PlayaCarmen" :  [
+        {   "id": 0,
+            "paseo": "Chichen Itza",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Templo_de_Kukulc%C3%A1n.jpg",
+            "descripcion": "Sitio arqueológico declarado patrimonio de la humanidad por la unesco"
+
+        }, 
+        
+        {   "id": 1,
+            "paseo": "Tulum & Playa Del Carmen",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/00/18/86/29/tulum.jpg",
+            "descripcion": "Ruinas mayas declaradas también patrimonio histórico de la humanidad por la Unesco. Esta foto de Secrets Capri Riviera Cancún es cortesía de TripAdvisor"
+
+        }, 
+        {   "id": 2,
+            "paseo": "Isla Mujeres",
+            "imagen": "https://www.visitmexico.com/viajemospormexico/assets/uploads/actividades/actividades-principales_quintana-roo_isla-mujeres_descubre-el-museo-subacuatico-de-arte-de-cancun_01.jpg",
+            "descripcion": "Sus aguas tibias y transparentes son el hogar perfecto para delfines y tortugas"
+
+        },
+        {   "id": 3,
+            "paseo": "Jungle Tour",
+            "imagen": "https://cdn.mexicodestinos.com/tours/jungle-tour-cancun-canales-laguna-min.jpg",
+            "descripcion": "excitante tour donde podrás conducir tu propia lancha rápida para dos personas"
+
+        },
+        {   "id": 4,
+            "paseo": "Xcaret",
+            "imagen": "https://www.xcaret.com/img/paquetes/xcaret-1.jpg",
+            "descripcion": "visita uno de los lugares turísticos de México con mayor reconocimiento a nivel mundial. Redescubre tu amor por la cultura mexicana en Xcaret."
+
+        },
+        {   "id": 5,
+            "paseo": "Xelha",
+            "imagen": "https://es.xelha.com/img/entradas/xelha-todo-incluido-7.jpg",
+            "descripcion": "vive experiencias únicas en caletas, cenotes y lagunas, en medio de un paisaje incomparable, uno de los más bellos de Cancún y la Riviera Maya."
+
+        },
+        {   "id": 6,
+            "paseo": "Tulum - Xelha",
+            "imagen": "https://es.xelha.com/img/entradas/tour-xelha-tulum-4.jpg",
+            "descripcion": "La combinación perfecta entre una Maravilla natural y la cultura maya"
+
+        },
+        {   "id": 7,
+            "paseo": "Xoximilco",
+            "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xoximilco/mobile/xoximilco2.jpg",
+            "descripcion": "Las fiestas mexicanas son las mejores, y sobre el agua, en Cancún, ¡mejor!"
+
+        },
+        {   "id": 8,
+            "paseo": "Xenotes Oasis Maya",
+            "imagen": "https://d3fky3asuafjls.cloudfront.net/OyCfxHxK6OPbKAUHUUh_9XXLjRA=/fit-in/720x440/filters:fill(000)/02/10/46/02104660.jpg",
+            "descripcion": "el único tour en Cancún y la Riviera Maya, que te lleva a conocer los cuatro tipos de cenotes que existen en el mundo."
+
+        },
+        {   "id": 9,
+            "paseo": "Xenses",
+            "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xenses/mobile/xenses2.jpg",
+            "descripcion": "Diviértete en más de 15 actividades con escenarios fantásticos que recorrerás por tierra, aire y agua"
+
+        },
+        {   "id": 10,
+            "paseo": "Coba-tulum-cenote & Playa del Carmen",
+            "imagen": "https://www.rosatoursmexico.com/galeriart2-en/DETALLE%20USA%20Tulum-Coba-Cenote-Playa%20del%20Carmen-Chichen%20Itza%20e%20Isla%20Mujeres.jpg",
+            "descripcion": "Zona arqueológica de Tulum, Zona arqueológica de Coba y Entrada y tiempo libre a Cenote"
+
+        },
+        {   "id": 11,
+            "paseo": "Xplor",
+            "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xplor/mobile/xplor3.jpg",
+            "descripcion": "Parque en el corazón de la selva en donde podrás realizar actividades de aventura, con el equipo más moderno y seguro"
+
+        },
+        {   "id": 12,
+            "paseo": "Dolphin Splash Delphinus",
+            "imagen": "https://www.cancunalltours.com/images/delphinus-se%C3%B1ales-al-delfin.jpg",
+            "descripcion": "Nada con delfines en los hábitats más exclusivos de Cancún y Riviera Maya"
+
+        },
+        {   "id": 13,
+            "paseo": "Coco Bongo",
+            "imagen": "https://cdn1.cocobongo.com/site/images-gallery/large/coco-bongo-show-telas.jpg",
+            "descripcion": "Prepárate para ser sorprendido con acróbatas voladores, impactantes tributos musicales y la continua atmósfera de fiesta que nos ha hecho mundialmente famosos"
+
+        },
+        {   "id": 14,
+            "paseo": "Capitan Hook",
+            "imagen": "https://i2.wp.com/www.capitanhook.com/blog/wp-content/uploads/2016/12/imagen-canvas-afuera.png?fit=2065%2C1079&ssl=1",
+            "descripcion": "Navega en el Galeón I, El Bucanero II o La Perla Negra, auténticas réplicas de Galeones Españoles del siglo XVIII . Construidos en España"
+
+        },
+        {   "id": 15,
+            "paseo": "Columbus",
+            "imagen": "https://d3tf9yuhsp2bpn.cloudfront.net/Columbus_1.jpg",
+            "descripcion": "disfruta la experiencia indescriptible de navegar en el Galeón Español Columbus, que encenderá tu corazón para darte un lazo más profundo con aquella persona que tanto amas"
+
+        },
+        {   "id": 16,
+            "paseo": "Holbox",
+            "imagen": "https://cnnespanol2.files.wordpress.com/2018/04/cnn-holbox-3.jpg?quality=100&strip=info&strip=info",
+            "descripcion": "Descubre las paradisíacas playas de la Isla Holbox"
+
+        }        
+    
+    ],
+    "Guajira" :  [
+        {   "id": 0,
+            "hotel": "Guajira",
+            "slogan": "Vive la cultura",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+            
+        },
+        {   "id": 1,
+            "hotel": "San Andrés",
+            "slogan": "El mar de los 7 colores",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg",
+            "descripcion" : ""
+        }   
+    
+    ]
+
+}
+

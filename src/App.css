@@ -1,33 +1,28 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  border: 0;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  
+
+}
+
+.onvacation_quetedetiene {
+  display:flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  text-align: center;
+  background-color: #E52A3B;
+  background-image: url('./img/churquitos.png'); 
+  background-size: 120%;
+  width: 100%;
+  height: 100vh;
+
 }
 
-.App-link {
-  color: #61dafb;
+
+.btn {
+  background-color: #DE0A11;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+

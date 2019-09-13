@@ -1,0 +1,48 @@
+[
+    {   "id": 0,
+        "nombre": "Guajira",
+        "slogan": "Vive la cultura",
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+    },
+    {   "id": 1,
+        "nombre": "San Andrés",
+        "slogan": "El mar de los 7 colores",
+        "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg"
+    },
+    {   "id": 3,
+        "nombre": "Playa del Carmen",
+        "slogan": "La riviera maya",
+        "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hoteles%20Canc%C3%BAn/Hotel%20Grand%20Princess/Slider.png?ver=2019-06-10-180650-280"
+    },
+    {   "id": 4,
+        "nombre": "Eje Cafetero",
+        "slogan": "Patrimonio histórico",
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-EJE-CAFETERO.jpg"
+    },
+    {   "id": 5,
+        "nombre": "Amazonas",
+        "slogan": "Una aventura salvaje",
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-AMAZONAS.jpg"
+    },
+    {   "id": 6,
+        "nombre": "Girardot",
+        "slogan": "Fines de semana increibles",
+        "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/Fotos-Girardot-Web-01.jpg?ver=2019-06-27-201935-690"
+    },
+    {   "id": 7,
+        "nombre": "Santa Marta",
+        "slogan": "Vive la chispa del Caribe",
+        "imagen": "https://www.onvacation.com/portals/1080/ON_VACATION_SANTA_MARTA.png"
+    },
+    {   "id": 8,
+        "nombre": "Cancún",
+        "slogan": "Paraiso mexicano",
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CANCUN.jpg"
+    },
+    {   "id": 9,
+        "nombre": "Curazao",
+        "slogan": "La isla de los colores",
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CURACAO.jpg"
+    }
+    
+]

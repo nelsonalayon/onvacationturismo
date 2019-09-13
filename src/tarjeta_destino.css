@@ -1,0 +1,11 @@
+/* .tarjeta {
+    width: 260px;
+} */
+
+.card-title {
+    text-shadow: 3px 3px 4px rgba(139, 0, 0, 1);
+}
+
+.card {
+    margin-bottom: 10em;
+}

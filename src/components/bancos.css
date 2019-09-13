@@ -1,0 +1,60 @@
+.opcion-banco p {
+    position: relative;    
+    top: -76px;
+    color: white;
+    left: 15px;
+}
+
+.rectangulo-banco {
+    position: relative;
+}
+
+.lineablanca-banco {
+    background-color: white;
+    margin: 0;
+    position: relative;
+    top: -88px;
+}
+
+.opcion-numero-banco {
+    position: relative;
+    top: -119px;
+    left: 26px;
+    font-size: 34px;
+    color: white;
+}
+
+.caja-opcion-banco {
+    display: flex;
+    border: 6pt solid #b0bec5;
+    margin:20px;
+    justify-content: space-between;
+}
+
+.dibujo-banco {
+    margin:  auto;
+}
+
+.opcion-banco {
+    height: 50px;
+}
+
+.caja-del-dibujo-banco{
+    padding: 22px;
+   
+}
+
+.contenido-banco {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    margin: 5% 10%;
+}
+
+@media (max-width: 800px ) {
+
+    .caja-opcion-banco {
+        flex-direction: column;
+    }
+}

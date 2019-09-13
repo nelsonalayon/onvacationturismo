@@ -1,0 +1,61 @@
+{"bancos":[
+            {
+                "id": 1,
+                "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",   
+                "datosCuenta" : [
+                  {"cuenta": "Cuenta de ahorros: 006700663245"},
+                  {"nombreCuenta": "Tour Vacation Hoteles Azul S.A.S"},
+                  {"referencia":"Cédula del titular de la reserva"},        
+                  {"convenio": ""},
+                  {"notas":""}
+                ]
+                           
+                
+
+            }, 
+            {
+              "id": 2,
+              "cuenta": "Cuenta de ahorros: 006700663245",
+              "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
+              "referencia":"Cédula del titular de la reserva",                
+              "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+              "convenio": "",
+              "notas":""
+
+          }, 
+          {
+            "id": 3,
+            "cuenta": "Cuenta de ahorros: 006700663245",
+            "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
+            "referencia":"Cédula del titular de la reserva",                
+            "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+            "convenio": "",
+            "notas":""
+
+        }, 
+        {
+          "id": 4,
+          "cuenta": "Cuenta de ahorros: 006700663245",
+          "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
+          "referencia":"Cédula del titular de la reserva",                
+          "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+          "convenio": "",
+          "notas":""
+
+      }, 
+      {
+        "id": 5,
+        "cuenta": "Cuenta de ahorros: 006700663245",
+        "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
+        "referencia":"Cédula del titular de la reserva",                
+        "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+        "convenio": "",
+        "notas":""
+
+    }
+
+
+              
+
+
+        ]}

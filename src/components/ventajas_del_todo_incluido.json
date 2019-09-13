@@ -1,0 +1,32 @@
+[
+    {
+        "titulo":"¿Qué es todo incluido?",
+        "descripcion": "El Todo Incluido es una variedad de reserva hotelera por la cual el huésped puede disfrutar de todos los servicios del hotel por un precio cerrado. ",
+        "icono":"all_inclusive"
+    },
+    {
+        "titulo":"Muchos turistas eligen esta forma de viajar",
+        "descripcion": "El Todo incluido es una modalidad en auge y cada vez más clientes lo reservan para sus vacaciones porque permite disfrutar de muchos servicios sin preocuparse por los costes.",
+        "icono":"card_travel"
+    },
+    {
+        "titulo":"Controla tus gastos",
+        "descripcion":"Este tipo de viaje hará que sepas cuánto te vas a gastar. ",
+        "icono":"attach_money"
+    },
+    {
+        "titulo":"Disfruta tranquilo del hotel",
+        "descripcion":"Al saber el costo del hotel y todos sus servicios incluidos sabrás con mayor precisión cuanto te gastarás. ",
+        "icono":"local_hotel"
+    },
+    {
+        "titulo":"Evita sorpresas desagradables",
+        "descripcion":"No te llevarás sorpresas al final de viaje o peor aun cuando regreses a casa y veas tus recibos de tarjeta de crédito.",
+        "icono":"thumb_down"
+    },
+    {
+        "titulo":"Mejoras el control de tu dinero",
+        "descripcion":"Es claro que los gastos extras los podrás manejar de forma más organizada teniendo en cuenta que los gastos fuertes como lo son la acomodación, las comidas, bebidas y algo de entretenimiento ya están cubiertos por el plan que has pagado. ",
+        "icono":"equalizer"
+    }
+]

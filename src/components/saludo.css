@@ -1,0 +1,10 @@
+body {
+    height: 90vh;
+}
+
+.saludo {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

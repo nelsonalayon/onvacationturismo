@@ -1,0 +1,15 @@
+.icono-de-ventajas{
+    font-size: 3em;
+    margin: 5% 0 ;
+}
+
+.tarjeta-ventajas{
+   
+    margin: 20px;
+    width:fit-content;
+   
+}
+
+.caja-de-ventajas {
+    display: flex;
+}

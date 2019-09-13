@@ -1,0 +1,60 @@
+.opcion p {
+    position: relative;    
+    top: -76px;
+    color: white;
+    left: 15px;
+}
+
+.rectangulo {
+    position: relative;
+}
+
+.lineablanca {
+    background-color: white;
+    margin: 0;
+    position: relative;
+    top: -88px;
+}
+
+.opcion-numero {
+    position: relative;
+    top: -119px;
+    left: 26px;
+    font-size: 34px;
+    color: white;
+}
+
+.caja-opcion {
+    display: flex;
+    border: 6pt solid #b0bec5;
+    margin:20px;
+    justify-content: space-between;
+}
+
+.dibujo {
+    margin:  auto;
+}
+
+.opcion {
+    height: 50px;
+}
+
+.caja-del-dibujo{
+    padding: 22px;
+   
+}
+
+.contenido {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    margin: 5% 10%;
+}
+
+@media (max-width: 800px ) {
+
+    .caja-opcion {
+        flex-direction: column;
+    }
+}

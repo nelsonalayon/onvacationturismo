@@ -1,0 +1,18 @@
+.tarjetahotel {
+    padding: 10%;
+    max-width: 33vw;
+    margin: 5vw 10vw;
+}
+
+.puntos-positivos {
+    padding: 20vh;
+}
+
+
+@media (max-width: 600px ) {
+
+    
+    .tarjetahotel {
+        max-width: 90vw;
+    }
+}

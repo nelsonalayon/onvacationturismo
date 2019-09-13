@@ -1,0 +1,81 @@
+{
+    "Princess" :  [
+          {   "id": 0,
+              "servicio": "Restaurante",
+              "info": "Vivirás una experiencia gastronómica única visitando la amplia oferta de restaurantes temáticos que ofrece el Hotel Grand Riviera Princess. Viajarás por diferentes países sin moverte, visitando desde las famosas “Haciendas” mexicanas, pasando por la emblemática Suiza hasta la rutilante Italia, sin olvidarse de un excelente marisco y pescado, comida asiática, y para los clientes más exquisitos está el Gourmet internacional (no incluido en categoría Junior Suite). Nuestro restaurante buffet ofrece además variadas opciones al gusto de todos nuestros clientes, adultos y niños.",
+              "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+              "icono": "local_dining"
+  
+          }, {   "id": 1,
+            "servicio": "Piscina",
+            "info": "15 piscinas en el complejo, algunas con jacuzzis interiores:",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "pool"
+
+        }, {   "id": 2,
+            "servicio": "Bar",
+            "info": "14 Bares (incluyendo bares húmedos en algunas piscinas).Incluye un Sport Bar.Bebidas nacionales e internacionales.Heladería.",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "local_bar"
+
+        }, {   "id": 3,
+            "servicio": "Discoteca",
+            "info": "Discoteca AREITO: entrada y bebidas nacionales e internacionales incluidas",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "disc_full"
+
+        }, {   "id": 4,
+            "servicio": "Spa",
+            "info": "Vivirás una experiencia gastronómica única visitando la amplia oferta de restaurantes temáticos que ofrece el Hotel Grand Riviera Princess. Viajarás por diferentes países sin moverte, visitando desde las famosas “Haciendas” mexicanas, pasando por la emblemática Suiza hasta la rutilante Italia, sin olvidarse de un excelente marisco y pescado, comida asiática, y para los clientes más exquisitos está el Gourmet internacional (no incluido en categoría Junior Suite). Nuestro restaurante buffet ofrece además variadas opciones al gusto de todos nuestros clientes, adultos y niños.",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "spa"
+
+        }, {   "id": 5,
+            "servicio": "Playa",
+            "info": "Juegos acuáticos. Waterpolo. Básket acuático. Aquagym. Deportes acuáticos no motorizados (uso libre). Snorkel. Vela. Kayak. Introducción al buceo en la piscina: 1 lección por persona por estancia. Actividades acuáticas con cargo: Buceo: Aprovecha este viaje para adentrarte en el mundo del buceo en Riviera Maya. Ya sea en compañía de tus amigos, o en una aventura romántica con tu pareja, podrás sumergirte y descubrir el mundo del buceo en las aguas del Caribe. Motos de agua]: Surca los mares de la Riviera Maya a toda velocidad. Parasailing: descubre la Riviera Maya desde el aire y observa su majestuoso paisaje caribeño.",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "beach_access"
+
+        },  {   "id": 6,
+            "servicio": "Gimnasio",
+            "info": "",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "fitness_center"
+
+        },
+        
+        {   "id": 7,
+            "servicio": "Deportes",
+            "info": "6 pistas de Tenis. 2 pistas de pádel. 1 pista multiuso: básket, futbol, volleyball. Arco y flecha.",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "directions_run"
+
+        }, {   "id": 8,
+            "servicio": "Otros",
+            "info": "Todo Incluido 24 horas. Acceso a Internet Wi-Fi en las habitaciones y algunas áreas del hotel. Recepción 24 horas. Información turística. Centro Médico: doctor disponible las 24h. Sala de eventos. Tiendas.",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/porlets_interiores/public/PSunset-Riviera_Rest_Mamma%20Mia-1_1.jpg?itok=ekVdFjXq",
+            "icono": "apps"
+
+        }
+      
+      ],
+      
+      "Tukan" :  [
+          {   "id": 0,
+              "hotel": "Guajira",
+              "slogan": "Vive la cultura",
+              "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+              
+          },
+          {   "id": 1,
+              "hotel": "San Andrés",
+              "slogan": "El mar de los 7 colores",
+              "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg",
+              "descripcion" : ""
+          }   
+      
+      ]
+  
+  }
+  
+  

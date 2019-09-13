@@ -1,0 +1,108 @@
+ {
+    "Princess": [
+        
+    {
+        "id": 0,
+        "titulo":"Tiquete aéreo ida y regreso hacia Cancún",
+        "imagen": "https://st2.depositphotos.com/2251265/6318/i/950/depositphotos_63188207-stock-photo-businessman-at-airport-near-the.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 1,
+        "titulo":"traslados aeropuerto hotel aeropuerto",
+        "imagen":"https://st3.depositphotos.com/1006458/14776/i/1600/depositphotos_147765375-stock-photo-driver-greeting-his-passengers.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 3,
+        "titulo": "noches de alojamiento de acuerdo al ciclo de viaje vigente"  ,
+        "imagen":"https://st.depositphotos.com/1891797/4969/i/450/depositphotos_49691391-stock-photo-young-couple-standing-at-hotel.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 4,
+        "titulo": "desayuno , almuerzo y cena tipo buffet" ,
+        "imagen":"https://st.depositphotos.com/1003697/2570/i/950/depositphotos_25709887-stock-photo-buffet-food.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 5,
+        "titulo": "snacks pm" ,
+        "imagen":"https://st.depositphotos.com/1004288/1430/i/950/depositphotos_14305195-stock-photo-table-full-of-appetizers.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 6,
+        "titulo": "bebidas y cocteles disponibles en la carta bar ( sujeto a horarios del bar)" ,
+        "imagen":"https://st.depositphotos.com/2346379/3337/i/950/depositphotos_33376365-stock-photo-cocktails.jpg",
+        "paseo": ""
+    },
+
+    {
+        "id:": 7,
+        "titulo": "Tarjeta de asistencia médica assist card" ,
+        "imagen":"https://static3.depositphotos.com/1001992/152/i/450/depositphotos_1525631-stock-photo-successful-female-doctor.jpg",
+        "paseo": ""
+    },
+    {
+        "id:": 8,
+        "titulo": "rayecto pasando por la avenida Tulum y la plaza de toros " ,
+        "imagen":"https://cdn.mexicodestinos.com/lugares/avenida-tulum-cancun-galeria-min.jpg",
+        "paseo": "Paseo"
+    },
+    {
+        "id:": 9,
+        "titulo": "Paseo por la Zona Hotelera mostrando los puntos de interés como marinas, centros comerciales, zona de clubes y restaurantes. " ,
+        "imagen":"https://t-ec.bstatic.com/xdata/images/hotel/270x200/120231741.jpg?k=0f3ef895d8eb43e38228d661facf660843a452aad4f596f6aa34924934506d4e&o=",
+        "paseo": "Paseo"
+    },
+    {
+        "id:": 10,
+        "titulo": "Parada en el mirador para la foto tanto del balcón con vistas al mar Caribe como del letrero oficial de Cancún, " ,
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC12WfGEvYhn_SBeawiawvocLy-qTc7R7aPXc9YxfWjDK9ynfn-Q",
+        "paseo": "Paseo"
+    },
+    {
+        "id:": 11,
+        "titulo": "Parada en el Museo Maya para disfrutar la pequeña zona arqueológica y las exhibiciones en la sala del museo (entrada incluida), " ,
+        "imagen":"https://images.adsttc.com/media/images/573b/b8f2/e58e/ce11/ae00/0037/newsletter/DC_IMG_3131.jpg?1463531752",
+        "paseo": "Paseo"
+    },
+    {
+        "id:": 12,
+        "titulo": "Parada en la Tienda International Jewelry & Handicraft Center adyacente al JW Marriot" ,
+        "imagen":"https://scontent.fbog2-2.fna.fbcdn.net/v/t31.0-8/28162187_1984989045055238_3562104255455543_o.jpg?_nc_cat=104&_nc_oc=AQleyJ4VzUBQ-WzQijv7DQ1ymEd0VgVLHBxgpGQZ-YklW0u4wGYlGrwLFZfMBBC4jP4&_nc_ht=scontent.fbog2-2.fna&oh=bde42dc4c40ac62d642e00f8d03bc42b&oe=5E0B09E1",
+        "paseo": "Paseo"
+    },
+    {
+        "id:": 13,
+        "titulo": "regreso a Hoteles (de acuerdo a itinerarios este recorrido puede realizarse cualquier día de la estadía) " ,
+        "imagen":"https://www.princess-hotels.com/sites/default/files/styles/slides_hotel_2/public/PSunset_Grand%20Riviera-Lobby%20Bar-3.jpg?itok=HbVEKDdo",
+        "paseo": "Paseo"
+    }  
+        
+    ],
+    
+    "PrincessNoIncluye":[
+    {
+        "id:": 0,
+        "titulo": "Entrada a los sitios turísticos" ,
+        "imagen":"",
+        "paseo": ""
+    },
+    {
+        "id:": 1 ,
+        "titulo": "servicios, receptivos y alimentación no relacionados" ,
+        "imagen":"",
+        "paseo": ""
+    }
+]
+}
+
+
+

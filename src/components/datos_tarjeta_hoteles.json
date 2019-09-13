@@ -1,0 +1,37 @@
+{
+  "PlayaCarmen" :  [
+        {   "id": 0,
+            "hotel": "Hotel Princess",
+            "slogan": "All Suites Resort & Spa",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hoteles%20Canc%C3%BAn/Hotel%20Grand%20Princess/Slider.png?ver=2019-06-10-180650-280",
+            "descripcion": "Hotel de 5 estrellas en Riviera Maya. Resalta por su diseño elegante, amplios espacios, diversas opciones para toda la familia."
+            
+
+        },
+        {   "id": 1,
+            "hotel": "Hotel Tukan",
+            "slogan": "EN EL CORAZÓN DE PLAYA DEL CARMEN",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hoteles%20Canc%C3%BAn/Slider.png?ver=2019-06-10-124800-167",
+            "descripcion": "Excelente opción para disfrutar y descubrir la fascinante Riviera Maya, cuenta con modernas y confortables habitaciones, rodeadas de una gran vegetación. la alberca, jacuzzi, playa a una cuadra y media de distancia."
+        }   
+    
+    ],
+    
+    "Guajira" :  [
+        {   "id": 0,
+            "hotel": "Guajira",
+            "slogan": "Vive la cultura",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+            
+        },
+        {   "id": 1,
+            "hotel": "San Andrés",
+            "slogan": "El mar de los 7 colores",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg",
+            "descripcion" : ""
+        }   
+    
+    ]
+
+}
+

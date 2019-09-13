@@ -1,0 +1,24 @@
+.oiga {
+    overflow: hidden;
+    width: 120px;
+    height: 190px;    
+}
+
+.imagen-del-paseo {    
+    position: relative;
+    /* left: -55px !important; */
+    /* height: min-content !important; */
+    height: inherit;
+}
+
+
+@media (max-width: 600px ) {
+
+    
+    .oiga {
+        
+        width: inherit;
+        height: inherit;
+           
+    }
+}

@@ -1,0 +1,19 @@
+.paraponerpadding {
+    padding: 10%;
+}
+
+.paseo {
+    font-weight: bold;
+}
+
+.container-noincluye {
+    
+    border: 5px solid #eceff1;
+    margin: 2vw 10vw;
+    display: flex;
+    align-items: center;
+}
+
+.advertencia {
+    padding: 20px;
+}

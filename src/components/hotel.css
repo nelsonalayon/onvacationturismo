@@ -1,0 +1,52 @@
+.fotos-iniciales {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+}
+
+.foto-intro{
+    width:300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 1em;    
+}
+
+.imagen-inicial {
+    height: 100%;
+    position: relative;
+    left:-30px;
+}
+
+.carrusel-hoteles {
+    height: 70vh;
+}
+
+.titular-hero-hotel {
+    position: absolute;
+    font-family: 'Gloria Hallelujah', cursive; 
+    color: white;    
+    text-shadow: 3px 1px 5px rgba(150, 150, 150, 1);  
+}
+
+.titular-hero-hotel span {
+    font-family: 'Dosis', sans-serif;
+    font-size: 50%;
+}
+
+.contenedor-titulo-hotel {
+    position: relative;
+    top:15vh;
+    left:5vw;
+}
+
+.imagenes-del-hero {
+   
+    height: 100%;
+    width:auto;
+    
+}
+
+.lo-que-incluimos {
+    margin-bottom: 10%;
+}

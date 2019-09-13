@@ -1,0 +1,28 @@
+{"playaCarmen" : [
+    {   	
+        "id": 0,
+        "subtitulo": "Hotel Grand",
+        "titulo": "Rivier & Sunset Princess",
+        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-7.jpg?itok=dRIrpJOG"
+    },
+    {   	
+        "id": 1,
+        "subtitulo": "Hotel Grand Riviera Princess Maya Familias",
+        "titulo": "Romántico - todo incluido - spa - resort- eventos",
+        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PSunset-Riviera_Rest_Chill%20Out-7.jpg?itok=5PhWw3Ud"
+    },
+    {   	
+        "id": 2,
+        "subtitulo": "Vive unas vacaciones en familia",
+        "titulo": "en un exclusivo hotel en la Riviera Maya",
+        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PVillas_Grand-Sunset_Riviera-Piscina-9_0.jpg?itok=Mm7WQY-J"
+    },
+    {   	
+        "id": 3,
+        "subtitulo": "Permítase disfrutar de una forma cómoda y única",
+        "titulo": "de una fina arena y agua cristalina",
+        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-11.jpg?itok=F7e4JoF2"
+        
+    }
+]
+}
