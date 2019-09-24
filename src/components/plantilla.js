@@ -76,7 +76,7 @@ class Plantilla extends React.Component {
                     <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul id="nav-mobile" className="right hide-on-down">
                         <li><a href="sass.html">Destinos</a></li>
-                        <li><a href="badges.html">Formas de pago</a></li>
+                        <li><Link to="/pagos">Formas de pago</Link></li>
                         <li><a href="collapsible.html">Preguntas</a></li>
                         <li><a href="collapsible.html">Testimonios</a></li>
                         <li><a href="collapsible.html">Empresas</a></li>

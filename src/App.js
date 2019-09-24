@@ -63,4 +63,4 @@ handleChange = e => {
   
 }
 
-export default App;
+export default PagaYa;

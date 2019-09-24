@@ -41,6 +41,7 @@
 
 .caja-del-dibujo-banco{
     padding: 22px;
+    display: flex;
    
 }
 

@@ -1,57 +1,59 @@
 {"bancos":[
             {
-                "id": 1,
+                "id": 0,
+                "nombreBanco":"Davivienda",
                 "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",   
-                "datosCuenta" : [
-                  {"cuenta": "Cuenta de ahorros: 006700663245"},
-                  {"nombreCuenta": "Tour Vacation Hoteles Azul S.A.S"},
-                  {"referencia":"Cédula del titular de la reserva"},        
-                  {"convenio": ""},
-                  {"notas":""}
-                ]
-                           
-                
-
+                "cuenta": "Cuenta de ahorros: 006700663245",
+                "nombreCuenta": "Nombre de la cuenta: Tour Vacation Hoteles Azul S.A.S.",
+                "referencia":"Referencia de pago: Cédula del titular de la reserva",        
+                "convenio": "",
+                "notas":"" 
+                 
             }, 
             {
-              "id": 2,
-              "cuenta": "Cuenta de ahorros: 006700663245",
-              "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
-              "referencia":"Cédula del titular de la reserva",                
-              "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
-              "convenio": "",
-              "notas":""
-
+              "id": 1,
+              "nombreBanco":"Bancolombia",
+              "imagen":"https://www.dataifx.com/sites/default/files/Bancolombia_8_2.jpg",   
+              "cuenta": "Cuenta corriente: 30458524687",
+              "nombreCuenta": "Nombre de la cuenta: Tour Vacation Hoteles Azul S.A.S.",
+              "referencia":"Referencia de pago: Cédula del titular de la reserva",        
+              "convenio": "Convenio: 37643",
+              "notas":"" 
+               
           }, 
           {
-            "id": 3,
-            "cuenta": "Cuenta de ahorros: 006700663245",
-            "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
-            "referencia":"Cédula del titular de la reserva",                
-            "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
-            "convenio": "",
-            "notas":""
-
+            "id": 2,
+            "nombreBanco":"Baloto",
+            "imagen":"https://www.via.com.co/wp-content/themes/Via_Baloto/images/logo.png?rel=0.0.1",   
+            "cuenta": "",
+            "nombreCuenta": "Nombre del convenio: Tour Vacation - Banco de Occidente",
+            "referencia":"Referencia de pago: Número de la reserva",        
+            "convenio": "Convenio:  959595_4574",
+            "notas":"Nota: El valor máximo de la transacción es de $1.000.000. El convenio también queda activo para utilizar en los canales como son cajeros automáticos y páginas web del grupo AVAL. El pago que se realice queda reflejado de manera inmediata en nuestro sistema Osiris." 
+             
         }, 
         {
-          "id": 4,
+          "id": 3,
+          "nombreBanco":"Banco Agrario",
+          "imagen":"https://d31dn7nfpuwjnm.cloudfront.net/images/valoraciones/0028/9859/oficinas-y-horarios-banco-agrario.jpg?1513384850",   
           "cuenta": "Cuenta de ahorros: 006700663245",
           "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
-          "referencia":"Cédula del titular de la reserva",                
-          "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+          "referencia":"Cédula del titular de la reserva",        
           "convenio": "",
-          "notas":""
-
+          "notas":"" 
+           
       }, 
       {
-        "id": 5,
-        "cuenta": "Cuenta de ahorros: 006700663245",
-        "nombreCuenta": "Tour Vacation Hoteles Azul S.A.S",
-        "referencia":"Cédula del titular de la reserva",                
-        "imagen":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+        "id": 4,
+        "nombreBanco":"Pagos on Line",
+        "imagen":"https://pbs.twimg.com/profile_images/590211019022073856/KcLdpudB_400x400.png",   
+        "cuenta": "",
+        "nombreCuenta": "",
+        "referencia":"",        
         "convenio": "",
-        "notas":""
-
+        "notas":"", 
+        "boton":"https://pagosonline.onvacation.com"
+         
     }
 
 

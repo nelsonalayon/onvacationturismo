@@ -6,6 +6,9 @@ import imagenReservaYa from '../img/sin-billete.png'
 
 
 
+
+
+
 class OpcionDePago extends React.Component {
 
     render() {
@@ -18,8 +21,9 @@ class OpcionDePago extends React.Component {
             {this.props.datos.bancos.map(
                 (tipoDePago) => {
                     return (
+                       
 
-                        <div className = "caja-opcion-banco">
+                        <div className = "caja-opcion-banco" key= {tipoDePago.id}>
             
 
             <div className="">
@@ -33,7 +37,7 @@ class OpcionDePago extends React.Component {
                 width="80px" 
                 height="60px" 
                 viewBox="600 370 80 60" 
-                enable-background="new 600 370 80 60" 
+                enableBackground="new 600 370 80 60" 
                 >
                     <polygon 
                     fill="#B0BEC5" 
@@ -45,13 +49,28 @@ class OpcionDePago extends React.Component {
                 <hr className="lineablanca-banco"/>
                 <h3 className="opcion-numero-banco">{tipoDePago.id}</h3>
             </div>
-                <div className="caja-del-dibujo-banco">
+                <div className="caja-del-dibujo-banco" >
 
-                                <img src = {tipoDePago.imagen}/>
+                    <div>
 
+                        <img src = {tipoDePago.imagen} alt={tipoDePago.nombreBanco}/>
+                    </div>
+
+                    <div>
+                          <h5> {tipoDePago.cuenta}</h5> <br/>
+                          <h5> {tipoDePago.nombreCuenta}</h5> <br/>
+                          <h5> {tipoDePago.referencia}</h5> <br/>
+                          <h5> {tipoDePago.convenio}</h5> <br/>
+                          <h5> {tipoDePago.notas}</h5> <br/>
+                          <h5> {tipoDePago.pagos}</h5> <br/>
+                          <h5> <a href= {tipoDePago.boton} target="blank"> {tipoDePago.boton}</a></h5> <br/>
+                    </div>
+
+                    
+                </div> 
                 
-
-                </div>   
+                  
+                
                 
                 
             </div>           

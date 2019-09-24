@@ -2,18 +2,16 @@ import React from 'react'
 import 'materialize-css/dist/css/materialize.min.css'
 import Bancos from './bancos'
 import datosBancos from './bancos.json'
+import './paga-ya.css'
 
 class PagaYa extends React.Component {
     render() {
         return(
             <div>
-                <section>
-                <figure>
-                    <img src="https://cdn.pixabay.com/photo/2017/08/07/19/45/ecommerce-2607114_960_720.jpg"/>
+                <section className="encabezado-formas-de-pago">                    
 
-                    <h1>Paga ya</h1>
-                    
-                </figure>
+                         <h1>Paga ya</h1>             
+                
                 </section>
                 <section>
                     <div>
