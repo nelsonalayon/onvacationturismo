@@ -25,9 +25,14 @@ class Plantilla extends React.Component {
     componentWillMount() {
 
         document.addEventListener('DOMContentLoaded', function() {
+            var modal = document.querySelectorAll('.modal');
+            var instancesModal = M.Modal.init(modal);
+          });
+        
+         
+        document.addEventListener('DOMContentLoaded', function() {
             let elems = document.querySelectorAll('.carousel');
-            let elemsSidebar = document.querySelectorAll('.sidenav');
-            
+            let elemsSidebar = document.querySelectorAll('.sidenav');   
 
 
             
@@ -75,7 +80,8 @@ class Plantilla extends React.Component {
                     <a href="#" className="brand-logo"> <img src = {quetedetiene} alt = "que te detiene" width = "140"/> </a>
                     <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul id="nav-mobile" className="right hide-on-down">
-                        <li><a href="sass.html">Destinos</a></li>
+                        <li><Link to="/destinos">Destinos</Link></li>
+                        <li><Link to="/listaDeHoteles">hoteles</Link></li>
                         <li><Link to="/pagos">Formas de pago</Link></li>
                         <li><a href="collapsible.html">Preguntas</a></li>
                         <li><a href="collapsible.html">Testimonios</a></li>
@@ -94,12 +100,13 @@ class Plantilla extends React.Component {
                         <a href="#email"><span className="white-text email">jdandturk@gmail.com</span></a>
                         </div>
                     </li>
-                    <li><a href="sass.html">Destinos</a></li>
-                    <li><a href="badges.html">Formas de pago</a></li>
-                    <li><a href="collapsible.html">Preguntas</a></li>
-                    <li><a href="mobile.html">Testimonios</a></li>
-                    <li><a href="mobile.html">Empresas</a></li>
-                    <li><a href="mobile.html">Quinceañeras</a></li>
+                        <li><Link to="/destinos">Destinos</Link></li>
+                        <li><Link to="/listaDeHoteles">hoteles</Link></li>
+                        <li><Link to="/pagos">Formas de pago</Link></li>
+                        <li><a href="collapsible.html">Preguntas</a></li>
+                        <li><a href="collapsible.html">Testimonios</a></li>
+                        <li><a href="collapsible.html">Empresas</a></li>
+                        <li><a href="collapsible.html">Quinceañeras</a></li>
                 </ul>
 
                 <div className="redes">

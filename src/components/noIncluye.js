@@ -8,7 +8,7 @@ class NoIncluye extends React.Component {
                 <h3 className="container">No incluye</h3>
 
                 {
-                    this.props.datos.PrincessNoIncluye.map(
+                    this.props.datos.map(
                         (noIncluido) => {
                             return(
                                 <div className="container-noincluye">

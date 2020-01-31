@@ -5,9 +5,8 @@ class QueIncluye extends React.Component{
     render(){
         return(
              <ul className="collection row container">
-                 <h2>Qué incluye nuestro viaje 
-                        a Playa del Cármen</h2>
-                {this.props.datos.Princess.map(
+                
+                {this.props.datos.map(
                     (incluye) => {
                         return(
                            

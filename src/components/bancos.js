@@ -9,6 +9,7 @@ import imagenReservaYa from '../img/sin-billete.png'
 
 
 
+
 class OpcionDePago extends React.Component {
 
     render() {
@@ -51,16 +52,19 @@ class OpcionDePago extends React.Component {
             </div>
                 <div className="caja-del-dibujo-banco" >
 
-                    <div>
+                    <div className="simbolo-banco">
 
                         <img src = {tipoDePago.imagen} alt={tipoDePago.nombreBanco}/>
                     </div>
 
-                    <div>
+                    <div className="datos-banco">
+
+                        
                           <h5> {tipoDePago.cuenta}</h5> <br/>
                           <h5> {tipoDePago.nombreCuenta}</h5> <br/>
                           <h5> {tipoDePago.referencia}</h5> <br/>
                           <h5> {tipoDePago.convenio}</h5> <br/>
+
                           <h5> {tipoDePago.notas}</h5> <br/>
                           <h5> {tipoDePago.pagos}</h5> <br/>
                           <h5> <a href= {tipoDePago.boton} target="blank"> {tipoDePago.boton}</a></h5> <br/>

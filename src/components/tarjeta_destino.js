@@ -20,7 +20,7 @@ class Destino extends React.Component {
                                         <div className="card-image">
                                           <img src={tarjeta.imagen} alt= "foto"/>
                                           <span className="card-title"> <strong> {tarjeta.nombre}</strong></span>
-                                          <Link className="btn-floating halfway-fab waves-effect waves-light red" to ="/playa_del_carmen"><i className="material-icons">add</i></Link>
+                                          <Link className="btn-floating halfway-fab waves-effect waves-light red" to ={tarjeta.link}><i className="material-icons">add</i></Link>
                                         </div>
                                         <div className="card-content">
                                           <p>{tarjeta.slogan}</p>

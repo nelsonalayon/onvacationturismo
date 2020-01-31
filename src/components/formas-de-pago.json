@@ -3,21 +3,24 @@
                 "id": 1,
                 "tipodepago": "Paga ya",
                 "situacion": "Perfecto, he tomado la decisión de planear mis vacaciones y quiero abonar a mi reserva para fijar la fecha",
-                "imagen":"https://i.pinimg.com/originals/31/63/f0/3163f0843cf8b1273debc8b01a95b9fb.png"
+                "imagen":"https://i.pinimg.com/originals/31/63/f0/3163f0843cf8b1273debc8b01a95b9fb.png",
+                "vinculo":"/paga-ya"
             }, 
 
               {
                 "id": 2,
                 "tipodepago": "Reserva ya",
                 "situacion": "Perfecto, he tomado la desición de planear mis vacaciones pero no tengo en estos momentos el dinero para abonar la cuota inicial",
-                "imagen":"https://i.pinimg.com/originals/60/31/f1/6031f1bd7ff9ec5ff719d50cc449bac3.png"
+                "imagen":"https://i.pinimg.com/originals/60/31/f1/6031f1bd7ff9ec5ff719d50cc449bac3.png",
+                "vinculo":"/reserva-ya"
             }, 
 
             {
               "id": 3,
               "tipodepago": "Viaja ya",
               "situacion": "Me quiero ir de viaje, pero ya... pero pagar despues",
-              "imagen":"https://i.pinimg.com/originals/48/dd/7a/48dd7af2529883ee32dd679a573f1b86.png"
+              "imagen":"https://i.pinimg.com/originals/48/dd/7a/48dd7af2529883ee32dd679a573f1b86.png",
+              "vinculo":"/viaja-ya"
           }
           , 
 
@@ -25,7 +28,8 @@
             "id": 4,
             "tipodepago": "Viaja fácil",
             "situacion": "Quiero viajar con mi familia/amigos/pareja, pero que quedan muy altas las cuotas mensuales",
-            "imagen":"https://i.pinimg.com/originals/cc/81/59/cc8159290f36b1f78a7c3c08e7815720.png"
+            "imagen":"https://i.pinimg.com/originals/cc/81/59/cc8159290f36b1f78a7c3c08e7815720.png",
+            "vinculo":"/viaja-facil"
         }
         , 
 
@@ -33,7 +37,8 @@
           "id": 5,
           "tipodepago": "Flexiprogramada",
           "situacion": "Quisiera viajar pero no me programo con tiempo y siempre termino viajando por aca cerca o quedandome en casa",
-          "imagen":"https://i.pinimg.com/originals/f7/f5/62/f7f562e1b1b8d49ea72bb1cd9b8936eb.png"
+          "imagen":"https://i.pinimg.com/originals/f7/f5/62/f7f562e1b1b8d49ea72bb1cd9b8936eb.png",
+          "vinculo":"/flexiprogramada"
       }
 
 

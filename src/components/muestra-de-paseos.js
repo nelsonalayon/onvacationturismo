@@ -11,7 +11,7 @@ class MuestraHotel extends React.Component {
           
             <div className="row container"> 
             {
-              this.props.datos.PlayaCarmen.map(
+              this.props.datos.map(
               (tarjeta) => {
 
                           
@@ -19,11 +19,11 @@ class MuestraHotel extends React.Component {
                 if (tarjeta.id <= 2){
                   return(
                     
-                      <div className="col s12 l4 hoverable">
+                      <div className="col s12 l4 hoverable ">
                         <div className="card">
                           <div className="card-image">
                             <a href="#">
-                              <img src={tarjeta.imagen} alt={tarjeta.paseo} height="300px" width="auto"/>
+                              <img src={tarjeta.imagen} alt={tarjeta.paseo} height="200vh" width="auto"/>
                             <span className="card-title">{tarjeta.paseo}</span>
                             </a>
                             

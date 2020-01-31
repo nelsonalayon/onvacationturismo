@@ -4,6 +4,8 @@ import 'materialize-css/dist/css/materialize.min.css'
 import imagenPagaYa from '../img/tenga-mi-plata.png'
 import imagenReservaYa from '../img/sin-billete.png'
 
+import {Link} from 'react-router-dom'
+
 
 
 class OpcionDePago extends React.Component {
@@ -47,7 +49,7 @@ class OpcionDePago extends React.Component {
             </div>
                 <div className="contenido">
                      <b>{tipoDePago.situacion}</b>
-                    <a href="#" className="waves-effect waves-light btn-large red darken-1">{tipoDePago.tipodepago}</a>
+                    <Link to={tipoDePago.vinculo} className="waves-effect waves-light btn-large red darken-1">{tipoDePago.tipodepago}</Link>
                 </div>
                 
             </div>

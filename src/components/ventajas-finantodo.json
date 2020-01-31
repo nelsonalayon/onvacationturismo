@@ -1,0 +1,35 @@
+[
+            {
+                "id": 0,
+                "foto":"https://cdn.pixabay.com/photo/2016/05/05/02/40/jetty-1373173_960_720.jpg ",
+                "ventaja":"FINANTOO no cobra estudio crediticio"                 
+            }, 
+            {
+              "id": 1,
+              "foto":"https://cdn.pixabay.com/photo/2015/07/11/23/02/plane-841441_960_720.jpg",
+              "ventaja":"Bajas tasas de interés"  
+               
+          }, 
+          {
+            "id": 2,
+            "foto":"https://cdn.pixabay.com/photo/2016/07/21/18/46/surf-1533278_960_720.jpg",
+            "ventaja":"Aprobación del crédito en 24 horas"  
+        }, 
+        {
+          "id": 3,
+          "foto":"https://cdn.pixabay.com/photo/2018/03/12/20/07/maldives-3220702_960_720.jpg",
+          "ventaja":"Requisitos mínimos"  
+           
+      }, 
+      {
+        "id": 4,
+        "foto":"https://cdn.pixabay.com/photo/2017/07/28/09/34/adventure-2548133_960_720.jpg",
+        "ventaja":"Aplica así no tengas experiencia crediticia"  
+         
+    }
+
+
+              
+
+
+        ]

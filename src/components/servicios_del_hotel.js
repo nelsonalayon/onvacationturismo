@@ -6,7 +6,7 @@ class Servicios extends React.Component{
             <ul className="collapsible container">
 
                 {
-                    this.props.datos.Princess.map(
+                    this.props.datos.map(
                         (servicio) => {
                             return(
                                 <li>

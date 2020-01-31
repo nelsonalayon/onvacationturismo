@@ -1,28 +1,855 @@
-{"playaCarmen" : [
-    {   	
-        "id": 0,
-        "subtitulo": "Hotel Grand",
-        "titulo": "Rivier & Sunset Princess",
-        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-7.jpg?itok=dRIrpJOG"
-    },
-    {   	
-        "id": 1,
-        "subtitulo": "Hotel Grand Riviera Princess Maya Familias",
-        "titulo": "Romántico - todo incluido - spa - resort- eventos",
-        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PSunset-Riviera_Rest_Chill%20Out-7.jpg?itok=5PhWw3Ud"
-    },
-    {   	
-        "id": 2,
-        "subtitulo": "Vive unas vacaciones en familia",
-        "titulo": "en un exclusivo hotel en la Riviera Maya",
-        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PVillas_Grand-Sunset_Riviera-Piscina-9_0.jpg?itok=Mm7WQY-J"
-    },
-    {   	
-        "id": 3,
-        "subtitulo": "Permítase disfrutar de una forma cómoda y única",
-        "titulo": "de una fina arena y agua cristalina",
-        "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-11.jpg?itok=F7e4JoF2"
-        
-    }
-]
+{
+    "princess" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Hotel Grand",
+            "titulo": "Rivier & Sunset Princess",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-7.jpg?itok=dRIrpJOG"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel Grand Riviera Princess Maya Familias",
+            "titulo": "Romántico - todo incluido - spa - resort- eventos",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PSunset-Riviera_Rest_Chill%20Out-7.jpg?itok=5PhWw3Ud"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Vive unas vacaciones en familia",
+            "titulo": "en un exclusivo hotel en la Riviera Maya",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/PVillas_Grand-Sunset_Riviera-Piscina-9_0.jpg?itok=Mm7WQY-J"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Permítase disfrutar de una forma cómoda y única",
+            "titulo": "de una fina arena y agua cristalina",
+            "imagen": "https://www.princess-hotels.com/sites/default/files/styles/flexslider_full/public/galeria%20hotel/PSunset_Grand%20Riviera-Lobby-11.jpg?itok=F7e4JoF2"
+            
+        }
+    ],
+    "acantiladoTierra" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Hotel tipo Boutique",
+            "titulo": "Acantilado de la tierra",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Acantilado/On-Vacation-San-Andres-Hotel-Acantilado-slider.jpg?ver=2019-07-18-132322-613"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel Acantilado de la Tierra",
+            "titulo": "perfecto para las personas que les gusta desconectarse del ruido",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Acantilado/On-Vacation-San-Andres-Hotel-Acantilado-Habitacion.jpg?ver=2019-07-18-132656-060"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Disfruta de una vista increíble",
+            "titulo": "en un exclusivo hotel en San Andrés",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Acantilado/On-Vacation-San-Andres-Hotel-Acantilado-Recepcion.jpg?ver=2019-07-18-132656-327"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel Acantilado de la Tierra",
+            "titulo": "Las grandes celebridades colombianas optan por hospedarse en el Hotel Acantilado",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Acantilado/On-Vacation-San-Andres-Hotel-Acantilado-Piscina-frente-al-mar.jpg?ver=2019-07-18-132656-170"
+            
+        }
+    ],
+    "castilloMar" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Hotel Castillo del Mar Suites",
+            "titulo": "magnífica elección para los viajeros que visiten Riohacha",
+            "imagen": "https://static.wixstatic.com/media/398e3c_6fe1c24b34ce44f2acd63eedbeccbe73~mv2.jpg/v1/fill/w_976,h_650,al_c,q_90,usm_0.66_1.00_0.01/398e3c_6fe1c24b34ce44f2acd63eedbeccbe73~mv2.webp"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Mantente conectado",
+            "titulo": "habitaciones con minibar, aire acondicionado, sofá y wifi",
+            "imagen": "https://static.wixstatic.com/media/398e3c_45ccff465a354200beef5365dd715e98~mv2.jpg/v1/fill/w_976,h_650,al_c,q_90,usm_0.66_1.00_0.01/398e3c_45ccff465a354200beef5365dd715e98~mv2.webp"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Castillo del Mar Suites",
+            "titulo": "Hotel diseñado para tu descanso en Riohacha",
+            "imagen": "https://static.wixstatic.com/media/398e3c_e9fc165e78a44d3ba6ad7ea84798e3e6~mv2.jpg/v1/fill/w_976,h_650,al_c,q_90,usm_0.66_1.00_0.01/398e3c_e9fc165e78a44d3ba6ad7ea84798e3e6~mv2.webp"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Servicio al cliente",
+            "titulo": " Acceso a recepción 24 horas",
+            "imagen": "https://static.wixstatic.com/media/398e3c_54a2524602574342aa9a658e75d02f75~mv2.jpg/v1/fill/w_929,h_619,al_c,q_90,usm_0.66_1.00_0.01/398e3c_54a2524602574342aa9a658e75d02f75~mv2.webp"
+            
+        }
+    ],
+    "executivehotel" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Situado en el distrito financiero de la Ciudad de Panamá",
+            "titulo": "The Executive Hotel",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW1900/uploads/2s/cms_image/001/540/843/1540843985_5bd769d12f12d-thumb.jpg?_ga=2.122177293.780415184.1579565121-1113732414.1579110907"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "ambiente relajante y un servicio amable",
+            "titulo": "El Café Ejecutivo es uno de los destacados restaurantes en el centro de la ciudad de Panamá",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW1900/uploads/2s/cms_image/001/540/843/1540843813_5bd76925bd069-thumb.jpg?_ga=2.122177293.780415184.1579565121-1113732414.1579110907"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Servicios y Comodidades",
+            "titulo": "Gama completa de servicios y comodidades acorde a uno de los mejores hoteles de la ciudad de Panamá",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW1900/uploads/2s/cms_image/001/540/844/1540844269_5bd76aedb2975-thumb.jpg?_ga=2.21440573.780415184.1579565121-1113732414.1579110907"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "cálida y personalizada hospitalidad que ofrecemos a nuestros clientes",
+            "titulo": "tradición award-winning service",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW1900/uploads/2s/cms_image/001/540/844/1540844082_5bd76a32bb053-thumb.jpg?_ga=2.21440573.780415184.1579565121-1113732414.1579110907"
+            
+        }
+    ],
+    "hotelAmazon" : [
+        {   	
+            "id": 0,
+            "subtitulo": "On Vacation Amazon",
+            "titulo": "te acerca lo mejor de Amazonas, haciendo que tu estancia sea agradable y relajante",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-AMAZONAS-HOTEL-AMAZON.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "World Travel Awards",
+            "titulo": "Premio al mejor hotel verde en el 2017 y el 2018",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-AMAZONAS-HOTEL-AMAZON-PISCINA4.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Vive la aventura",
+            "titulo": "Habitaciones únicas e inigualables con vista al Río Amazonas",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-AMAZONAS-HOTEL-AMAZON-RECEPCION.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Desconectese de la rutina",
+            "titulo": "y conectarse con la naturaleza",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-AMAZONAS-HOTEL-AMAZON-CAMINO.jpg"
+            
+        }
+    ],
+    "hotelAmazonasReal" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Hotel Amazonas Real",
+            "titulo": "Ubicación: Leticia - Colombia",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/55149/photo/hotel-amazonas-real_15249775891.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Ambiente económico",
+            "titulo": "Además de numerosos servicios diseñados para mejorar su estancia",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/55149/photo/hotel-amazonas-real_155286448113.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Disfruta de tu estancia en Leticia",
+            "titulo": "Visita el Parque Santander y la Catedral de Nuestra Señora de La Paz",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/55149/photo/hotel-amazonas-real_15528644798.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Servicios al cliente",
+            "titulo": "Durante la estancia, disfruta de algunos de los servicios que ofrecen, como conserje",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/55149/photo/hotel-amazonas-real_155286448011.jpg"
+            
+        }
+    ],
+    "hotelBeLaSierra" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Uno de los hoteles con más tradición de la ciudad de Santa Marta",
+            "titulo": "hotelBeLaSierra",
+            "imagen": "https://synergy.booking-channel.com/api/hotels/348/medias/5"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "ubicada entre la Sierra Nevada,",
+            "titulo": "y el mar Caribe",
+            "imagen": "https://synergy.booking-channel.com/api/hotels/348/medias/32"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Vive unas vacaciones en familia",
+            "titulo": "proximidad a fantásticos restaurantes y atracciones",
+            "imagen": "https://synergy.booking-channel.com/api/hotels/348/medias/20"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel be La Sierra",
+            "titulo": "Te ayuda a disfrutar de lo mejor de Santa Marta",
+            "imagen": "https://synergy.booking-channel.com/api/hotels/348/medias/20"
+            
+        }
+    ],
+    "hotelBlueReef" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Recomendado para disfrutar con niños ya que tiene parque especial para ellos",
+            "titulo": "Hotel Blue Reef",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20blue%20reef/On-Vacation-San-Andres-Hotel-Blue-Reef-Slider.png?ver=2019-07-18-150505-290"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Ubicado en el sector de Sarie Bay",
+            "titulo": "a 10 minutos del centro de San Andrés y del aeropuerto",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20blue%20reef/On-Vacation-San-Andres-Hotel-Blue-Reef-Piscina.png?ver=2019-07-18-150806-607"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Ambiente muy familiar",
+            "titulo": "buen servicio de transporte y cerca a la playa",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20blue%20reef/ON-VACATION-SAN-ANDRES-HOTEL-BLUE-REEF-HABITACIONES-CAMAS-DOBLES.jpg?ver=2019-07-18-150806-393"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Habitaciones frescas y confortable ",
+            "titulo": "No hace falta color con una vista hermosa al mar",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20blue%20reef/ON-VACATION-SAN-ANDRES-HOTEL-BLUE-REEF-RECEPCION-SOFA.jpg?ver=2019-07-18-150806-347"
+            
+        }
+    ],
+    "HotelCaribbean" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Ideal para estar en el centro y cerca a la playa de San Andrés",
+            "titulo": "Hotel Caribbean",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-CARIBBEAN.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "restaurante, bar, piscina",
+            "titulo": "habitaciones con aire acondicionado, televisor por cable y caja de seguridad",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Caribean/ON-VACATION-SAN-ANDRES-HOTEL-CARIBBEAN-SOFAS.jpg?ver=2019-07-18-153707-173"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Ubicación estratégica",
+            "titulo": "Indicado para las personas que deseen ir de compras",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Caribean/ON-VACATION-SAN-ANDRES-HOTEL-CARIBBEAN-COMEDOR.jpg?ver=2019-07-18-153753-110"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Nuestra atención al cliente primordial",
+            "titulo": "Lugar muy recomendable para vacacionar con amigos o familiares",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Caribean/ON-VACATION-SAN-ANDRES-HOTEL-CARIBBEAN-HABITACION-TELEVISION.jpg?ver=2019-07-18-154207-137"
+            
+        }
+    ],
+    "hotelCove" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Ubicado cerca a la formación de Coral más importante del Caribe latino americano",
+            "titulo": "Hotel Blue Cove",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Cove/Banner-Cove-6-junio-2019.jpg?ver=2019-06-06-101906-217"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel Blue Cove:",
+            "titulo": "Cuenta con todos los requerimientos para realizar buceo, avistamiento de peces y nado a mar abierto",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-COVE-BUCEO.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Poder nadar y observar los peces es genal",
+            "titulo": "La vista que ofrece el bar es un espectáculo",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-COVE-ENTRADA2.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Cuenta con piscina natural",
+            "titulo": "Disfrute mucho más de esta maravillosa experiencia",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-COVE-PISCINA2.jpg"
+            
+        }
+    ],
+    "hotelCuracaoMarriot" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Complejo turístico para familias ideal en Willemstad",
+            "titulo": "Curacao Marriott Beach Resort",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/CURPB/curpb-exterior-5249-hor-clsc.jpg?downsize=1440px:*"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Queen Wilhelmina Bridge y Riffort Village",
+            "titulo": "Visita con facilidad algunas de las atracciones más populares de Willemstad",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/CURPB/curpb-resort-beach-5204-hor-clsc.jpg?downsize=1440px:*"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "El Marriott se encuentra directamente en la playa... ",
+            "titulo": "...y las olas del océano se pueden escuchar claramente en el interior",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/CURPB/curpb-balcony-5251-hor-clsc.jpg?downsize=1440px:*"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hilton Curacao te acerca lo mejor de Willemstad",
+            "titulo": "haciendo que tu estancia sea agradable y relajante",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/CURPB/curpb-lobby-5256-hor-clsc.jpg?downsize=1440px:*"
+            
+        }
+    ],
+    "hotelCurazaoBeach" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Descubre por qué tantos viajeros ven Clarion Hotel & Suites Curacao como el hotel ideal cuando visitan Willemstad",
+            "titulo": "Clarion Hotel & Suites Curacao",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/8933/893361/893361658/On-Vacation-Curacao-photos-Exterior-On-Vacation-Curacao.JPEG"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "No faltan cosas que hacer por la zona:",
+            "titulo": " explora populares museos de arte como Museo Kura Hulanda",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/9111/911136/911136082/On-Vacation-Curacao-photos-Exterior-On-Vacation-Curacao.JPEG"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Estamos seguros de que disfrutarás de tu estancia",
+            "titulo": "mientras descubres todo lo que Willemstad tiene para ofrecer",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/7205/720557/720557866/On-Vacation-Curacao-photos-Exterior-On-Vacation-Curacao.JPEG"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Clarion Hotel & Suites Curacao",
+            "titulo": " Curazao parece un pedacito de Europa",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/8927/892747/892747180/On-Vacation-Curacao-photos-Exterior.JPEG"
+            
+        }
+    ],
+    "HotelDosPlayas" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Un magnífico sitio donde alojarse durante un viaje a Cancún",
+            "titulo": "Hotel Faranda Dos Playas Cancún",
+            "imagen": "https://www.dosplayas.com/cache/ac/d6/acd64da7ab898be1a45d6c419a80974d.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel Dos Playas Beach House ",
+            "titulo": "está deseando darte la bienvenida cuando visites Cancún",
+            "imagen": "https://www.dosplayas.com/cache/aa/c5/aac5a4bd1247fe548e8f2396ffb35b9e.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "No faltan cosas que hacer por la zona:",
+            "titulo": "explora populares ruinas antiguas como El Rey Archaeological Zone o Yamil Lu'um",
+            "imagen": "https://www.dosplayas.com/cache/73/d1/73d1885e4b7ab5163e85b9c7ec2809ac.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Un lugar maravilloso, ",
+            "titulo": "con zonas verdes, con plantas, aves, iguanas",
+            "imagen": "https://www.dosplayas.com/cache/e3/d6/e3d68d0321c4bf4ca58f5273a134541d.jpg"
+            
+        }
+    ],
+    "HotelElBosque" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Recomendable para visitantes",
+            "titulo": "Balneario el bosque",
+            "imagen": "https://scontent.fbog2-2.fna.fbcdn.net/v/t31.0-8/s960x960/12304119_489630621209688_1457151974100648662_o.jpg?_nc_cat=108&_nc_ohc=mxwurgFHwNIAX-V00BF&_nc_ht=scontent.fbog2-2.fna&_nc_tp=1002&oh=0aa19df2329b4e54933132c6188c0f28&oe=5EDAD84B"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Balneario el Bosque",
+            "titulo": "De los pocos balnearios que conservan la naturaleza y un verdadero lugar de descanso y relajación",
+            "imagen": "https://scontent.fbog2-2.fna.fbcdn.net/v/t31.0-8/s960x960/12307984_489631794542904_26539821825841902_o.jpg?_nc_cat=109&_nc_ohc=cRb7Y2w6GpcAX_-04n4&_nc_ht=scontent.fbog2-2.fna&_nc_tp=1002&oh=354d9dbb471360c56617dc86fdf173e4&oe=5E8FBCA2"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Vive unas vacaciones en familia",
+            "titulo": "Quien lo vive es quien lo goza. Los invito a que se animen y la pasen deli con su familia y amigos",
+            "imagen": "https://scontent.fbog2-2.fna.fbcdn.net/v/t31.0-8/s960x960/12291667_489632181209532_288498173006892822_o.jpg?_nc_cat=109&_nc_ohc=pTXYqETu5M8AX9d9Rk9&_nc_ht=scontent.fbog2-2.fna&_nc_tp=1002&oh=6bbe234f30831dc9d2dea78de8198db5&oe=5EA1610E"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Un paraíso tropical. El mejor lugar para descansar, excelentes instalaciones y la mejor atención",
+            "titulo": "Balneario el bosque",
+            "imagen": "https://scontent.fbog2-1.fna.fbcdn.net/v/t31.0-8/s960x960/12291841_489633011209449_5845203908885391086_o.jpg?_nc_cat=102&_nc_ohc=xkKKWlkA18sAX8W1ZtF&_nc_ht=scontent.fbog2-1.fna&_nc_tp=1002&oh=73d497617bee48599446fdf9248e4bb5&oe=5E8DA862"
+            
+        }
+    ],
+    "hotelGirardotResort" : [
+        {   	
+            "id": 0,
+            "subtitulo": "barra libre del bar, todas las bebidas alcohólicas o sin alcohol son ilimitadas",
+            "titulo": "Hotel On Vacation Girardot Resort",
+            "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/slider-principal.jpg?ver=2019-06-26-133210-037"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel On Vacation Girardot Resort",
+            "titulo": "los baños de las habitaciones, son muy amplios y bonitos",
+            "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/2%20slider%20girardot.jpg?ver=2019-06-26-133209-877"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "la puntualidad en de los horarios, la comida súper,",
+            "titulo": "Buen cuidado de los árboles y los senderos peatonales",
+            "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/4%20slider%20girardot.jpg?ver=2019-06-26-133209-833"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel On Vacation Girardot Resort",
+            "titulo": "Un buen lugar para despejar tu mente y relajarte por completo",
+            "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/5%20slider%20girardot.jpg?ver=2019-06-26-133209-803"
+            
+        }
+    ],
+    "hotelHaciendaCafetera" : [
+        {   	
+            "id": 0,
+            "subtitulo": "El Ensueño del Paisaje Cultural Cafetero",
+            "titulo": "Karlaká Hotel Campestre",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-EJE-CAFETERO-HOTEL-HACIENDA-CAFETERA-KARLAKA.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Albergue para 220 personas en 63 habitaciones, divididas en tres ambientes de alojamiento ",
+            "titulo": "habitaciones, cabañas y casas en el aire",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-EJE-CAFETERO-HOTEL-HACIENDA-CAFETERA-KARLAKA-PISCINA2_1.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Karlaká Hotel Campestre",
+            "titulo": "Excelente hotel recomendado para unas vacaciones en familia",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-EJE-CAFETERO-HOTEL-HACIENDA-CAFETERA-KARLAKA-ENTRADA_1.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Actividades deportivas como mini golf, tenis, etc",
+            "titulo": "Disfrute de una bella vista de los paisajes cafeteros",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-EJE-CAFETERO-HOTEL-HACIENDA-CAFETERA-KARLAKA-HABITACIONES_1.jpg"
+            
+        }
+    ],
+    "hotelKunuku" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Hotel lujoso en Willibrordus",
+            "titulo": "Kunuku Aqua Resort",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/6316/631684/631684386/Kunuku-Aqua-Resort-photos-Exterior-Kunuku-Aqua-Resort.JPEG"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Kunuku Aqua Resort",
+            "titulo": "Ofrece el servicio de alquiler de bicicletas",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/6316/631677/631677291/Kunuku-Aqua-Resort-photos-Exterior-Kunuku-Aqua-Resort.JPEG"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Kunuku Aqua Resort",
+            "titulo": "Este complejo atrae a muchas familias de los Países Bajos",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/6316/631682/631682844/Kunuku-Aqua-Resort-photos-Exterior-Kunuku-Aqua-Resort.JPEG"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel recomendado para las familias que viajen a curaçao",
+            "titulo": "El complejo es muy relajante, tranquilo y reservado",
+            "imagen": "https://p.bookcdn.com/data/Photos/r1400x558/6413/641376/641376045/Kunuku-Aqua-Resort-photos-Exterior-Kunuku-Aqua-Resort.JPEG"
+            
+        }
+    ],
+    "hotelMadreSelvaLeticia" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Una casa congelada en el tiempo",
+            "titulo": "Hotel Madreselva Leticia",
+            "imagen": "https://static.wixstatic.com/media/b3b91a_c98854ac62134bee8b094d7cd93282a7~mv2.jpg/v1/fill/w_831,h_623,al_c,q_90,usm_0.66_1.00_0.01/b3b91a_c98854ac62134bee8b094d7cd93282a7~mv2.webp"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "un lugar en donde se mezcla lo moderno con lo tradicional",
+            "titulo": "Donde armonizan la arquitectura con la naturaleza que lo rodea",
+            "imagen": "https://static.wixstatic.com/media/b3b91a_360025e2fa07422d844260e7b63768e0~mv2.jpg/v1/fill/w_831,h_623,al_c,q_90,usm_0.66_1.00_0.01/b3b91a_360025e2fa07422d844260e7b63768e0~mv2.webp"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Hotel Madreselva Leticia",
+            "titulo": "Visitanos y disfruta de la flora y fauna endémica que nos rodea",
+            "imagen": "https://static.wixstatic.com/media/b3b91a_018ed096cb39407489cbe3e75163a3f8~mv2.jpg/v1/fill/w_977,h_623,al_c,q_90,usm_0.66_1.00_0.01/b3b91a_018ed096cb39407489cbe3e75163a3f8~mv2.webp"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel Madreselva Leticia",
+            "titulo": "Sus espacios naturales llenos de vida y sonidos naturales te recuerdan que estás en el Amazonas",
+            "imagen": "https://static.wixstatic.com/media/b3b91a_a3ad668e3bcb49b689c7646240ba0963~mv2.jpg/v1/fill/w_1121,h_623,al_c,q_90,usm_0.66_1.00_0.01/b3b91a_a3ad668e3bcb49b689c7646240ba0963~mv2.webp"
+            
+        }
+    ],
+    "hotelMagicHill" : [
+        {   	
+            "id": 0,
+            "subtitulo": "A 15 minutos en carro del centro de la ciudad",
+            "titulo": "Hotel Magic Hill",
+            "imagen": "https://www.onvacation.com/portals/1080/Hotel%20magic/Magic%20HIll%201963x818.png?ver=2019-05-15-123539-083"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Hotel Magic Hill",
+            "titulo": "Sus instalaciones rastafari  permiten que los huéspedes se sientan totalmente en el ambiente de la Isla",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20magic/On-Vacation-San-Andres-Hotel-Magic-Hill-Piscina.png?ver=2019-07-18-161104-713"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Hotel Magic Hill",
+            "titulo": "Este hotel es ideal para quedarse con amigos",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20magic/On-Vacation-San-Andres-Hotel-Magic-Hill-Sofas.png?ver=2019-07-18-161342-690"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Desde la terraza del restaurante se puede disfrutar la mejor vista de la isla",
+            "titulo": "Divise la zona comercial de San Andrés, Jhonny Kay, el acuario y los cayos",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-MAGIC-HILL-VISTA.jpg"
+            
+        }
+    ],
+    "hotelSánhnaPlus" : [
+        {   	
+            "id": 0,
+            "subtitulo": "A tan solo 420 metros de la playa",
+            "titulo": "hotel Sánhna Plus",
+            "imagen": "http://hotelsanhaplus.com/wp-content/uploads/2019/12/DJI_0035.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Disfrute de la arena blanca y el mar azul",
+            "titulo": "Excelente plan de relajación y descanso",
+            "imagen": "http://hotelsanhaplus.com/wp-content/uploads/2019/12/DSC_5979.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "A precio más que justo",
+            "titulo": "Un rincón de tranquilidad, comodidad y muy buena energía",
+            "imagen": "http://hotelsanhaplus.com/wp-content/uploads/2019/12/DSC_5546.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Permítase disfrutar de una forma cómoda y única",
+            "titulo": "Excelente transporte a diferentes sectores, como Bello Horizonte, Rodadero, mundo marino",
+            "imagen": "http://hotelsanhaplus.com/wp-content/uploads/2019/12/PRO0307.jpg"
+            
+        }
+    ],
+    "hotelSeaHorse" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Rodeado de naturaleza y con una vista espectacular hacía el Mar Caribe",
+            "titulo": "Hotel Sea Horse",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Sea%20Horse/On-Vacation-San-Andres-Hotel-Sea-Horse-Slider.png?ver=2019-07-18-172006-543"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "comodidades para un descanso",
+            "titulo": "lejos del ruido del centro de la Isla",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Sea%20Horse/On-Vacation-San-Andres-Hotel-Sea-Horse-Playa.png?ver=2019-07-18-172005-403"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Certificado en la norma técnica sectorial NTS-TS 002",
+            "titulo": "Requisitos de Sostenibilidad Establecimientos de alojamiento y Hospedaje",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Sea%20Horse/ON-VACATION-SAN-ANDRES-HOTEL-SEA-HORSE-HABITACIONES-FRENTE.jpg?ver=2019-07-18-172005-247"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Hotel Sea Horse",
+            "titulo": "Hotel Pet Friendly, ¡¡aceptamos mascotas!!",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Sea%20Horse/ON-VACATION-SAN-ANDRES-HOTEL-SEA-HORSE-PALMERAS.jpg?ver=2019-07-18-172005-230"
+            
+        }
+    ],
+    "hotelSolCaribeCampo" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Habitaciones con vistas panorámicas al mar",
+            "titulo": "hotel Sol Caribe Campo",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16229/photo/sol-caribe-campo-all-inclusive_156055323215.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "hotel Sol Caribe Campo",
+            "titulo": "Proporciona 3 piscinas y 3 restaurantes",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16229/photo/sol-caribe-campo-all-inclusive_156055323113.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Cuenta con un mostrador de información turística que ofrece diversas actividades",
+            "titulo": "como buceo alrededor del carguero hundido Blue Diamond o visitas a las tiendas libres de impuestos de North End",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16229/photo/sol-caribe-campo-all-inclusive_15605532308.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "el Sol Caribe ofrece restaurantes",
+            "titulo": "de tipo buffet y de comida italiana y cuenta con 4 bares",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16229/photo/sol-caribe-campo-all-inclusive_156055323325.jpg"
+            
+        }
+    ],
+    "hotelSolCaribeSanAndres" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Con una ubicación idílica a 1.5 millas de la playa de San Andrés",
+            "titulo": "hotel Sol Caribe San Andrés",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16228/photo/sol-caribe-san-andres-all-inclusive_15520609009.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Ofrece una pintoresca piscina al aire libre",
+            "titulo": "y una discoteca en la azotea",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16228/photo/sol-caribe-san-andres-all-inclusive_155206090110.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "hotel Sol Caribe San Andrés",
+            "titulo": "Los huéspedes del Sol Caribe Hotel pueden hacer uso del gimnasio y del centro de negocios",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16228/photo/sol-caribe-san-andres-all-inclusive_155206090117.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "El mostrador de información turística y la recepción 24 horas",
+            "titulo": "pueden organizar excursiones por los lugares de interés y deportes acuáticos",
+            "imagen": "https://static.hotel-imagenes.info/uploads/hotel/16228/photo/sol-caribe-san-andres-all-inclusive_155206090116.jpg"
+            
+        }
+    ],
+    "hotelTone" : [
+        {   	
+            "id": 0,
+            "subtitulo": "La mejor ubicación de toda la isla de San Andres",
+            "titulo": "Hotel Blue Tone",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tone/On-Vacation-San-Andres-Hotel-Tone-Slider.jpg?ver=2019-07-18-182029-140"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Su grandeza ha permitido que miles de colombianos y latinoamericanos puedan disfrutar de la mejor vista y de la playa Spratt Bight",
+            "titulo": "La mejor vista de San Andrés",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tone/On-Vacation-San-Andres-Hotel-Tone-frente-al-mar.png?ver=2019-07-18-182258-077"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "La ubicación es idónea ya que esta sobre la peatonal que es",
+            "titulo": "el lugar ideal para salir de compras",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tone/On-Vacation-San-Andres-Hotel-Tone-cuatro-camas.png?ver=2019-07-18-182258-013"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "te permite conocer la parte turística ",
+            "titulo": "sin gastar en transporte",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tone/On-Vacation-San-Andres-Hotel-Tone-Playa.png?ver=2019-07-18-182258-013"
+            
+        }
+    ],
+    "hotelTower" : [
+        {   	
+            "id": 0,
+            "subtitulo": "A 4 minutos a pié de la playa",
+            "titulo": "Hotel Tower",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tower/On-Vacation-San-Andres-Hotel-Tower-Bar.png?ver=2019-07-18-184821-700"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Las habitaciones del Hotel Tower son muy luminosas, ",
+            "titulo": "decoración de las habitaciones en colores vivos",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-SAN-ANDRES-HOTEL-TOWER-HABITACION.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Este hotel es ideal para las personas que quieren estar ubicadas en la zona centro",
+            "titulo": "para disfrutar el plan de salir de compras y tener la playa cerca",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/hoteles%20san%20andres/Hotel%20Tower/On-Vacation-San-Andres-Hotel-Tower-Piscina.jpg?ver=2019-07-18-185112-110"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "On Vacation Tower se encuentra certificado",
+            "titulo": "en Requisitos de Sostenibilidad Establecimientos de alojamiento y Hospedaje",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-w/12/a9/98/bb/vista-de-la-ciudad-y.jpg"
+            
+        }
+    ],
+    "hotelTukan" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Bienvenido a la tranquilidad y el relax en Playa del Carmen",
+            "titulo": "Hotel Tukan & Beach Club",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/02/30/a5/4c/habitacion-ejecutive.jpg"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Disfruta de la alberca, relajarse en el jacuzzi, tomar sol junto a la piscina,",
+            "titulo": "o bien dar un paseo por la playa",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/02/30/a5/47/alberca.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Te invitamos a que conozcas toda la oferta de servicios ",
+            "titulo": "que hemos diseñado para ti y tu familia",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/02/30/a5/50/restaurante-la-ceiba.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "La ubicacion es uno de los puntos mas destacables",
+            "titulo": "Ubicado sobre la 5ta avenida",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-w/0b/b0/4b/b2/bienvenidos.jpg"
+            
+        }
+    ],
+    "hotelWayira" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Ubicado sobre la playa Mayapo",
+            "titulo": "Hotel Wayira",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hotel%20Guayira/ON-VACATION-DESTINO-GUAJIRA--HOTEL-WAYIRA.jpg?ver=2019-05-09-170903-337"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "El lugar perfecto ",
+            "titulo": "para vivir el encanto de la Guajira",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-GUAJIRA-HOTEL-WAYIRA-ATARDECER.jpg"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "alimentación variada y deliciosa",
+            "titulo": "Excelente atención del personal",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESTINO-GUAJIRA--HOTEL-WAYIRA-AEREA2.jpg"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "lindas Experiencias, gente amable, muchas aventuras",
+            "titulo": "Disfrute de naturaleza pura, paisajes, cabo de la vela, palomino",
+            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESTINO-GUAJIRA--HOTEL-WAYIRA5.jpg"
+            
+        }
+    ],
+    "posadaRefugioPantu" : [
+        {   	
+            "id": 0,
+            "subtitulo": "En el Cabo de la Vela",
+            "titulo": "Posada Refugio Pantu",
+            "imagen": "https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/21728499_116192919096903_3631370639287179453_n.jpg?_nc_cat=107&_nc_ohc=ykYVodpWtH8AX8SGEt4&_nc_ht=scontent.fbog2-2.fna&oh=fbe9363205e58d1e33e44fe595f2f964&oe=5ECF7A26"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Disfruta del paisaje Guajiro",
+            "titulo": "Cerca al Pilon de Azucar y a hermosas y paradisiacas playas",
+            "imagen": "https://scontent.fbog2-3.fna.fbcdn.net/v/t1.0-9/21731131_116065482442980_5498048999230745444_n.jpg?_nc_cat=111&_nc_ohc=UMcmbE2kq5gAX9AyWl8&_nc_ht=scontent.fbog2-3.fna&oh=75305dc6ae7c8ebc3d3f9a6e703afcf7&oe=5EDC2078"
+        }
+       
+    ],
+    "reservaMadreSelvaPeru" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Viaja a amazonas y encontrarás felicidad, tranquilidad y encanto",
+            "titulo": "Reserva Madre Selva Perú",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Reserva%20Madre%20Selva/Fotos-Madre-Selva-Carrucel-02.jpg?ver=2019-07-03-165843-020"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Lindo lugar a 11 km de Leticia",
+            "titulo": "Desconéctese del mundo, sin señal de celular ni televisión este es el lugar",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Reserva%20Madre%20Selva/Fotos-Madre-Selva-Carrucel-03.jpg?ver=2019-07-03-165843-050"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Esta en medio de la vegetación.",
+            "titulo": "Se mueve uno por todo el lugar por lindos senderos de madera rodeados",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Reserva%20Madre%20Selva/Fotos-Madre-Selva-Carrucel-04.jpg?ver=2019-07-03-165843-253"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Los espacios sociales son hermosos, agradables y tranquilos",
+            "titulo": "Las habitaciones son muy cómodas y agradables",
+            "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Reserva%20Madre%20Selva/Fotos-Madre-Selva-Carrucel-05.jpg?ver=2019-07-03-165843-187"
+            
+        }
+    ],
+    "sheratonBijaoBeachResort" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Riviera Pacifica",
+            "titulo": "Sheraton Bijao Beach Resort",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/PTYBB/ptybb-exterior-6948-hor-feat.jpg?interpolation=progressive-bilinear&downsize=1180px:*"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "El Sheraton Bijao Beach Resort está... ",
+            "titulo": "...rodeado de la incomparable belleza natural de Panamá",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/PTYBB/ptybb-beach-5494-hor-feat.jpg?interpolation=progressive-bilinear&downsize=1180px:*"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "a pocos pasos de un campo de golf de nueve hoyos y de...",
+            "titulo": "...numerosas tiendas, restaurantes y opciones de vida nocturna",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/PTYBB/ptybb-swimming-pool-9604-hor-feat.jpg?interpolation=progressive-bilinear&downsize=1180px:*"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "numerosas oportunidades para la diversión o la relajación, ",
+            "titulo": "como tenis, el club infantil Kids Club, o un masaje junto a la piscina o la playa",
+            "imagen": "https://cache.marriott.com/marriottassets/marriott/PTYBB/ptybb-exterior-6950-hor-clsc.jpg?downsize=1440px:*"
+            
+        }
+    ],
+    "summit" : [
+        {   	
+            "id": 0,
+            "subtitulo": "maravilloso Club Social y Deportivo",
+            "titulo": "Summit Golf Club Panamá",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW800/uploads/2s/cms_image/001/554/291/1554291669_5ca49bd5371d6-thumb.jpg?_ga=2.176916449.570132513.1579562414-1161056091.1579562414"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "Desconéctese de la ciudad ",
+            "titulo": "y disfrute con su familia de su mejor inversión",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW800/uploads/2s/cms_image/001/554/291/1554291661_5ca49bcd854bf-thumb.jpg?_ga=2.84528093.570132513.1579562414-1161056091.1579562414"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Excelente lugar para estar en calma con la familia",
+            "titulo": "rodeado de mucha naturaleza",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW800/uploads/2s/cms_image/001/554/235/1554235016_5ca3be880db49-thumb.jpg?_ga=2.84528093.570132513.1579562414-1161056091.1579562414"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Adecuado para toda la familia",
+            "titulo": "Cuenta con dos piscina de excelente tamaño",
+            "imagen": "https://cdn.galaxy.tf/thumb/sizeW800/uploads/2s/cms_image/001/554/291/1554291355_5ca49a9b98a2e-thumb.jpg?_ga=2.176916449.570132513.1579562414-1161056091.1579562414"
+            
+        }
+    ],
+    "hotelPlayaBlanca" : [
+        {   	
+            "id": 0,
+            "subtitulo": "Disfruta de lo mejor de Panamá en nuestro resort todo incluido",
+            "titulo": "Playa Blanca Beach Resort Panamá",
+            "imagen": "http://www.playablancaresort.com/d/playablanca/media/Accommodations/__thumbs_1600_430_crop/Deluxe_King_1_f70e0e.jpg?1471351236"
+        },
+        {   	
+            "id": 1,
+            "subtitulo": "nuestro resort de playa Todo Incluido le da la bienvenida ",
+            "titulo": "con un alojamiento contemporáneo, que captura la esencia del lujo tropical",
+            "imagen": "http://www.playablancaresort.com/d/playablanca/media/galeria/exterior/__thumbs_1600_1024_crop/RECEPCION_c06cbf.jpg?1481977123"
+        },
+        {   	
+            "id": 2,
+            "subtitulo": "Con vistas panorámicas del océano",
+            "titulo": "o la piscina de agua salada más grande de Centroamérica y El Caribe",
+            "imagen": "http://www.playablancaresort.com/d/playablanca/media/galeria/exterior/__thumbs_1600_1024_crop/PISCINA-2.jpg?1481977108"
+        },
+        {   	
+            "id": 3,
+            "subtitulo": "Siente la brisa del mar ",
+            "titulo": "escucha el sonido de las olas desde que entras a tu habitación",
+            "imagen": "http://www.playablancaresort.com/d/playablanca/media/galeria/exterior/__thumbs_1600_1024_crop/PISCINA-2.jpg?1481977108"
+            
+        }
+    ]
+    
 }

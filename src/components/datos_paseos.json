@@ -2,122 +2,2193 @@
   "PlayaCarmen" :  [
         {   "id": 0,
             "paseo": "Chichen Itza",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Templo_de_Kukulc%C3%A1n.jpg",
-            "descripcion": "Sitio arqueológico declarado patrimonio de la humanidad por la unesco"
+            "imagen": "https://cdn.getyourguide.com/img/tour_img-1191968-146.jpg",
+            "descripcion": "Sitio arqueológico declarado patrimonio de la humanidad por la unesco",
+            "link": "./chichen_itza",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                "Chichén Itzá es uno de los principales sitios arqueológicos de la Península de Yucatán",
+                "Ubicado en el municipio de Tinum, en el Estado de Yucatán",
+                "Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico",
+                "Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya",
+                "Requerimientos: Llevar repelente de insectos , Protección solar, Lentes oscuros , Zapatos cómodos , Traje de baño y toalla Cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Efectivo para gastos personales, souvenirs y las bebidas en el restaurante ",
+                "Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                "No incluido: Propinas ,fotografías , Souvenirs Bebidas durante la comida",
+                "No recomendada para personas con problemas para caminar, niños a partir de los 12 años pagan tarifa de Adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado"
+            
+            ]
+
+        },         
+        
+        {   "id": 1,
+            "paseo": "Catamarán Isla Mujeres",
+            "imagen": "https://www.visitmexico.com/viajemospormexico/assets/uploads/actividades/actividades-principales_quintana-roo_isla-mujeres_descubre-el-museo-subacuatico-de-arte-de-cancun_01.jpg",
+            "descripcion": "Sus aguas tibias y transparentes son el hogar perfecto para delfines y tortugas",
+            "link": "./IslaMujeres",
+            "subtitulo": "No pierdas la oportunidad de pasar un maravilloso día navegando por el Mar Caribe e Isla Mujeres en nuestro catamarán",
+            "intro":"Disfruta el sol y la brisa en el arrecife en donde tendrás la oportunidad de hacer snorkel y admirar cientos de peces de colores",
+            "video":"https://www.youtube.com/embed/iZFEsWPpuP8",
+            "enlaceExt": "https://www.visitmexico.com/es/destinos-principales/quintana-roo/isla-mujeres",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Bebidas con barra Libre",
+                "Equipo de esnórquel",
+                "Alimentos y bebidas buffet"
+            ],
+            "tips": [
+               "Después te llevaremos a un club de playa privado en donde disfrutarán de un almuerzo buffet y relajación",
+               "También tendrán una visita a Isla Mujeres",
+               "Disfruta de tiempo libre para caminar en las calles y decidir si quieres ir de shopping",
+               "Finalmente navegaremos de regreso a Cancún mientras nuestro asombroso staff crea un gran ambiente",
+               "Duración: 11 Horas",
+               "No incluye: Derecho de muellaje y arrecife U$ 14 por persona, Souvenirs y Propinas",
+               "Recomendaciones: Llevar toalla, bloqueador biodegradable, cambio extra de ropa, traje de baño y dinero extra para comprar souvenirs",
+               "Restricciones: No recomendado para mujeres embarazadas, personas con problemas respiratorios y/o cardiacos"
+            
+            ]
+
+        },
+        {   "id": 2,
+            "paseo": "Jungle Tour",
+            "imagen": "https://cdn.mexicodestinos.com/tours/jungle-tour-cancun-canales-laguna-min.jpg",
+            "descripcion": "excitante tour donde podrás conducir tu propia lancha rápida para dos personas",
+            "link": "./JungleTour",
+            "subtitulo": "Tienes que vivir esta emocionante experiencia:",
+            "intro":"El Jungle Tour Elite, una de las actividades más famosas de Cancún en donde tendrás la oportunidad de manejar una embarcación rápida en la laguna Nichupté a través de los manglares observando fauna y flora exótica",
+            "video":"https://www.youtube.com/embed/DAiMlvAVWkU",
+            "enlaceExt": "https://jungletourcancun.com/tour_details.html",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Embarcación rapida Elite para 2, 3 ó 4 personas",
+                "Agua",
+                "Equipo de snorkel completo",
+                "Guías profesionales"
+            ],
+            "tips": [
+                "En este tour también disfrutara de realizar el snorkel en la segunda barrera de arrecife más grande del mundo localizada en el Caribe Mexicano en Punta Nizuc ",
+                "Duración: 2 1/4 Horas",
+                "No incluye: Bebidas alcoholicas, Entrada al parque marino. Impuesto al muelle ($13 USD)",
+                "Recomendaciones: Traer traje de baño, toalla, ropa casual y protector solar biodegradable",
+                "Restricciones: Los huéspedes deberán tener al menos 18 años para conducir la embarcación supervisados por un adulto Las mujeres embarazadas no podrán tomar la actividad bajo ninguna circunstancia"
+            
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Xcaret",
+            "imagen": "https://www.xcaret.com/img/paquetes/xcaret-1.jpg",
+            "descripcion": "visita uno de los lugares turísticos de México con mayor reconocimiento a nivel mundial. Redescubre tu amor por la cultura mexicana en Xcaret.",
+            "link": "./Xcaret",
+            "subtitulo": "Xcaret es un parque natural con más de 40 atractivos para todas las edades",
+            "intro":"Aquí puedes nadar en ríos subterráneos, pasear por senderos en medio de la jungla y recorrer cuevas misteriosas",
+            "video":"https://www.youtube.com/embed/d-fT8cwQq2g",
+            "enlaceExt": "https://www.xcaret.com/es/comprar-mi-entrada/?gclid=Cj0KCQiAsbrxBRDpARIsAAnnz_N6pg8Gy4NeG7gVShy4HsljI2WAB-K_Ps4oZ1Y_oVSU-Vk1cl0n794aAtJhEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Trasportación ida y regreso desde el hotel o punto de reunión al parque",
+                "Uso de las instalaciones del área plus",
+                "Una comida buffet que incluye una cerveza y bebidas ilimitadas (refrescos, aguas frescas y café) durante tu comida en el restaurante",
+                "Acceso a la playa, la caleta y piscinas naturales",
+                "Recorridos en tres ríos subterráneos (incluye bolsa de seguridad durante el recorrido)",
+                "Espectáculos y exhibiciones (Charrería, Voladores de Papantla y Danzas Prehispánicas)",
+                "La nueva presentación de “Xcaret México Espectacular”",
+                "Visitas al Acuario de Arrecife Coral, el Mariposario y el Aviario",
+                "Chalecos salvavidas y llantas flotantes",
+                "Camastros, hamacas y áreas de descanso",
+                "Sanitarios, vestidores y regaderas",
+                "Uso de equipo de snorkel (requiere un depósito reembolsable de $25 USD)",
+                "Estacionamiento gratuito",
+                "Otros servicios (WiFi, cajeros automáticos y tiendas)"
+            ],
+            "tips": [
+               "Perfecto para ir con toda la familia",
+               "Aquí puedes nadar en ríos subterráneos, pasear por senderos en medio de la jungla y recorrer cuevas misteriosas",
+               "Descubre nuevos colores en el Mariposario y los misterios del fondo marino en el Acuario de Arrecife de Coral",
+               "Admira de cerca venados, jaguares, flamencos y aves exóticas, en Xcaret México hay diversos atractivos para visitar, como los vestigios mayas, el Museo de Arte Popular Mexicano, una clásica hacienda henequenera y la capilla de Guadalupe, además disfruta de la cultura mexicana con las danzas prehispánicas, la charrería y la magnífica presentación de Xcaret México Espectacular, con más de 300 artistas en escena",
+               "En Xcaret Riviera Maya hay una amplia variedad de restaurantes para elegir",
+               "Para tu mayor comodidad, tenemos áreas de descanso, vestidores, duchas y sanitarios, ubicados en distintas áreas del parque",
+               "¡Ven a Xcaret y vive con tu familia la experiencia más inolvidable de sus vacaciones!",
+               "Duración: 13 Horas",
+               "No incluye: Actividades Opcionales y Lockers ($10 USD)",
+               "Recomendaciones: Usar ropa cómoda de playa, traer una muda de ropa extra y traje de baño, si el Tour es con transportación, confirma la hora y el lugar de salida, lleva efectivo o tarjeta para comprar souvenirs, realizar alguna actividad opcional o adquirir las fotos de tu visita",
+               "Los niños deben indispensable presentar identificación en las taquillas del Parque",
+               "Para no afectar el balance natural del ecosistema, en el Parque solo está permitido el uso de bloqueadores y bronceadores que contengan óxido de titanio y óxido de zinc",
+               "En caso de no cumplir con este requisito, a la entrada del Parque encontrarás un módulo de información donde podrás intercambiar tu bloqueador por una muestra libre de químicos",
+               "Tu bloqueador te será devuelto a la salida"
+            ]
+
+        },        
+        {   "id": 4,
+            "paseo": "Tulum - Xelha",
+            "imagen": "https://es.xelha.com/img/entradas/tour-xelha-tulum-4.jpg",
+            "descripcion": "La combinación perfecta entre una Maravilla natural y la cultura maya",
+            "link": "./TulumXelha",
+            "subtitulo": "El tour Tulum - Xel-Há te ofrece un paseo único diseñado especialmente para ti, que deseas conocer más de la cultura maya pero sin alejarte de la playa",
+            "intro":"En Tulum visita los únicos vestigios mayas construidos frente al mar, con un recorrido guiado a través de sus edificaciones enmarcadas por el Caribe",
+            "video":"https://www.youtube.com/embed/tFv5tgTUUXU",
+            "enlaceExt": "https://www.mycancuntours.com.mx/tulum-xelhatour/informacion?gclid=Cj0KCQiAsbrxBRDpARIsAAnnz_OFTLxMszo1T1-5Zb-6Hf9fGAkWHHD-DNGi0_Xk4-jDTXeeI9Aawj8aAgc4EALw_wcB",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Trasportación ida y regreso hotel o punto de reunión al parque",
+                "Desayuno Continental de 9:30 a.m. a 11:30 a.m.",
+                "Comida buffet a partir de las 11:30 a.m. hasta las 5:30 p.m.",
+                "Bebidas sin alcohol ilimitadas y barra libre doméstica.",
+                "Snorkel ilimitado en el río y la caleta.",
+                "Paseos por senderos de la selva.",
+                "El Meliponario y el Vivero.",
+                "El Mundo de los Niños.",
+                "Áreas de descanso con hamacas y camastros.",
+                "Chalecos salvavidas, llantas flotantes y bicicletas.",
+                "Uso del equipo de snorkel con tubo de regalo.",
+                "Uso de casilleros, vestidores y una toalla.",
+                "Sanitarios y regaderas.",
+                "Estacionamiento gratuito.",
+                "Otros servicios (WiFi, cajeros automáticos y tiendas con costo adicional)"
+
+            ],
+            "tips": [
+               "Con el tour Xel-Há come, bebe y esnórquelea todo lo que quieras",
+               "Diviértete con las variadas actividades acuáticas o simplemente, relájate en una hamaca frente al paisaje de esta maravilla natural",
+               "¡Tulum y Xel-Há, el tour perfecto para disfrutar del sol, el mar y la sorprendente cultura maya!",
+               "Duración: 13 Horas",
+               "No incluye: Actividades opcionales",
+               "Recomendaciones: Usar ropa cómoda de playa, traer una muda de ropa extra y traje de baño, si el tour es con transportación, confirma la hora y el lugar de salida, lleva efectivo o tarjeta para comprar souvenirs, realizar alguna actividad opcional o adquirir las fotos de tu visita.",
+               "Es indispensable presentar identificación en las taquillas del Parque",
+               "Para no afectar el balance natural del ecosistema, en el Parque solo está permitido el uso de bloqueadores y bronceadores que contengan óxido de titanio y óxido de zinc.",
+               "En caso de no cumplir con este requisito, a la entrada del Parque encontrarás un módulo de información donde podrás intercambiar tú bloqueador por una muestra libre de químicos. Tu bloqueador te será devuelto a la salida"
+            
+            ]
+
+        },
+        {   "id": 5,
+            "paseo": "Xoximilco",
+            "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xoximilco/mobile/xoximilco2.jpg",
+            "descripcion": "Las fiestas mexicanas son las mejores, y sobre el agua, en Cancún, ¡mejor!",
+            "link": "./Xoximilco",
+            "subtitulo": "El Tour Xoximilco es una magnífica opción para hacer nuevos amigos, festejar un acontecimiento importante, o simplemente ser parte de esta tradición del México de la época de oro",
+            "intro":"Disfruta de un recorrido por canal es abordo de una trajinera. Baila y canta con la música tradicional en vivo",
+            "video":"www.youtube.com/embed/PKj4AbUOIL0",
+            "enlaceExt": "https://www.xoximilco.com/es/entrada-xoximilco/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Trasportación ida y regreso hotel o punto de reunión al parque",
+                "Recorrido nocturno en trajinera a través de canales",
+                "Cena degustación de tres tiempos",
+                "Barra libre de tequila, cerveza, aguas frescas y refrescos",
+                "Música típica en vivo (mariachi, grupo bolero, grupo jarocho y marimba)"
+            ],
+            "tips": [
+               "Disfruta deliciosas degustaciones de la gastronomía mexicana y brinda con el clásico tequila, los martes y viernes",
+               "¡Goza de la vida nocturna de Cancún al estilo mexicano y reserva ahora!",
+               "Duración: 6 Horas",
+               "No incluye: Actividades opcionales",
+               "Recomendaciones: Usa ropa y zapatos cómodos, de preferencia pantalón largo",
+               "Reserva con anticipación para asegurar tu entrada",
+               "Lleva efectivo o tarjeta para comprar souvenirs o adquirir las fotos de tu visita",
+               "Trae repelente de insectos libre de Benzofenona, Etilhexila, Homosalato, Octil Metoxicinamato,Octil Salicilato, Octinoxato, Oxibenzona, Butil Metoxidibenzoilmetano",
+               "Niños menores de 12 años deben mostrar una identificación válida",
+               "Restricciones: Las trajineras tienen una capacidad máxima de 20 pasajeros"            
+            ]
+
+        }, 
+        {   "id": 6,
+            "paseo": "Coba-tulum-cenote & Playa del Carmen",
+            "imagen": "https://www.rosatoursmexico.com/galeriart2-en/DETALLE%20USA%20Tulum-Coba-Cenote-Playa%20del%20Carmen-Chichen%20Itza%20e%20Isla%20Mujeres.jpg",
+            "descripcion": "Zona arqueológica de Tulum, Zona arqueológica de Coba y Entrada y tiempo libre a Cenote",
+            "link": "./CobaTulumCenotePlayaCarmen",
+            "subtitulo": "Con cálidas noches estrelladas y aguas claras de color turquesa",
+            "intro":"se encuentra en la única zona arqueológica que se asienta en la orilla del mar.",
+            "video":"https://www.youtube.com/embed/3FEFJ4Z9nxk",
+            "enlaceExt": "https://www.expedia.com/things-to-do/4-in-1-tour-tulum-cenote-gloria-coba-playa-del-carmen.a756984.activity-details?semcid=US.MULTILOBLX.GOOGLE.AT-c-EN.LX&semdtl=a11345517908.b178728843484.r1.g1dsa-802368727822.i183256827341.d1377689229456.e1c.j11003659.k120717.f11t1.n1.l1g.h1b.m1&gclid=Cj0KCQiAsbrxBRDpARIsAAnnz_MGT33K7Stki5ApozjsbXslcl36hlnilvzC_usIlcJajngFt6wgSk8aApgfEALw_wcB",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Bueno",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+               "Transportación",
+               "Comida tipo buffet sin bebidas",
+               "Guía profesional",
+               "Entrada a la zona arqueológica",
+               "Entrada y nado en Cenote"
+            ],
+            "tips": [
+                "Tulum: Uno de los sitios imprescindibles en Tulum son sus ruinas mayas, situadas sobre un acantilado frente al Mar Caribe",
+                "Es el sitio más fotogénico de la región y, quizá, del país entero",
+                "Coba: Floreció en el periodo Clásico cuando llego a dominar una amplia región",
+                "Entre el 200 y 800 d.C. Cobá fue una de las mayores metrópolis del mundo maya, hasta que su gran rival, ChichénItzá, extendió su dominio",
+                "Cenote Tankach-Ha: Su nombre significa aguas 'profundas' y allí podrás admirar las aguas cristalinas que dejan al descubierto sus cavernas subacuáticas y la inmensidad de su profundidad que te retará a conquistarla",
+                "Playa del Carmen: Pensar en Playa del Carmen, sin duda, es pensar en su emblemática 5a. Avenida",
+                "Sus colores, sus calles, sus comercios y la multitud de gente que recorre a pie este tramo es una de las experiencias más entretenidas que podrás tener en este destino",
+                "Duración: 12 Horas",
+                "No incluye: Bebidas, fotografías, souvenirs, propinas",
+                "Recomendaciones: Llevar repelente, protección solar, lentes y sombrero, zapatos cómodos, traje de baño y toalla, una muda extra de ropa, cámara, efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                "Restricciones: No recomendada para personas con problemas para caminar"
+            
+            ]
+
+        },
+        {   "id": 7,
+            "paseo": "Coco Bongo",
+            "imagen": "https://cdn1.cocobongo.com/site/images-gallery/large/coco-bongo-show-telas.jpg",
+            "descripcion": "Prepárate para ser sorprendido con acróbatas voladores, impactantes tributos musicales y la continua atmósfera de fiesta que nos ha hecho mundialmente famosos",
+            "link": "./CocoBongo",
+            "subtitulo": "Ubicado justo en el corazón de la Zona Hotelera",
+            "intro":"Coco Bongo Cancún destaca entre decenas de bares y discotecas que forman la capital de la fiesta en México",
+            "video":"https://www.youtube.com/embed/V_wrRVQyIrM",
+            "enlaceExt": "https://www.cocobongo.com/locations/cancun/?lang=es",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Fila preferencial de entrada Show",
+                "Bebidas nacionales ilimitadas de 22:30 a 03:30"
+            ],
+            "tips": [
+                "A tan sólo una calle del majestuoso mar caribe, emerge un coloso espectacular indicando a los viajeros la llegada a la noche más impactante de sus vidas",
+                "Prepárate para ser sorprendido con acróbatas voladores, impactantes tributos musicales y la continua atmósfera de fiesta que nos ha hecho mundialmente famosos",
+                "No incluye: Transportación, alimentos, souvenirs",
+                "Recomendación: No llevar objetos de valor no necesarios",
+                "Son permitidas las cámaras digitales pequeñas, incluyendo los tipos Handycamy GoPro, siempre y cuando no porten lentes de largo alcance ni otros aditamentos",
+                "Restricciones: Solo mayores de 18 años de edad"
+            
+            ]
+
+        },
+        {   "id": 8,
+            "paseo": "Capitan Hook",
+            "imagen": "https://i2.wp.com/www.capitanhook.com/blog/wp-content/uploads/2016/12/imagen-canvas-afuera.png?fit=2065%2C1079&ssl=1",
+            "descripcion": "Navega en el Galeón I, El Bucanero II o La Perla Negra, auténticas réplicas de Galeones Españoles del siglo XVIII . Construidos en España",
+            "link": "./CapitanHook",
+            "subtitulo": "Se parte de nuestra cena show pirata a bordo de los Galeones del Capitán Hook, el disparo de los cañones anuncian nuestra zarpada",
+            "intro":"Durante su cena El Capitán los entretiene con historias de las épicas batallas piratas haciéndolo sentir parte de esta emocionante aventura, mientras el barco enemigo se acerca envuelto en la oscuridad total, el Capitán descubre el barco enemigo y ordena a su tripulación que tomen posición para la batalla, los cañones son disparados y los piratas armados con espadas y pistolas saltan de un barco a otro donde una pelea comienza entre nuestra tripulación y el enemigo",
+            "video":"https://www.youtube.com/embed/8Lv0aXBdq3w",
+            "enlaceExt": "https://www.capitanhook.com/esp/nosotros.php",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Cena de acuerdo a la elección: Capitan Hook langosta, Capitan Hook mar y tierra, Capitan Hook corte New York, Capitan Hook pollo",
+                "Paseo en el barco",
+                "Barra Libre Nacional ilimitada"
+            ],
+            "tips": [
+               "El Capitán, su anfitrión les presentará a su tripulación y relatará las aventuras de sus viajes",
+               "La diversión comienza con concursos, bailes y un show pirata lleno de entretenimiento para toda la familia",
+               "Duración: 3:30 horas",
+               "No incluye: Propinas Cargo de Servicio Portuario 14 USD por adulto y 5 USD para menores de 6 a 12 años",
+               "Recomendaciones: Llevar ropa comoda",
+               "No Incluye: trasportación"
+            
+            ]
+
+        },
+        {   "id": 9,
+            "paseo": "Columbus",
+            "imagen": "https://d3tf9yuhsp2bpn.cloudfront.net/Columbus_1.jpg",
+            "descripcion": "disfruta la experiencia indescriptible de navegar en el Galeón Español Columbus, que encenderá tu corazón para darte un lazo más profundo con aquella persona que tanto amas",
+            "link": "./Columbus",
+            "subtitulo": "No hay nada tan romántico como navegar las aguas mientras tienes una cena romántica bajo la luz de la luna y escuchas el saxofón con tu pareja",
+            "intro":"Navega con nosotros y admira la belleza de Cancún mientras disfrutas de una cena magnifica acompañada de música Jazz tocada por nuestros músicos talentosos y para completar barra libre a lo largo del viaje",
+            "video":"https://www.youtube.com/embed/jwjjlbNzwPY",
+            "enlaceExt": "https://www.columbuscancun.com.mx/es/noche",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Cena de tres tiempos de acuerdo a la elección: Columbus carne o vegetales, Columbus Lobsterdinner (aplica solo pareja), Columbus langosta",
+                "Paseo sobre la laguna",
+                "Música de saxofón en vivo",
+                "Barra libre nacional"
+            ],
+            "tips": [
+               "No hay nada tan romántico como navegar las aguas mientras tienes una cena romántica bajo la luz de la luna y escuchas el saxofón con tu pareja",
+               "Edad mínima de 14 años",
+               "No incluido: Muellaje 14.00 USD por persona (aproximadamente)",
+               "Fotos 20 USD por persona Opcional",
+               "Transportación 15 USD por persona Opcional",
+               "Recomendaciones: Llegar con media hora de anticipación al servicio",
+               "Cena vegetariana con previa reservación",
+               "Informar ocasiones especiales al hacer la reservación"
+            ]
+
+        }             
+    
+    ],
+    "Guajira" :  [
+        {   "id": 0,
+            "paseo": "Palomino",
+            "imagen": "http://chipviajero.com/wp-content/uploads/2017/08/Como-Llegar-A-Palomino-La-Guajira-Blog-Chip-Viajero-5.jpg",
+            "descripcion": "Playas de Palomino, entre las mejores de América del Sur",
+            "link": "./Palomino",
+            "subtitulo": "Es una ruta hacia el sur con salida 7:15 am",
+            "intro":"en la que conoceremos el sur de la guajira comenzando con una caminata de 25 minutos que va por la parte baja de la sierra nevada",
+            "video":"https://www.youtube.com/embed/MEkr6LuEk94",
+            "enlaceExt": "https://es.wikipedia.org/wiki/Palomino_(La_Guajira)",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+               "Traslado",
+               "Almuerzo en Palomino"
+            ],
+            "tips": [
+               "Descenso por el río palomino en neumáticos hasta llegar a la desembocadura, en este punto disfrutamos de la unión del rio con el mar"
+            
+            ]
+
+        },
+        {   "id": 1,
+            "paseo": "Cabo de la Vela",
+            "imagen": "https://magictourcolombia.com/wp-content/uploads/2018/01/1-1140x530.jpg",
+            "descripcion": "Una aventura, el Cabo de la Vela en la Guajira",
+            "link": "./CaboVela",
+            "subtitulo": "Una aventura, el Cabo de la Vela en la Guajira",
+            "intro":"Salida 7 am en un recorrido hacia el norte de la guajira que nos lleva a Manaure como primer punto",
+            "video":"https://www.youtube.com/embed/yD2sUjPEmiY",
+            "enlaceExt": "https://colombia.travel/es/riohacha/conoce-el-cabo-de-la-vela",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Bueno",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado",
+                "Almuerzo"                
+            ],
+            "tips": [
+               "Luego conocemos el desierto de carrizal antes de entrar al cabo de la vela donde tenemos el almuerzo, para después desplazarnos hacia el pilón de azúcar, el cerro kamachi y playa arcoíris",
+               "En el regreso pasamos por Uribía la capital indígena de Colombia"
+            
+            ]
+
+        }, 
+        {   "id": 2,
+            "paseo": "Gusano y super mable",
+            "imagen": "http://www.colman.com.co/sites/default/files/10952250_1548859942058750_957750565198994940_n_1.jpg",
+            "descripcion": "Diviertete en nuestro gusano en las hermosas playas de la Guajira",
+            "link": "./GusanoSuperMable",
+            "subtitulo": "Diviertete en nuestro gusano en las hermosas playas de la Guajira",
+            "intro":"Actividades náuticas para romper las olas y disfrutar de la actividades en el mar",
+            "video":"https://www.youtube.com/embed/oD2uECZB0-c",
+            "enlaceExt": "https://www.tripadvisor.co/Hotel_Review-g4446049-d15181021-Reviews-Hotel_On_Vacation_Wayira-Manaure_La_Guajira_Department.html",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Alquier del infable"
+                
+            ],
+            "tips": [              
+            
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Maicao",
+            "imagen": "https://static.iris.net.co/semana/upload/images/2018/2/10/556809_1.jpg",
+            "descripcion": "La Vitrina Comercial de Colombia",
+            "link": "./Maicao",
+            "subtitulo": "La Vitrina Comercial de Colombia",
+            "intro":"Tour de medio día en el que se conoce la zona de compras de Maicao y la mezquita islámica",
+            "video":"https://www.youtube.com/embed/znSIQIvzEy0",
+            "enlaceExt": "https://es.wikipedia.org/wiki/Maicao",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Traslado"                
+            ],
+            "tips": [
+                "Salida: 8 am",
+                "No incluye ningún tipo de alimentación"
+            
+            ]
+
+        },
+        {   "id": 4,
+            "paseo": "Cabalgata",
+            "imagen": "https://images.freeimages.com/images/large-previews/46e/horse-riding-on-the-beach-1370785.jpg",
+            "descripcion": "cabalgata a orilla del mar",
+            "link": "./Cabalgata",
+            "subtitulo": "cabalgata a orilla del mar",
+            "intro":"Imagina recorrer 1 hora por el borde del mar en una cabalgata dirigida disfrutando del paisaje junto con tus seres queridos",
+            "video":"https://www.youtube.com/embed/9p3pAxpzY40",
+            "enlaceExt": "https://www.tripadvisor.co/ShowUserReviews-g4446049-d15181021-r646989407-Hotel_On_Vacation_Wayira-Manaure_La_Guajira_Department.html",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+               "Guia para hacer el recorrido"
+            ],
+            "tips": [
+                "Recomendable para personas mayores de 12 años",
+                "No incluye: Ningún tipo de alimentación"
+            ]
+
+        }     
+    
+    ],
+
+    "SanAndres" :  [
+        {   "id": 0,
+            "paseo": "Acuario",
+            "imagen": "https://cdn.civitatis.com/colombia/san-andres/galeria/acuario-san-andres.jpg",
+            "descripcion": "admira la gran variedad de peces que allí habitan",
+            "link": "./Acuario",
+            "subtitulo": "Cinco minutos de recorrido en lancha a Cayo Acuario",
+            "intro":"Donde podrás tomar un baño relajante disfrutando de las hermosas aguas que rodean la isla",
+            "video":"https://www.youtube.com/embed/sfLrEE6iJbs",
+            "enlaceExt": "https://www.tripadvisor.co/Attraction_Review-g297482-d10365864-Reviews-Cayo_El_Acuario-San_Andres_Island_San_Andres_and_Providencia_Department.html",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte lancha hacia cayo Acuario",
+                "Los pasajeros deben llegar al punto de encuentro indicado"
+               
+            ],
+            "tips": [
+                "También podrás admirar la gran variedad de peces que allí habitan utilizando snorkel",
+                "No incluye: Transporte terrestre ida y regreso hacia el sitio de encuentro, alimentación, bebidas. alquiler de snorkel"
+            
+            ]
+
+        },
+        {   "id": 1,
+            "paseo": "Buceo Fun Dive 2da Inmersión",
+            "imagen": "https://gtopik.com/wp-content/uploads/2015/06/IMG-20150615-WA0002.jpg",
+            "descripcion": "Si te gusto la experiencia del buceo inicial puedes acceder a una nueva inmersión ",
+            "link": "./BuceoFunDive2daInmersion",
+            "subtitulo": "Si te gusto la experiencia del buceo inicial...",
+            "intro":"puedes acceder a una nueva inmersión sin realizar todo el proceso",
+            "video":"https://www.youtube.com/embed/f5WYqROgKFE",
+            "enlaceExt": "https://rollingsanandres.com/los-5-mejores-lugares-para-bucear-en-la-isla-de-san-andres/",
+            "dificultad": "Alta",
+            "dificultadLogo": "looks_3",
+            "fisico":"Muy bueno",
+            "fisicoLogo":"directions_run",
+            "incluye": [
+                "Inmersión de 40 minutos aproximadamente de o el tiempo que se consuma el oxigeno del tanque acompañado de instructor",
+                "Los pasajeros deben llegar al punto de encuentro informado"
+                
+            ],
+            "tips": [
+                "Se realiza luego de haber hecho el mini curso buceo en un punto adicional",
+                "No apto para personas de la tercera edad",
+                "No puede estar estado de embarazo",
+                "No puede tener condiciones de salud graves",
+                "Para tomar esta actividad el pasajero debe certificar que tomo anteriormente el mini-curso de buceo o ser buzo certificado"
+               
+            ]
+
+        },
+        {   "id": 2,
+            "paseo": "Buceo doble (Aplica para personas certificadas)",
+            "imagen": "https://activiturs.com/wp-content/uploads/2017/12/buceo4.jpg",
+            "descripcion": " dos inmersiones en puntos estratégicos el mismo día",
+            "link": "./BuceoDoble",
+            "subtitulo": "Este producto es ideal para personas certificadas con su primer nivel",
+            "intro":"Podrán realizar dos inmersiones en puntos estratégicos el mismo día acompañado de nuestros instructores certificados PADI",
+            "video":"https://www.youtube.com/embed/f5WYqROgKFE",
+            "enlaceExt": "https://rollingsanandres.com/los-5-mejores-lugares-para-bucear-en-la-isla-de-san-andres/",
+            "dificultad": "Alta",
+            "dificultadLogo": "looks_3",
+            "fisico":"Muy bueno",
+            "fisicoLogo":"directions_run",
+            "incluye": [
+                "Traslado hotel - escuela - hotel ",
+                "Dos inmersiones adicionales en puntos estratégicos"
+                
+            ],
+            "tips": [
+                "No apto para personas de la tercera edad",
+                "No puede estar estado de embarazo",
+                "No puede tener condiciones de salud graves",
+                "Para tomar esta actividad el pasajero debe certificar que tomo anteriormente el mini-curso de buceo o ser buzo certificado"
+                
+            
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Velada Blanca a bordo",
+            "imagen": "http://www.viajesvivex.com/wp-content/uploads/2016/07/Tour-Bah%C3%ADa-montecarlo.jpg",
+            "descripcion": "Una noche inolvidable a bordo del barco Montecarlo, disfrutaras de una deliciosa cena tipo bufett muy caribeña",
+            "link": "./VeladaBlancabordo",
+            "subtitulo": "Una noche inolvidable a bordo del barco Montecarlo",
+            "intro":"Disfrutaras de una deliciosa cena tipo bufett muy caribeña, acompañado de vinos blanco y tinto, agua y gaseosa",
+            "video":"https://www.youtube.com/embed/_Y5dg0w80us?start=94",
+            "enlaceExt": "https://jetsetviajes.com/tours/ver/170/Crucero-Montecarlo-Velada-Blanca-Con-Cena",
+            "dificultad": "Baja",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Ingreso al barco Montecarlo ",
+                "Cena tipo buffet caribeña"
+                
+            ],
+            "tips": [
+                "También podrás disfrutar de un segundo ambiente de discoteca y terraza",
+                "Disfruta de un espacio al aire libre y ambiente muy tranquilo",
+                "Disfruta de la suave brisa nocturna y el fabuloso cielo estrellado de san Andrés",
+                "No Incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas en la discoteca, (no se vende licor para menores, condiciones y restricciones de ley)"
+                
+            
+            ]
+
+        },
+        {   "id": 4,
+            "paseo": "Cueva de Morgan",
+            "imagen": "https://cdn.colombia.com/sdi/2014/01/10/3dca78605f4b4e2cbddb54c0e04683bd.jpg",
+            "descripcion": "Parque temático con la cueva, réplica de un galeón y 4 museos",
+            "link": "./CuevaMorgan",
+            "subtitulo": "Parque temático",
+            "intro":"Donde en su recorrido conocerás la cueva natural de Morgan",
+            "video":"https://www.youtube.com/embed/ck5JaLCZBzw?start=94",
+            "enlaceExt": "https://www.colombia.com/turismo/sitios-turisticos/san-andres-y-providencia/atractivos-turisticos/sdi468/78965/la-cueva-de-morgan",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido dentro del tour vuelta la isla terrestre"
+                
+            ],
+            "tips": [
+                "Replica de un galeón",
+                "Cueva artificial con todo su arsenal pirata",
+                "4 museos (arte, coco, oro y del pirata) y ambientado con un baile típico de típico de la Isla",
+                "No incluye: Transporte terrestre hacia a el punto de encuentro, alimentación, bebidas",
+                "Solo aplica para la venta en destino"
+                
+            
+            ]
+
+        },
+        {   "id": 5,
+            "paseo": "Curso de Buceo 1er Nivel Padi",
+            "imagen": "https://www.squalodivers.com/wp-content/uploads/2017/04/PADI-Scuba-Diver.jpg",
+            "descripcion": "Curso teórico practico y 4 inmersiones",
+            "link": "./CursoBuceo1erNivel",
+            "subtitulo": "Para aquellas personas que desean certificarse como buzos, este es el primer nivel",
+            "intro":"Van a tener un curso teórico practico y 4 inmersiones (1 nocturna, 1 mar Abierto, 2 en puntos estratégicos para el buceo). ",
+            "video":"https://www.youtube.com/embed/f5WYqROgKFE",
+            "enlaceExt": "https://rollingsanandres.com/los-5-mejores-lugares-para-bucear-en-la-isla-de-san-andres/",
+            "dificultad": "Alta",
+            "dificultadLogo": "looks_3",
+            "fisico":"Muy bueno",
+            "fisicoLogo":"directions_run",
+            "incluye": [
+                "Manual de estudio",
+                "Curso en teoría y práctica en el mar",
+                "Traslado, refrigerio y certificado cuando el estudiante realice el pago a PADI"
+                
+            ],
+            "tips": [
+                "El pin del certificado lo paga el estudiante con tarjeta de crédito directamente a PADI. El tiempo de duración mínimo de cinco días",
+                "Existen las siguientes restricciones: Las personas no pueden estar en estado de embarazo, ni en estado embriaguez, no pueden consumir sustancias alucinógenas, ni estar tomando medicamentos para la hipertensión o problemas de salud como epilepsia, operación corazón abierto, derrame cerebral, tímpano perforado o ser claustrofóbico",
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas"                
+            
+            ]
+
+        },
+        {   "id": 6,
+            "paseo": "Expedición Discovery",
+            "imagen": "https://rollingsanandres.com/wp-content/uploads/2019/07/Expedicion-discovery-5-min.jpg",
+            "descripcion": "Recorrido en una embarcación con fondo de vidrio, a través del cual podrás disfrutar de gran variedad de fauna y flora marina",
+            "link": "./ExpedicionDiscovery",
+            "subtitulo": "Recorrido en una embarcación con fondo de vidrio...",
+            "intro":"A través del cual podrás disfrutar de gran variedad de fauna y flora marina de la ensenada del Cove",
+            "video":"https://www.youtube.com/embed/YBQqbnCBSBM",
+            "enlaceExt": "https://rollingsanandres.com/tienda/vip-expedicion-discovery-en-isla-san-andres/",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Traslado en una embarcación fondo de vidrio de nombre Cristal Boat"
+            ],
+            "tips": [
+                "Disfrutaras de una parada de baño para poder tomar espectaculares fotos",
+                "No incluye: Transporte terrestre ida y regreso hacia el punto de encuentro, alimentación, bebidas"
+                
+            
+            ]
+
+        },
+
+        { "id": 7,
+            "paseo": "Jhonny Cay",
+            "imagen": "http://www.coralina.gov.co/nuevositio/media/k2/items/cache/0aa092ec2d4bbcf47bfbbc9bf74dc198_XL.jpg",
+            "descripcion": "En este lugar la playa es blanca, abundan las palmeras y existen restaurantes que sirven platos típicos",
+            "link": "./JhonnyCay",
+            "subtitulo": "En este lugar la playa es blanca, abundan las palmeras y existen restaurantes que sirven platos típicos",
+            "intro":"Puedes disfrutar de sus playas y recorrido por el parque",
+            "video":"https://www.youtube.com/embed/J6eZBflSTws",
+            "enlaceExt": "https://colombia.travel/es/san-andres-isla/parque-regional-johnny-cay",
+            "dificultad": "Baja",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Traslados en lancha ida y regreso"
+                
+            ],
+            "tips": [
+                "Transporte en lancha hacia el cayo Johnny Cay ida y regreso en horarios estipulados en el sitio ",
+                "No incluye: Transporte terrestre ida y regreso hacia el punto de encuentro, alimentación, bebidas, Impuesto de entrada $10.000 por persona pago en destino, guía",
+                "No está permitido el ingreso a personas de la tercera edad, personas con movilidad reducida, mujeres embarazadas, niños menores de 8 años",
+                "Punto de encuentro a toninos Marina de 9:30 am a 3 pm",
+                "Solo aplica para la venta en destino"
+                            
+            ]
+
+        },
+
+        { "id": 8,
+            "paseo": "Mar De Los Siete Colores",
+            "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/12/32/1a/73/johnny-cay.jpg",
+            "descripcion": "Visita el mar de los siete colores, en cuyo recorrido disfrutaras de cuatro actividades diferentes",
+            "link": "./MarDeLosSieteColores",
+            "subtitulo": "Visita el mar de los siete colores",
+            "intro":"en cuyo recorrido disfrutaras de cuatro actividades diferentes ",
+            "video":"https://www.youtube.com/embed/ee-4Wjr4ZuY",
+            "enlaceExt": "https://losviajesdedomi.com/mar-7-colores-isla-san-andres/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte desde el punto de despacho",
+                "Caretas, snorkel y zapatillas de baño"
+                
+            ],
+            "tips": [
+                "La primera actividad es a bordo de un velero con capacidad maximo para 8 personas allí podrás observar la diversidad de colores del mar",
+                "La segunda actividad realizamos parada en la bahía donde tendrás interacción con especies marinas",
+                "Luego como tercera actividad seguiremos nuestro recorrido para llegar a un lugar donde podrás realizar snorkeling",
+                "Y finalizaremos con el regreso a la orilla en moto acuática Jetskay siempre acompañados de guías especializados",
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas",
+                "Punto de encuentro: Hotel Beach-Náutica Chamey -Hotel Beach"
+            
+            ]
+
+        },
+
+        { "id": 9,
+            "paseo": "Rocky Cay Beach",
+            "imagen": "https://cdn.civitatis.com/colombia/san-andres/excursion-acuario-rocky-cay-grid.jpg",
+            "descripcion": "Disfruta de un día de tranquilidad acompañado d el susurro de las olas en las playas más tranquilas de la isla",
+            "link": "./RockyCayBeach",
+            "subtitulo": "Disfruta de un día de tranquilidad acompañado del susurro de las olas en las playas más tranquilas de la isla",
+            "intro":"Podrás deleitarte con sus aguas cristalinas en un tour guiado hacia el barco encallado más antiguo del archipiélago",
+            "video":"https://www.youtube.com/embed/fiQp5ET9IaU",
+            "enlaceExt": "https://www.viajeros.com/producto/rocky-cay",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Trasporte ida y regreso desde el punto de encuentro hacia las playas de Rocky Cay",
+                "Caminata mar adentro hacia el cayo Rocky Cay con guía de acuerdo a las condiciones y operatividad que suministre capitanía de puerto",
+                "Carpas y sillas para la playa"
+               
+            ],
+            "tips": [
+                "Disfruta de atracciones como Jet Sky, Snorkel, Cayacs, entre otras (no incluidas). ",
+                "No Incluye: Transporte terrestre ida y regreso hacia el punto de encuentro, alimentación y bebidas",
+                "Punto de encuentro: despacho oficina de kamilos Avenida duarte blum"
+               
+            
+            ]
+
+        },
+
+        { "id": 10,
+            "paseo": "Snorkeling",
+            "imagen": "https://images.thrillophilia.com/image/upload/s--NJmuHpok--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/051/552/original/1563460620_snrkeling5.jpg.jpg?1563460620",
+            "descripcion": "Podrás disfrutar de todo el paisaje marino en nuestra terraza del cove",
+            "link": "./Snorkeling",
+            "subtitulo": "Aquí no existen barreras ni restricciones ",
+            "intro":"En este tour podrás disfrutar de todo el paisaje marino en nuestra terraza del Cove, guiado por un instructor podrás realizar carreteo sin riesgo alguno",
+            "video":"https://www.youtube.com/embed/miUqLdRS1Gk",
+            "enlaceExt": "https://rollingsanandres.com/tienda/snorkeling-en-isla-san-andres/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Bueno",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Equipo profesional (Aletas y Caretas)",
+                "Inducción en piscina",
+                "Instructor, guía"
+                
+            ],
+            "tips": [
+                "Ideal para todo tipo de persona",
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas"
+                
+            ]
+
+        },
+
+        { "id": 11,
+            "paseo": "Mini curso de buceo",
+            "imagen": "http://www.scubasanandres.com.co/images/1.jpg",
+            "descripcion": "Experiencia única donde conocerás el fantástico mundo marino y te divertirás posando para las más espectaculares fotos bajo 14 Mts de profundidad",
+            "link": "./MiniCursoBuceo",
+            "subtitulo": "Experiencia única ",
+            "intro":"donde conocerás el fantástico mundo marino y te divertirás posando para las más espectaculares fotos bajo 14 Mts de profundidad",
+            "video":"https://www.youtube.com/embed/M-4PWM1u1Ug",
+            "enlaceExt": "https://sanandresdivers.com/producto/minicurso-de-buceo/",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte hotel-escuela buceo- hotel",
+                "El mini curso se divide en dos etapas. 1) Etapa: 45 minutos de teoría. 2) Etapa: Es la práctica que son 45 minutos (piscina o mar) inmersión o el tiempo que dure el tanque de oxígeno con buzos profesionales certificados"
+                
+            ],
+            "tips": [
+                "No incluye: Transporte terrestre ida y regreso hacia el punto de encuentro, alimentación, bebidas",
+                "Aplican todas las restricciones para realizar este tipo de actividad" ,
+                "Las personas no pueden estar en estado de embarazo, ni en estado embriaguez, no pueden consumir sustancias alucinógenas, ni estar tomando medicamentos para la hipertensión o problemas de salud como epilepsia, operación corazón abierto, derrame cerebral, tímpano perforado o ser claustrofóbico",
+                "Recomendable para personas mayores de 12 años con previa autorización firmada por los padres"
+               
+            
+            ]
+
+        }, 
+
+        { "id": 12,
+            "paseo": "Snuba",
+            "imagen": "https://www.sandals.com/blog/content/images/2019/06/8_IMG_0060-1.jpg",
+            "descripcion": "Submérgete a 3 metros, donde recibirás oxigeno por medio de mangueras conectadas a tanques de aire comprimido en la superficie",
+            "link": "./Snuba",
+            "subtitulo": "Es un tour guiado ",
+            "intro":"en el cual podrás disfrutar de un acuario natural con toda la seguridad y facilidad para respirar bajo el agua",
+            "video":"https://www.youtube.com/embed/Mf1KftD5o24",
+            "enlaceExt": "https://sanandresdivers.com/producto/snuba/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Equipo profesional",
+                "Inducción en piscina",
+                "Instructor guia",
+                "20 minutos de inmersión"
+                
+            ],
+            "tips": [
+                "Consiste en sumergirte 3 metros aproximadamente, donde recibirás oxigeno por medio de unas mangueras conectadas a tanques de aire comprimido en la superficie",
+                "Tendrás a nuestros expertos buzos quienes te ayudaran a vivir una experiencia inigualable, nadando junto a cientos de peces tropicales y admirando la vegetación marina en una aventura de buceo que no tiene comparación",
+                "Los pasajeros deben llegar hacia el sitio del tour"
+                
+            
+            ]
+
+        },
+
+        { "id": 13,
+            "paseo": "Tour Vip Beach",
+            "imagen": "https://rollingsanandres.com/wp-content/uploads/2019/07/vip-beach_15-min.jpg",
+            "descripcion": "Mañana de playa y piscina. Sitio especial para broncearse y relajarse. Visita el cayo Hans Cay, acuario y recorrido por los manglares. ",
+            "link": "./TourVipBeach",
+            "subtitulo": "Recorrido en lancha hacia el sector de San Luis ",
+            "intro": "a un club de playa donde nuestros viajeros disfrutarán de una mañana de playa y piscina",
+            "video":"https://www.youtube.com/embed/EvH91-wm9eI",
+            "enlaceExt": "https://rollingsanandres.com/tienda/vip-beach/",
+            "dificultad": "Alto",
+            "dificultadLogo": "looks_3",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recreación dirigida",
+                "Bar abierto de agua, gaseosa, cerveza, cocteles Coco loco y piña cola cuba libre en el club de playa casa azul",
+                "Un snack",
+                "Guía recorrido en lanchas"
+                
+            ],
+            "tips": [
+                "Sitio especial para broncearse y relajarse",
+                "Sobre el medio día abordan nuevamente la lancha para ir a visitar el cayo Hans Cay",
+                "Visitaras cayo acuario y de regreso a la isla",
+                "Recorrido por los manglares",
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas Hans cay y /o Acuario",
+                "Este recorrido es apto para toda la familia"              
+            
+            ]
+
+        },
+
+        { "id": 14,
+            "paseo": "Tour Bahía",
+            "imagen": "https://s3.amazonaws.com/images.vivemillano.com/photos/34505/xlarge/bahia_tour.jpg?1548279348",
+            "descripcion": "Tour realizado por la principal bahía de spratt bigth, con ambientación y animación apreciando la belleza del mar de los siete colores ",
+            "link": "./TourBahia",
+            "subtitulo": "Tour paronímico realizado por la principal bahía de spratt bigth a bordo de una motonave (Barco Rivel o Montecarlo)",
+            "intro":"Con ambientación y animación apreciando la belleza del mar de los siete colores",
+            "video":"https://www.youtube.com/embed/749l-RMH0DI",
+            "enlaceExt": "https://portofinocaribe.com/reservas/tours/tour-por-la-bahia/",
+            "dificultad": "Alta",
+            "dificultadLogo": "looks_3",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido en motonave"
+            ],
+            "tips": [
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas",
+                "No se permite el ingreso de bebidas o alimentos a la embarcación",
+                "Los pasajeros deben llegar al punto de encuentro"
+            
+            ]
+
+        },
+
+        { "id": 15,
+            "paseo": "Tour Vip Panoramico",
+            "imagen": "https://rollingsanandres.com/wp-content/uploads/2019/07/vip_panoramico_7-min.jpg",
+            "descripcion": "Tour realizado por la principal bahía de spratt bigth, con ambientación y animación apreciando la belleza del mar de los siete colores ",
+            "link": "./TourVipPanoramico",
+            "subtitulo": "Recorrido en lancha",
+            "intro":"Este es un tour visita sitios de interes de San Andres como Jonny Cay, Acuario y finaliza el recorrido en manglares",
+            "video":"https://www.youtube.com/embed/e54rGfopDzM",
+            "enlaceExt": "https://rollingsanandres.com/tienda/vip-panoramico-en-isla-san-andres/",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+               "Servicio de guía",
+               "Traslado en embarcación tipo lanchas hacia los diferentes sitios de interés"
+            ],
+            "tips": [
+                "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas",
+                "En destino debe pagar un impuesto Coralino de $ 10.000 por Punto de encuentro de Muelle Toninos Marina",
+                "La duración es de 10 am a 4 pm",
+                "Solo aplica para la venta en destino"
+            ]
+
+        },
+
+        { "id": 16,
+            "paseo": "Vuelta a la isla terrestre",
+            "imagen": "https://cdn.civitatis.com/colombia/san-andres/tour-san-andres.jpg",
+            "descripcion": "Recorrido terrestre por la avenida circunvalar, con paradas en dos de los sitios históricos de la Isla",
+            "link": "./VueltaIslaTerrestre",
+            "subtitulo": "Recorrido terrestre por la avenida circunvalar",
+            "intro":"Con paradas en dos de los sitios históricos de la Isla",
+            "video":"https://www.youtube.com/embed/iJI_j91RFBU",
+            "enlaceExt": "https://www.tripadvisor.co/ShowUserReviews-g3493965-d3228746-r525594110-La_Piscinita-San_Andres_San_Andres_Island_San_Andres_and_Providencia_Department.html",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido realizado de acuerdo al transporte asignado por el operador (bus, buseta aerovans o chiva)"
+            ],
+            "tips": [
+               "Con paradas en dos de los sitios históricos de la Isla",
+               "Cueva de Morgan, valor del ingreso: $ 17.000 por persona (no incluida)",
+               "Casa museo isleña valor del ingreso $13.000 por persona (no incluida)",
+               "No incluye: Transporte terrestre hacia el punto de encuentro, alimentación, bebidas, entradas a los sitios históricos, (las entradas las pueden adquirir en el stand de servicio de su hotel o en el punto de despacho) ",
+               "Observación: Este es un recorrido por el anillo vial, se hace en Buses, Busetas o Chiva de acuerdo con la disponibilidad del operador, no hay paradas de baño",
+               "Duración: 2 horas y media"
+            
+            ]
+
+        },
+
+        { "id": 17 ,
+            "paseo": "Disco Tk - Yate rumba",
+            "imagen": "https://rollingsanandres.com/wp-content/uploads/2019/08/YateRumba_1.jpg",
+            "descripcion": "Noche de Rumba a bordo del Crucero Montecarlo, las mejores luces y sonido de ultima tecnología, DJ en vivo",
+            "link": "./DiscoTkYateRumba",
+            "subtitulo": "Noche de Rumba a bordo del Crucero Montecarlo",
+            "intro":"Las mejores luces y sonido de última tecnología",
+            "video":"https://www.youtube.com/embed/mxLPT7oV5jU",
+            "enlaceExt": "https://rollingsanandres.com/tienda/yate-rumba/",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido por la bahía a bordo del barco Riviel o Montecarlo",
+                "Música",
+                "DJ"
+            ],
+            "tips": [
+                "DJ en vivo",
+                "Embarcación de 3 ambientes para disfrutar de una velada inolvidable admirando la isla desde el mar",
+                "No incluye: Transporte terrestre hacia el punto de encuentro, bebidas alcohólicas y no alcohólicas, alimentación",
+                "No se permite el ingreso a menores de edad",
+                "Solo hay tres Salidas a la semana sujetas a condiciones climatológicas",
+                "Se reserva derecho de admisión"
+            
+            ]
+
+        },
+
+        { "id": 18 ,
+            "paseo": "Casa museo",
+            "imagen": "https://s3.amazonaws.com/images.vivemillano.com/photos/31512/xlarge/casa-museo-fachada-trasera.jpg?1541182011",
+            "descripcion": "Conoce la cultura ancestral del pueblo San andresano",
+            "link": "./CasaMuseo",
+            "subtitulo": "Conoce la cultura ancestral del pueblo Sanandresano",
+            "intro":"Visita una réplica intacta de las casa en la que Vivian los nativos, sus creencias, cultura y costumbres contadas por nuestros guías autóctonos",
+            "video":"https://www.youtube.com/embed/x9dtyELbBYY",
+            "enlaceExt": "https://www.vivecolombia.travel/es/casa-museo-islena-en-san-andres",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido realizado de acuerdo a lo que asigne el operador ya sea bus, buseta aerovans o chiva",
+                "Recorrido dentro del tour v la isla terrestre"
+            ],
+            "tips": [
+                "Participa del baile típico y convive en la cultura isleña a través de este tour"
+            
+            ]
+
+        },
+
+        { "id": 19 ,
+            "paseo": "Playa Indigo",
+            "imagen": "https://caracol.com.co/radio/imagenes/2016/03/05/fotorrelato/1457144874_415197_1457145017_album_normal.jpg",
+            "descripcion": "visita una réplica intacta de las casa en las que Vivian los nativos",
+            "link": "./PlayaIndigo",
+            "subtitulo": "Conoce la cultura ancestral del pueblo Sanandresano ",
+            "intro":"Visita una réplica intacta de las casa en las que Vivian los nativos, sus creencias, cultura y costumbres contadas por nuestros guías autóctonos",
+            "video":"https://www.youtube.com/embed/jA7at0noOgE",
+            "enlaceExt": "https://www.tripadvisor.co/ShowUserReviews-g3493965-d7099731-r628245081-Playa_de_San_Luis-San_Andres_San_Andres_Island_San_Andres_and_Providencia_Depar.html",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Recorrido realizado de acuerdo a lo que asigne el operador ya sea bus, buseta aerovans o chiva",
+                "Recorrido dentro del tour a la isla terrestre"
+            ],
+            "tips": [
+               "Participa del baile típico y convive en la cultura isleña a través de este tour",
+               "No incluye ningún tipo de alimentación"
+            
+            ]
+
+        }      
+    ],
+    "EjeCafetero" :  [
+        {   "id": 0,
+            "paseo": "City tour (visita) por Filandia",
+            "imagen": "https://www.turismoquindio.com/wp-content/uploads/2017/09/filandia-quindio66.jpeg",
+            "descripcion": "Divisa el paisaje cultural cafetero en todo su esplendor",
+            "link": "./CityTourFilandia",
+            "subtitulo": "Un pueblo que por su ubicación se convierte en un balcón natural",
+            "intro":"Allí podemos divisar el paisaje cultural cafetero en todo su esplendor",
+            "video":"https://www.youtube.com/embed/hxw5cIaryyg",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará información histórico cultural sobre el destino, haciendo del recorrido una experiencia  interactiva e interesante para el turista",
+                "Incluye o no mirador (Varia precio)"
+                
+            ],
+            "tips": [
+                "Su arquitectura e historia nos recuerda que es un pueblo con aroma de café",
+                "Sus construcciones antiguas hacen que se encuentre detenida en el tiempo",
+                "Es un pueblo que permite hacer un recorrido histórico-cultural donde nuestros turistas conocerán sobre la arquitectura que lleva más de 100 años de construcción",
+                "Sobre el trabajo de campo y sus manualidades como la cestería",
+                "En ese recorrido se apreciaran los balcones o miradores naturales de la población el cual permite divisar paisajes de los Departamentos del Quindío, Risaralda y Valle del Cauca",
+                "Conocerán la Calle del Tiempo Detenido la cual es la zona artesanal más importante del pueblo y tendrán la oportunidad de tomar una deliciosa taza de café, bebida insignia del Quindío",
+                "Duración: 4 horas y media (1 hora de ida y 1 hora de venida y 2 horas y media de disfrute) ",
+                "Horarios: Hora de salida 9.00 am Recomendación: Calzado cómodo",
+                "Uso de repelente, bloqueador y gorra"
+            
+            ]
+
+        },
+        {   "id": 1,
+            "paseo": "Parque del café",
+            "imagen": "https://parquedelcafe.co/modules/revsliderprestashop/uploads/parque-del-cafe-colombia-2.jpg",
+            "descripcion": " ven y diviértete con toda la familia en el mundo del café, atracciones mecánicas, acuáticas, temáticas y culturales. ",
+            "link": "./ParqueCafe",
+            "subtitulo": "Los invitamos a disfrutar del Parque del Café, un lugar donde el café es protagonista",
+            "intro":"Un parque temático que brinda recorridos por tierras de encanto y belleza. Ven y diviértete con toda la familia en el mundo del café",
+            "video":"https://www.youtube.com/embed/6KpqL5Ke8nU",
+            "enlaceExt": "https://parquedelcafe.co/es/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                "Un parque temático que brinda recorridos por tierras de encanto y belleza. Ven y diviértete con toda la familia en el mundo del café",
+                "Vive la experiencia que combina atracciones mecánicas, acuáticas, temáticas - culturales y shows en vivo únicos en Colombia",
+                "Cuenta con espacios naturales, maravillosos paisajes de nuestra cultura cafetera",
+                "Todo en un solo lugar porque la diversión tiene sabor a café",
+                " Duración: 10 horas (1 hora de ida y 1 hora de venida y 8 de disfrute) ",
+                "Horarios: salida 9:00 am y Sábado 8.00 am",
+                "Recomendación: Ropa de cambio y calzado cómodo",
+                "Uso de repelente, bloqueador y gorra"
+            
+            ]
+
+        },
+        {   "id": 2,
+            "paseo": "Bioparque Ukumari",
+            "imagen": "https://s3.amazonaws.com/images.vivemillano.com/photos/11791/xlarge/bioparque-ukumari-pereira.jpg?1431622237",
+            "descripcion": "Conoce más de 90 especies de animales tanto de nuestro país como de otras partes del mundo",
+            "link": "./BioparqueUkumari",
+            "subtitulo": "Los invitamos al Bioparque Ukumari",
+            "intro":"Un lugar divertido y hermoso en el cual van a descubrir el maravilloso mundo animal, seres que nos enseñan a convivir en armonía con la naturaleza",
+            "video":"https://www.youtube.com/embed/9ZWUoUyeio4",
+            "enlaceExt": "https://www.ukumaripereira.com/es/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                "Es un parque que recrea la flora y fauna de los bosques andinos y podrán explorar la grandiosa Sabana Africana",
+                "Allí podrán conocer más de 90 especies de animales tanto de nuestro país como de otras partes del mundo, para que toda la familia tenga una aventura salvajemente divertida",
+                "Duración: 5 horas (1 hora de ida y 1 hora de venida y 3 de disfrute)",
+                "Horarios: Martes Hora de Salida 8.00am",
+                "Recomendación: Calzado cómodo",
+                "Uso de repelente, bloqueador y gorra"
+                
+            
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Mariposario",
+            "imagen": "https://farm3.staticflickr.com/2661/4096478941_ce68a1831c_b.jpg",
+            "descripcion": "Es un reconocido centro de turismo de naturaleza",
+            "link": "./Mariposario",
+            "subtitulo": "Es un reconocido centro de turismo de naturaleza",
+            "intro":"En el que nos esmeramos en preservar la belleza de los diferentes paisajes",
+            "video":"https://www.youtube.com/embed/OU2GGrN2FY4",
+            "enlaceExt": "http://jardinbotanicoquindio.org/mariposario/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                " En el jardín botánico se pueden apreciar varias colecciones y exhibiciones de plantas",
+                "En este recorrido podemos destacar la Colección Nacional de Palmas, que agrupa casi todas las especies nativas de Colombia de esta familia, por lo que ha tenido el jardín un notable reconocimiento internacional",
+                "Creemos que la naturaleza funciona de una manera integral, en estrecha relación de los organismos vivos entre sí y los elementos naturales como el suelo, el agua y el clima, por lo cual tenemos un bello y famoso mariposario, un zoológico de insectos, tres sitios para el avistamiento de aves, un museo de Geología y suelos, el Museo del Túnel de la Línea, un museo etnobotánica de palmas y muchas otras atracciones naturales. ",
+                "Duración: 3 horas y media ",
+                "Horarios: Hora de Salida 9.00am ",
+                "Recomendación: Calzado cómodo",
+                "Uso de repelente, bloqueador y gorra"
+                
+            
+            ]
+
+        },
+        {   "id": 4,
+            "paseo": "Parque de los Arrieros",
+            "imagen": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/35/a9/af.jpg",
+            "descripcion": "Recuerda una época de antaño a través de 6 presentaciones artísticas con tradición, baile y folklore",
+            "link": "./ParqueArrieros",
+            "subtitulo": "Los invitamos a conocer de la cultura y el diario vivir de los Arrieros",
+            "intro":"Es un lugar con maravillosos paisajes que nos llevan a vivir la época de nuestros abuelos, cuando en ese entonces a lomo de mula atravesando nuestras montañas llevaban el futuro y el progreso de nuestro grandioso país",
+            "video":"https://www.youtube.com/embed/hjU0HjPZBec",
+            "enlaceExt": "https://www.parquelosarrieros.com/es/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                " Es recordar una época de antaño a través de 6 presentaciones artísticas con tradición, baile y folklore y 10 actividades temáticas e interactivas ofreciendo servicios turismo, recreación y esparcimiento en torno a la cultura de la Arriería",
+               "Duración: 9 horas (1 hora de ida y 1 hora de venida y 7 de disfrute) ",
+               "Horarios: Hora de Salida 8.00am ",
+               "Recomendación: Calzado cómodo",
+               "Uso de repelente, bloqueador y gorra"
+            
+            ]
+
+        },
+        {   "id": 5,
+            "paseo": "Recuca",
+            "imagen": "data:image/jpeg;base64,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",
+            "descripcion": "Viva la experiencia de un caficultor conociendo el mundo de nuestro café, donde las mujeres se volverán Chapoleras y los hombres Arrieros",
+            "link": "./Recuca",
+            "subtitulo": "Disfrute del Recorrido de la Cultura Cafetera",
+            "intro":"Viva la experiencia de un caficultor conociendo el mundo de nuestro café, donde las mujeres se volverán Chapoleras y los hombres Arrieros",
+            "video":"https://www.youtube.com/embed/PHcgVKgEX-g",
+            "enlaceExt": "https://www.recuca.com",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"bueno",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía, entrada al Parque con recorrido por los cultivos de café, trajes típicos, conocerán Las Fiestas de mi Pueblo (réplicas de pueblos del Quindío y desfile del Yipao)",
+                "Almuerzo"                
+            ],
+            "tips": [
+                "Es un recorrido mágico, lúdico e interactivo donde aprenderán los secretos para preparar una buena taza de café",
+                "En Recuca nos volvemos cafeteros, saboreamos el campo y nos divertimos a lo montañero",
+                "Duración: 4 horas ",
+                "Horario de Inicio: 2.40 pm",
+                "Recomendación: Ropa y calzado cómodo (para la caminata)",
+                "Uso de repelente y bloqueador"
+                
+            
+            ]
+
+        },
+        {   "id": 6,
+            "paseo": "Termales de Santa Rosa",
+            "imagen": "https://cdn.colombia.com/sdi/2014/01/04/termales-santa-rosa-de-cabal-755833.jpg",
+            "descripcion": "contempla la majestuosidad de la cascada Santa Helena de 95 metros de altura con piscinas de agua termal natural",
+            "link": "./TermalesSantaRosa",
+            "subtitulo": "Los invitamos a disfrutar de los Termales de Santa Rosa de Cabal",
+            "intro":"Un lugar con maravillosos paisajes llenos de diferentes tonalidades de verde que quedaran en nuestra memoria",
+            "video":"https://www.youtube.com/embed/2wVTaYmw2BY",
+            "enlaceExt": "https://www.termales.com.co/balneario-3/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"bueno",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                "Una experiencia única en medio del as montañas del eje cafetero el cual nos permite contemplar la majestuosidad de la cascada Santa Helena de 95 metros de altura con piscinas de agua termal natural, las cuales nos van a relajar el cuerpo y el alma",
+                "Duración: 8 horas (2 horas de ida y 2 horas de venida para llegar a los termales, de 30 a 45 minutos para cenar y 3 horas para disfrutar de las instalaciones) ",
+                "Horarios: martes salida 2.00 pm y jueves 5.00 pm",
+                "Recomendación: Llevar ropa cómoda, abrigo, toalla y traje de baño",
+                "No incluye: Ningún tipo de alimentación"
+                
+            ]
+
+        },
+
+        {   "id": 7,
+            "paseo": "Parque Panaca",
+            "imagen": "https://images.locanto.com.co/Ven-y-diviertete-en-familia-en-nuestro-Parque-Panaca/vap_4884675304.jpg",
+            "descripcion": "Parque temático único en el mundo en el cual encontraran la colección más grande de zoología doméstica",
+            "link": "./ParquePanaca",
+            "subtitulo": "Los invitamos a conocer del Parque Panaca",
+            "intro":"un parque temático único en el mundo en el cual encontraran la colección más grande de zoología doméstica",
+            "video":"https://www.youtube.com/embed/e-ekcVAMSfU",
+            "enlaceExt": "https://panaca.com.co",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                "Cuenta con más de 4.500 animales con los que podrás jugar, interactuar e incluso alimentar",
+                "Durante el recorrido visitarás 10 impresionantes Estaciones temáticas de Ganadería, Especies Menores, Avestruces, Porcicultura, Felina, Granja Integral, Canina, Agronomía y finalmente la majestuosa Estación Equina y 5 espectaculares shows llenos de magia, risas, acrobacias, trovas y diversión sin límites",
+                "En PANACA también tenemos actividades extremas como el Canopy más largo y extremo de Colombia, dos espectaculares Puentes Tibetanos, cabalgatas y actividades llenas de fuertes emociones",
+                "Con nosotros vivirás una experiencia inigualable en contacto con animales asombrosos y la más imponente fauna y flora de la Región Cafetera, PORQUE SIN CAMPO NO HAY CIUDAD. Duración: 10 horas (1 hora de ida y 1 hora de venida y 8 de disfrute)",
+                "Horarios: Hora de Salida 8.00am",
+                "Recomendación: Calzado cómodo",
+                "Uso de repelente, bloqueador y gorra"
+                
+            
+            ]
+
+        },
+
+        {   "id": 8,
+            "paseo": "City tour (visita) Pereira",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Plaza-bolivar.jpg/1024px-Plaza-bolivar.jpg",
+            "descripcion": "Tour de compras por Pereira",
+            "link": "./CityTourPereira",
+            "subtitulo": "Tour de compras por Pereira",
+            "intro":"No incluye: Ningun tipo de alimentación",
+            "video":"https://www.youtube.com/embed/1r9OGe363O0",
+            "enlaceExt": "https://es.wikipedia.org/wiki/Pereira",
+            "dificultad": "Bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte"
+            ],
+            "tips": [              
+            
+            ]
+
+        },
+
+        {   "id": 9,
+            "paseo": "Salento y Valle de Cocora",
+            "imagen": "http://chipviajero.com/wp-content/uploads/2018/01/Como-Llegar-al-Valle-De-Cocora-Quind%C3%ADo-Colombia-Chip-Viajero-5.jpg",
+            "descripcion": "Viva con nosotros la experiencia de nuestra Cultura reflejada en el colorido de las casas de bahareque y en la alegría de nuestra gente",
+            "link": "./SalentoValleCocora",
+            "subtitulo": "Los invitamos a conocer el pueblo de Salento",
+            "intro":" Municipio Padre del Departamento del Quindío, conocido por conservar su arquitectura tradicional Herencia de la Colonización Antioqueña",
+            "video":"https://www.youtube.com/embed/TFsQo4kH4jE",
+            "enlaceExt": "https://www.turismoquindio.com/atractivos/valle-cocora-salento/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Transporte",
+                "Guía el cual les brindará a nuestros viajeros información histórico cultural sobre el destino, haciendo del recorrido una experiencia interactiva e interesante para el turista"
+                
+            ],
+            "tips": [
+                "Viva con nosotros la experiencia de nuestra Cultura reflejada en el colorido de las casas de bahareque y en la alegría de nuestra gente",
+                "Disfrute de la Calle Real con más de 4 cuadras de artesanías y dulcerías de la Región",
+                "También se disfruta del Mirador del Pueblo en el cual podemos contemplar los hermosos paisajes",
+                "Valle de Cócora, hogar de nuestro Árbol Nacional (Palma de Cera del Quindío), reserva Natural del Parque Nacional Los Nevados, donde podemos realizar de una caminata ecológica y disfrutar de hermosos paisajes y del olor del campo",
+                "Duración: 5 horas. Horario de Inicio: 8.15 am ",
+                "Recomendación: Las personas deben ir abrigados y con calzado cerrado (para la caminata)",
+                "Uso de repelente y bloqueador"
+                
+            
+            ]
+        }       
+    
+    ],
+    "Amazonas" :  [
+        {   "id": 0,
+            "paseo": "Tour a las comunidades indígenas",
+            "imagen": "https://images.freeimages.com/images/large-previews/5fa/indigenous-people-1433431.jpg",
+            "descripcion": "Traslado en Lancha desde y hacia el hotel",
+            "link": "./comunidadesIndigenas",
+            "subtitulo": "Comunidades emblemáticas del Amazonas colombiano",
+            "intro":"Saliendo a partir de las 9 am desde el Hotel Amazon, tendremos la posibilidad de visitar algunas de las más emblemáticas y auténticas comunidades indígenas que se encuentran ubicadas en el amazonas Colombiano",
+            "video":"https://www.youtube.com/embed/P2jb277Ni1s",
+            "enlaceExt": "https://www.ecologiaverde.com/cuales-son-los-pueblos-indigenas-del-amazonas-1150.html",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado en Lancha desde y hacia el hotel"                
+            ],
+            "tips": [
+                "Conoceremos sus bailes",
+                "Realizaremos una caminata ecológica con la compañía de un intérprete de la región",
+                "Posibilidad de comprar artesanías"          
+            
+            ]
+
+        },
+        {   "id": 1,
+            "paseo": "Canopy",
+            "imagen": "https://images.freeimages.com/images/large-previews/feb/canopy-1560644.jpg",
+            "descripcion": "Esta inolvidable experiencia la puedes hacer sin salir del hotel Amazon",
+            "link": "./canopy",
+            "subtitulo": "Escala hasta la copa de un árbol de 30 metros",
+            "intro":"luego cruza de un árbol hasta la primera estación a través de un puente tibetano, por medio de un sistema de descenso controlado de 2 estaciones podrás sentir que vuelas entre los arboles",
+            "video":"https://www.youtube.com/embed/tdaxH9gYlfE",
+            "enlaceExt": "https://es.wikipedia.org/wiki/Tirolesa",
+            "dificultad": "Alta",
+            "dificultadLogo": "looks_3",
+            "fisico":"Muy bueno",
+            "fisicoLogo":"directions_run",
+            "incluye": [
+                "Equipo para realizar la actividad"                
+            ],
+            "tips": [
+                "regresar de nuevo a el suelo de la selva por medio de cuerdas",
+                "Todo el recorrido se realiza con acompañamiento de profesionales en el deporte y contarás con sistema de seguridad"              
+            
+            ]
+
+        },
+        {   "id": 2,
+            "paseo": "Kayak en el Amazonas",
+            "imagen": "https://images.freeimages.com/images/large-previews/3a4/kayak-1560654.jpg",
+            "descripcion": "No necesitas ser un profesional para disfrutar del rio amazonas en kayak",
+            "link": "./KayakAmazonas",
+            "subtitulo": "No necesitas ser un profesional para disfrutar del rio amazonas en kayak",
+            "intro":"El tour inicia desde hotel Amazon donde tomamos una lancha rio arriba por 20 minutos Aproximadamente",
+            "video":"https://www.youtube.com/embed/aQqSwrkfIWw",
+            "enlaceExt": "https://www.espanol.skyscanner.com/trip/leticia-colombia/cosas-para-hacer/hacer-kayak-en-el-amazonas",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte en lancha y kayak"
+                
+            ],
+            "tips": [
+                " Desde allí inicia el descenso en kayak por el imponente rio amazonas dejándote llevar por la corriente hasta el hotel",
+                "Podrás disfrutar de la majestuosidad del rio y su abundante vida"
+               
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Caminata de selva nocturna",
+            "imagen": "https://images.freeimages.com/images/large-previews/fa3/field-trip-1377792.jpg",
+            "descripcion": "Atrévete a vivir una experiencia inolvidable recorriendo la selva amazónica en la oscuridad",
+            "link": "./caminataNocturna",
+            "subtitulo": "Atrévete a vivir una experiencia inolvidable recorriendo la selva amazónica en la oscuridad",
+            "intro":"La caminata inicia en el hotel Amazon de donde saldremos por un bello sendero de madera que termina en un caño de agua el cual tendrás que cruzar en bote para internarse totalmente en la selva por unas 3 horas hasta llegar a una gigantesca ceiba de unos 200 años de edad",
+            "video":"https://www.youtube.com/embed/tfFzG3MPpE0?start=777",
+            "enlaceExt": "http://www.nomadasurbanos.co/caminata-nocturna-en-la-selva-del-amazonas/",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Guía para realizar la actividad"
+                
+            ],
+            "tips": [
+                "Tendrás la posibilidad de ver insectos, mamíferos y reptiles en plena actividad"
+                            
+            ]
+
+        }
+
+    
+    ],
+    "Girardot" :  [      
+    ],
+    "SantaMarta" :  [     
+    
+    ],
+    "Cancun" :  [
+        {   "id": 0,
+            "paseo": "Chichen Itza",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "imagen": "https://cdn.getyourguide.com/img/tour_img-1191968-146.jpg",
+            "descripcion": "Sitio arqueológico declarado patrimonio de la humanidad por la unesco",
+            "link": "./paseos",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
 
         }, 
         
         {   "id": 1,
             "paseo": "Tulum & Playa Del Carmen",
             "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/00/18/86/29/tulum.jpg",
-            "descripcion": "Ruinas mayas declaradas también patrimonio histórico de la humanidad por la Unesco. Esta foto de Secrets Capri Riviera Cancún es cortesía de TripAdvisor"
+            "descripcion": "Ruinas mayas declaradas también patrimonio histórico de la humanidad por la Unesco. Esta foto de Secrets Capri Riviera Cancún es cortesía de TripAdvisor",
+            "link": "./paseos"
 
         }, 
         {   "id": 2,
             "paseo": "Isla Mujeres",
             "imagen": "https://www.visitmexico.com/viajemospormexico/assets/uploads/actividades/actividades-principales_quintana-roo_isla-mujeres_descubre-el-museo-subacuatico-de-arte-de-cancun_01.jpg",
-            "descripcion": "Sus aguas tibias y transparentes son el hogar perfecto para delfines y tortugas"
+            "descripcion": "Sus aguas tibias y transparentes son el hogar perfecto para delfines y tortugas",
+            "link": "./paseos"
 
         },
         {   "id": 3,
             "paseo": "Jungle Tour",
             "imagen": "https://cdn.mexicodestinos.com/tours/jungle-tour-cancun-canales-laguna-min.jpg",
-            "descripcion": "excitante tour donde podrás conducir tu propia lancha rápida para dos personas"
+            "descripcion": "excitante tour donde podrás conducir tu propia lancha rápida para dos personas",
+            "link": "./paseos"
 
         },
         {   "id": 4,
             "paseo": "Xcaret",
             "imagen": "https://www.xcaret.com/img/paquetes/xcaret-1.jpg",
-            "descripcion": "visita uno de los lugares turísticos de México con mayor reconocimiento a nivel mundial. Redescubre tu amor por la cultura mexicana en Xcaret."
+            "descripcion": "visita uno de los lugares turísticos de México con mayor reconocimiento a nivel mundial. Redescubre tu amor por la cultura mexicana en Xcaret.",
+            "link": "./paseos"
 
         },
         {   "id": 5,
             "paseo": "Xelha",
             "imagen": "https://es.xelha.com/img/entradas/xelha-todo-incluido-7.jpg",
-            "descripcion": "vive experiencias únicas en caletas, cenotes y lagunas, en medio de un paisaje incomparable, uno de los más bellos de Cancún y la Riviera Maya."
+            "descripcion": "vive experiencias únicas en caletas, cenotes y lagunas, en medio de un paisaje incomparable, uno de los más bellos de Cancún y la Riviera Maya.",
+            "link": "./paseos"
 
         },
         {   "id": 6,
             "paseo": "Tulum - Xelha",
             "imagen": "https://es.xelha.com/img/entradas/tour-xelha-tulum-4.jpg",
-            "descripcion": "La combinación perfecta entre una Maravilla natural y la cultura maya"
+            "descripcion": "La combinación perfecta entre una Maravilla natural y la cultura maya",
+            "link": "./paseos"
 
         },
         {   "id": 7,
             "paseo": "Xoximilco",
             "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xoximilco/mobile/xoximilco2.jpg",
-            "descripcion": "Las fiestas mexicanas son las mejores, y sobre el agua, en Cancún, ¡mejor!"
+            "descripcion": "Las fiestas mexicanas son las mejores, y sobre el agua, en Cancún, ¡mejor!",
+            "link": "./paseos"
 
         },
         {   "id": 8,
             "paseo": "Xenotes Oasis Maya",
             "imagen": "https://d3fky3asuafjls.cloudfront.net/OyCfxHxK6OPbKAUHUUh_9XXLjRA=/fit-in/720x440/filters:fill(000)/02/10/46/02104660.jpg",
-            "descripcion": "el único tour en Cancún y la Riviera Maya, que te lleva a conocer los cuatro tipos de cenotes que existen en el mundo."
+            "descripcion": "el único tour en Cancún y la Riviera Maya, que te lleva a conocer los cuatro tipos de cenotes que existen en el mundo.",
+            "link": "./paseos"
 
         },
         {   "id": 9,
             "paseo": "Xenses",
             "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xenses/mobile/xenses2.jpg",
-            "descripcion": "Diviértete en más de 15 actividades con escenarios fantásticos que recorrerás por tierra, aire y agua"
+            "descripcion": "Diviértete en más de 15 actividades con escenarios fantásticos que recorrerás por tierra, aire y agua",
+            "link": "./paseos"
 
         },
         {   "id": 10,
             "paseo": "Coba-tulum-cenote & Playa del Carmen",
             "imagen": "https://www.rosatoursmexico.com/galeriart2-en/DETALLE%20USA%20Tulum-Coba-Cenote-Playa%20del%20Carmen-Chichen%20Itza%20e%20Isla%20Mujeres.jpg",
-            "descripcion": "Zona arqueológica de Tulum, Zona arqueológica de Coba y Entrada y tiempo libre a Cenote"
+            "descripcion": "Zona arqueológica de Tulum, Zona arqueológica de Coba y Entrada y tiempo libre a Cenote",
+            "link": "./paseos"
 
         },
         {   "id": 11,
             "paseo": "Xplor",
             "imagen": "https://www.xcaret.com/img/admisiones/es/slider-admisiones/xplor/mobile/xplor3.jpg",
-            "descripcion": "Parque en el corazón de la selva en donde podrás realizar actividades de aventura, con el equipo más moderno y seguro"
+            "descripcion": "Parque en el corazón de la selva en donde podrás realizar actividades de aventura, con el equipo más moderno y seguro",
+            "link": "./paseos"
 
         },
         {   "id": 12,
             "paseo": "Dolphin Splash Delphinus",
             "imagen": "https://www.cancunalltours.com/images/delphinus-se%C3%B1ales-al-delfin.jpg",
-            "descripcion": "Nada con delfines en los hábitats más exclusivos de Cancún y Riviera Maya"
+            "descripcion": "Nada con delfines en los hábitats más exclusivos de Cancún y Riviera Maya",
+            "link": "./paseos"
 
         },
         {   "id": 13,
             "paseo": "Coco Bongo",
             "imagen": "https://cdn1.cocobongo.com/site/images-gallery/large/coco-bongo-show-telas.jpg",
-            "descripcion": "Prepárate para ser sorprendido con acróbatas voladores, impactantes tributos musicales y la continua atmósfera de fiesta que nos ha hecho mundialmente famosos"
+            "descripcion": "Prepárate para ser sorprendido con acróbatas voladores, impactantes tributos musicales y la continua atmósfera de fiesta que nos ha hecho mundialmente famosos",
+            "link": "./paseos"
 
         },
         {   "id": 14,
             "paseo": "Capitan Hook",
             "imagen": "https://i2.wp.com/www.capitanhook.com/blog/wp-content/uploads/2016/12/imagen-canvas-afuera.png?fit=2065%2C1079&ssl=1",
-            "descripcion": "Navega en el Galeón I, El Bucanero II o La Perla Negra, auténticas réplicas de Galeones Españoles del siglo XVIII . Construidos en España"
+            "descripcion": "Navega en el Galeón I, El Bucanero II o La Perla Negra, auténticas réplicas de Galeones Españoles del siglo XVIII . Construidos en España",
+            "link": "./paseos"
 
         },
         {   "id": 15,
             "paseo": "Columbus",
             "imagen": "https://d3tf9yuhsp2bpn.cloudfront.net/Columbus_1.jpg",
-            "descripcion": "disfruta la experiencia indescriptible de navegar en el Galeón Español Columbus, que encenderá tu corazón para darte un lazo más profundo con aquella persona que tanto amas"
+            "descripcion": "disfruta la experiencia indescriptible de navegar en el Galeón Español Columbus, que encenderá tu corazón para darte un lazo más profundo con aquella persona que tanto amas",
+            "link": "./paseos"
 
         },
         {   "id": 16,
             "paseo": "Holbox",
             "imagen": "https://cnnespanol2.files.wordpress.com/2018/04/cnn-holbox-3.jpg?quality=100&strip=info&strip=info",
-            "descripcion": "Descubre las paradisíacas playas de la Isla Holbox"
+            "descripcion": "Descubre las paradisíacas playas de la Isla Holbox",
+            "link": "./paseos"
 
         }        
+
     
     ],
-    "Guajira" :  [
+    "Curacao" :  [    
+
+    
+    ],
+    "Panama" :  [
         {   "id": 0,
-            "hotel": "Guajira",
-            "slogan": "Vive la cultura",
-            "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+            "paseo": "Tour Panoramico",
+            "imagen": "http://www.arqueotur.org/images/yacimientos/yacim_4510-Panama%20Viejo.JPG",
+            "descripcion": "Visitas al Conjunto Monumental de Panamá Viejo, Torre de la Catedral, Centro de Visitantes de Miraflores, Islas de la Calzada de Amador, entre otros",
+            "link": "./TourPanoramico",
+            "subtitulo": "Nos dirigiremos al Conjunto Monumental de Panamá Viejo...",
+            "intro":"...para conocer su emocionante historia que inicia con su fundación en 1519 y que alcanza fama por ser la ruta de tránsito entre el Atlántico y Pacífico, así como centro de las expediciones hacia norte, centro y suramérica, hasta su desenlace tras ataque del famoso corsario inglés Henry Morgan",
+            "video":"https://www.youtube.com/embed/NwEHecWudvI",
+            "enlaceExt": "https://www.visitpanama.com",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Islas de Amador Construido con material excavado del Canal",
+                "CascoAntiguo-Patrimonio histórico mundial declarado por la UNESCO",
+                "BioMuseo–Diseñado por el renombrado arquitecto Frank Gehry",
+                "Canal de Panamá-Maravilla del mundo",
+                "Guía de turismo, cómodo transporte con aire acondicionado",
+                "Entradas al: Canal de Panamá, Biomuseo y Ruinas de Panamá La Vieja"
+            ],
+            "tips": [
+                "Torre de la Catedral que en sus tiempos servía de mirador y desde la cual hoy en día disfrutamos de una impresionante vista de la ciudad actual",
+                "Iniciamos en el Centro de Visitantes de Miraflores en El Canal. Una vez allí, podrá recorrer los 4 pisos de exhibiciones que ofrecen divertidas e interactivas atracciones que lo harán sentirse parte de la operación del Canal.",
+                "Tendrá la mejor vista de la entrada del Pacífico de la vía interoceánica",
+                "Continuando nuestra gira, nos trasladaremos hacia las Islas de la Calzada de Amador, donde se conectan cuatro islas de la Bahía de Panamá y lo hace sentir dentro del mar",
+                "Por último, haremos un recorrido panorámico por el Casco Antiguo, ciudad de origen colonial que data de 1673 y que sigue más viva y pujante que nunca",
+                "Hermosos monumentos civiles e iglesias de arquitectura colonial, barroca y neoclásica",
+                "Al culminar el tour, vamos a dejarles en un centro comerical para compras de 2 horas antes del traslado de vuelta a su hotel en Ciudad",
+                "No incluye: el almuerzo",
+                "Duración: 10 Horas",
+                "No se garantiza ver como un barco pasa por las esclusas"
             
+            ]
+
         },
         {   "id": 1,
-            "hotel": "San Andrés",
-            "slogan": "El mar de los 7 colores",
-            "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg",
-            "descripcion" : ""
-        }   
+            "paseo": "City Tour y Canal de Panama",
+            "imagen": "https://ep01.epimg.net/elpais/imagenes/2016/06/26/opinion/1466959344_702836_1466959664_noticia_normal.jpg",
+            "descripcion": " la mejor vista de la entrada del Pacífico de la vía interoceánica",
+            "link": "./CityTourCanalPanama",
+            "subtitulo": "Tendrá la mejor vista de la entrada del Pacífico de la vía interoceánica",
+            "intro":"Iniciamos el tour en la mañana con un traslado de aproximadamente 2 horas a la Ciudad de Panamá",
+            "video":"https://www.youtube.com/embed/UfAXvawanOo",
+            "enlaceExt": "https://es.wikipedia.org/wiki/Canal_de_Panam%C3%A1",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Canal de Panamá-Maravilla del mundo",
+                "Islas de Amador Construido con material excavado del Canal",
+                "Casco Antiguo-Patrimonio histórico mundial declarado por la UNESCO",
+                "Guía de turismo",
+                "Cómodo transporte con aire acondicionado"
+            ],
+            "tips": [
+               "En la capital visitaremos el Centro de Visitantes de Miraflores en El Canal de Panamá",
+               "Una vez allí, podrá recorrer los 4 pisos de exhibiciones que ofrecen divertidas e interactivas atracciones que lo harán sentirse parte de la operación del Canal",
+               "Tendrá la mejor vista de la entrada del Pacífico de la vía interoceánica",
+               "Continuando nuestra gira, nos trasladaremos hacia las Islas de la Calzada de Amador, donde se conectan cuatro islas de la Bahía de Panamá y lo hace sentir dentro del mar",
+               "Por último, haremos un recorrido panorámico por el Casco Antiguo, ciudad de origen colonial que data de 1673 y que sigue más viva y pujante que nunca",
+               "Hermosos monumentos civiles e iglesias de arquitectura colonial, barroca y neoclásica",
+               "Al culminar el tour, nos trasladamos a un Mall donde los turistas tendrán la oportunidad hacer compras por 2 horas antes de que regresamos a su hotel en la Playa",
+               "No Incluye: Entrada al centro de Visitantes Miraflores (USD 20,00), ni el almuerzo",
+               "Salidas desde: Hotel de Playa",
+               "Duración: 10 Horas"
+            
+            ]
+
+        },
+        {   "id": 2,
+            "paseo": "Tour de Compras",
+            "imagen": "https://www.planap.com/Uploads/planap.com/ImagenesGrandes/buggies-arena.jpg",
+            "descripcion": "Paseo hacia el gran Westland Mall",
+            "link": "./TourCompras",
+            "subtitulo": "Nuestro chofer lleva los clientes al sitio ‘Los Pueblos’ estos son unas Plazas reconocidos por las tiendas con buenas ofertas ",
+            "intro":"Directamente en frente de Los Pueblos está ubicado el Metro Mall, los clientes llegan desde ‘Los Pueblos’ al Metro Mall cruzando la calle por una pasarela",
+            "video":"https://www.youtube.com/embed/KzM3Yu4WWY8",
+            "enlaceExt": "https://www.metromallonline.com/panama/restaurantes",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte terrestre",
+                "Cupones de descuento",
+                "Orientación por parte de nuestro chofer/guía"
+            ],
+            "tips": [
+                "A las 14:00 horas nuestro chofer busca los clientes en el Metro Mall y les lleva al famoso Albrook Mall. Allí los clientes tienen aproximadamente 3 horas más para sus compras, después traslado de vuelta al Hotel ",
+                "No incluye: el almuerzo ",
+                "Salidas desde: Hotel de Ciudad",
+                "Duración: 9 Horas"
+            
+            ]
+
+        },
+        {   "id": 3,
+            "paseo": "Tour de Compras Zona Libre de Colon",
+            "imagen": "https://d3fky3asuafjls.cloudfront.net/PusTHAHmZnTflwaed_c37haKDH8=/fit-in/720x440/filters:fill(000)/01/80/82/01808205.jpg",
+            "descripcion": "Despues del desayuno nuestro chofer busca los clientes en su Hotel de Ciudad o en el Summit Rainforest Resort y les lleva a la Zona Libre de Colon",
+            "link": "./TourComprasZonaLibreColon",
+            "subtitulo": "Despues del desayuno nuestro chofer busca los clientes en su Hotel de Ciudad o en el Summit Rainforest Resort y les lleva a la Zona Libre de Colon",
+            "intro":"Operación de lunes a viernes, cerrado días feriados. Duración: 8 Horas. Salidas desde: Hotel de Ciudad",
+            "video":"https://www.youtube.com/embed/DspXkn-nRbU",
+            "enlaceExt": "https://compraenzonalibre.com",
+            "dificultad": "bajo",
+            "dificultadLogo": "looks_one",
+            "fisico":"Normal",
+            "fisicoLogo":"directions_walk",
+            "incluye": [
+                "Transporte terrestre"
+            ],
+            "tips": [                
+            
+            ]
+
+        },
+        {   "id": 4,
+            "paseo": "San Lorenzo de Costa a Costa ",
+            "imagen": "https://www.enexclusiva.com/wp-content/uploads/2017/02/San-Lorenzo2.jpg",
+            "descripcion": "visita al imponente castillo de San Lorenzo que data de 1597 y el Centro de visitantes de Agua Clara en el Canal",
+            "link": "./SanLorenzoCostaCosta",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+        {   "id": 5,
+            "paseo": "Portobello de Costa a Costa ",
+            "imagen": "https://fortificacionescartagena.com/wp-content/uploads/2017/06/Fuerte-san-fernando.png",
+            "descripcion": "visita al Famoso Castillo o Fuerte Santiago de la Gloria",
+            "link": "./PortobelloCostaCosta",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+        {   "id": 6,
+            "paseo": "Fiesta Panameña",
+            "imagen": "https://www.ecured.cu/images/1/18/Panamita.jpg",
+            "descripcion": "El espectáculo inicia transportándonos a algún momento en el tiempo cuando los fieles que atienden a la misa durante el Corpus Christi,",
+            "link": "./FiestaPanamena",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 7,
+            "paseo": "Emberá Quera",
+            "imagen": "https://i.ytimg.com/vi/hdAdtJ4wV18/maxresdefault.jpg",
+            "descripcion": "Paseo hacia el Parque Nacional Chagres. Al llegar, abordaremos las famosas “piraguas o canoas” que son botes tradicionales Emberá,",
+            "link": "./EmberaQuera",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 8,
+            "paseo": "Bar Hopping Casco Antiguo",
+            "imagen": "https://ofertasimple.com/uploads/pictures/deal_mail/54a0d8f675749289d6645fe7e732abdc.jpg",
+            "descripcion": "Tendrás a tu disposición acceso a 7 bares de la localidad, en donde serás recibido con un cocktail.",
+            "link": "./BarHoppingCascoAntiguo",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 9,
+            "paseo": "Teleférico Y Exhibiciones Ecológicas",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQI5jvzJdSrqqmKL_g_9ejg2N7_w9JNi3LcKC4Gg8K_9nV_LD8&s",
+            "descripcion": " Viaje con dirección hacia los adentros del Parque Nacional. Avistamiento del Rio Chagres y su desembocadura en las aguas del Canal de Panamá",
+            "link": "./TelefericoExhibicionesEcologicas",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 10,
+            "paseo": "Full Day San Blas",
+            "imagen": "https://cdn.civitatis.com/panama/ciudad-de-panama/galeria/islas-san-blas.jpg",
+            "descripcion": " Visita tres islas para disiacas en las cuales se puede nadar, hacer snorkel tomar el sol y degustar un delicioso almuerzo a base de pescado",
+            "link": "./FullDaySanBlas",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 11,
+            "paseo": "Cena en el Canal de Panamá",
+            "imagen": "https://i.ytimg.com/vi/dRVgXVGK2C8/maxresdefault.jpg",
+            "descripcion": "visita el centro de Visitantes en las esclusas de Mira flores con oferta gastronómica",
+            "link": "./CenaCanalPanama",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 12,
+            "paseo": "Jungle Land",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamGYIjjn7pLqCSwVh7kmu6XJjXkvJC8GsSMDQYjNkz6tXwf7Wgw&s",
+            "descripcion": "Actividades de búsqueda de vida salvaje. Algunas actividades de pesca también son ofertadas",
+            "link": "./JungleLand",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 13,
+            "paseo": "Autobús Turístico (Solo Bus Ticket) ",
+            "imagen": "https://i.pinimg.com/originals/ee/97/43/ee9743fc3dd5712c1e3e84eddf2ba744.jpg",
+            "descripcion": "Emblemático bus rojo, doble piso que le permite recorrer los mejores atractivos de la ciudad",
+            "link": "./AutobusTurístico",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 14,
+            "paseo": "Full Day Contadora",
+            "imagen": "data:image/jpeg;base64,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",
+            "descripcion": "Recorrido en ferry a la Isla de Contadora que forma parte del Archipiélago de Las Perlas",
+            "link": "./FullDayContadora",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 15,
+            "paseo": "Tour al canal de Panama",
+            "imagen": "https://cdn.civitatis.com/panama/ciudad-de-panama/tour-canal-de-panama.jpg",
+            "descripcion": "Visita al famoso Canal de Panamá, conoce su operación y funcionamiento recorriendo el interactivo Centro de Visitantes de Miraflores",
+            "link": "./TourCanalPanama",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 16,
+            "paseo": "El Valle De Antón",
+            "imagen": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUSExMWFhUXGBoXGBgXGBoYGhgaFxoYFxgXGhcYHSggGholGxcYITEhJSkrLi4uGB8zODMsNygtLisBCgoKDg0OGhAQGy0lHyUtLS0tLS0rLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKy0tKy0tLS0tLS0rLS0tN//AABEIAKwBJQMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAIFBgEAB//EAD0QAAEDAgQDBQcDAwMDBQAAAAEAAhEDIQQSMUEFUWETInGBkQYyobHB0fAUQvEjUuFigpIVM3IWU4Oi0v/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACYRAAICAgIBBAIDAQAAAAAAAAABAhESIQMxQQQTUWFxgRQiUjL/2gAMAwEAAhEDEQA/APo7kMuUe0Xcy9SjkO510VEElQzp0A5nXM6WD1IPSodh8672iDMXJtz5LNcc9qWtllAgnd+oH/jzPVKh2ampXAEkwlH8WYP3BfO6/FKj/feXeJSzq5O6dIVs+iu9pKQMZl1/tVRGpPldfNu0XjUQ1ELZ9Mw3tHQqWD8p/wBVvjorRjl8e7RWfDuP1qMBr5b/AGuuPuFNLwO2fUmOui5wqHhHGGV2y0wRq06g/UdVYioVLiVY859kB9RCNVCNRNRBsK568CUHOph6dCPEr36iEnj+KUqP/ceAYkDUnyCzOO9rmz/TZPV1vQBOhNmtfiUHtSViK3tZVOjWjyn6pc+0+I2cB/tH1VaFbN8Si0yvnP8A6kr/AN/wClS9qcS2e+DPNot4IbQj6QQj06AXzZntfiR+9v8AxH5siM9scTM5m+GUR91Lsdn0ltAAruUL51T9tcRvkP8AtP0KdwvtyZ/qUhHNhv6H7pUx5I3ecKJrKrwvEGVWZ6bpHy6EbFddWQoCyH3V0P8AUKtfXQnYhaLjE5FjWxUCyRqVUq/EIDsStIwohyGX1l1V7sUvK8SLNFWokIBes4fad51AUT7R9FkovyaWjTCouErLDj/Re/8AUQ5FFBZqA5dfWa1pc4wAJJ6BZin7SibhC4/x5rqWRmrve6AbeZ+SmWkUhTj3H3Vzkb3aYNhu6N3fZUuZRLlAlZZFUTLlwuUHOXApyHRPMukoTnLsqXIdBG6qJdCi2pGupUS8WCnIdDNOuWkEEgjQgwfIq74d7U1qdnHO3/Vr/wAtVmTUupF9lamTR9KwftHRqCXOyEah30O6bo8SoOuKzPNwHzXy+lX2RC9aqSYtn1bO2M2dsc5EeqpuL+1FOkC2mQ9+27Qep38AsA6ohvqJNgGr4hz3F7nEuJkk7oL3IfabqIduoch0TzLkoZcuB3ojIKCZl0OQsxlelPIKDSu5kEuXMyMhUHLlJr5QA/wXWlPIKLDBY99J2Zjsp06EdQVp+D+0naEMqAB2zhYHxGxWLLlHOmpUS4n017kF9RZzgfHiT2dUjo4/AH7q/e1dMGmZvQKpUSz3pl1NcFELVECOcrqZfQXlRJlM66HobgoErjyOig5coFyHnUotO3zUuQ0iMrpUspK5UBFoN1jKZaREqDyu/BQOqzyKojO6g53z2Uqz46hDNhJU5DokeQRalrITXRsvPdJSbGecVD85KdRw5gITTG3n+bJZASZ+EqYqiNLIIGlrrz2kHToiwoI4kaaIjakhLMB1nqi06ZiyrMVEy9RzKGWPFTNvT8CpzCj0rxIKgSfBRY0qMh0Scdv5Qg5dbV2XiZ+yeQqJayuQoudZczFOwonbaVMPQl4+SLCiebkpgoRIXh0TsVBgVNCCMwbq0ySDgtX7M8Tz/wBKo7vfsJ3EaT5LMuCgw/n+VpGTTtEyVn039C5MUeGO1hYvgntJWw5AnOzTK68eHJbBvtph3AElwPItNvMLX3ZPojBeSwp4Vo/ZfqvKqd7W4f8AvP8Axd9lxGx6MEWkm0nquCgTayt7a5Z8yPReqVmiwaPH+QuD+Sa4lZTwO5uj9hP8fFWDMRJ1aPIaHqFCrWaIuPK4UvmbGonW4ZjBrJ8NEnXDeep8fkjvrs1JB8jEJKvjWi4a2JGw9VnmXQGrSEwyYB5a80tVonfn8EzUxoOusX5fnRKsqZ56c5/JTUgo46kLRc+P0QcvnHlKYLxcSPK8jx2UczSdT9/JL3KHQu+lfUidT9FNjNLeZ1R7D9vrB+qial50Gyn3LCgHZxbVdFM8hZTfWg2Hx+692wjvG+sfRJzHRzKY1t0/hdLZ3+a4Kjtm/JHa076qXyUOgcxbbquZXTYHkmxStquBg6HxU+6KhRzHm+W3ouil4HnJlNFw1BkeK6D5I94KFOzGxHiJCi8TbMDztqE04Nm8+W/ovFl/z0T94KEHt2t5yoGj4eqfdQG4nxv+f4UalJogAAfnJWudBiKMpgc/D7c1KpSEXtCmKAzXn4/Cyi2swcz46Kly2KgZA5+i82nJhM04d3rRpCjVqAEQL7RsPJC5QoXNPZdykBNdkD6fmqE+mdtes/NUuVCog12xsiZzEXQHMcbwPK65UqEbafHwWi5UKhprhz9Vx9SBslTUmIF+am6o3cfVUuVCxDtxHJTdXAuUtTqN29SuValpmeir3UTiMDEryQ7XovJ+6GJoO22zdQEP9U2bST0/hV7gN3HyFk4HU294CTpy9FwKvk1oIyuSIyx1Nt9yUFjnyZLYOn+FJ1QHn+bIFWsRrbewufwpWM6x7i6TobRpP+EWoxsRJ8NY+CE0CBLoM/lkR0CL5Z5zy8OoRb8FJAxh2Ed5x8fyyHVpGwHu6TGo+67iJjnyOg8Fygy2UuNrjyulkwO0jTZOsnd3LoiYWvmcLWg3HPWb6G8W5KGLewkFwkjluhmtb3QBtpp5KHJ+AGX0nnp4k/Lp9Um+mTqY9ST5I+SW5jNuZPyXKHaOkTljbY/VSpSACymwRLpdrcctkVjnG4yeMlHNJuWS5rugn0lLPFK7btJPUDqnvyFBm4sTtP5deFW9/WfyEsyg33c0Rvr0RhhAGyRbnf8AhKojPV8Rvz6o1LEuIgX9PqkzhQR3Z89ESjhWtMl2b5IqPQjhxhDuiZbWJgWvy+8hDfhmHlO0fyk+we05Z78wG/ad1UoIB19YzyjqCpmrYnMB5wf4TuF9nK76bCQZqGw3bqO8NtJQzwKo15pslziYmJaSNbpvilQFc+s4aRz1+J/lGY5/7spI5EfgSdSnUa8h4IcCWmGzpbZFbw+pBdlqCYIlh6owAeNUEXAGx/wln4Vmhd+FBdUAEOiSZMi/j0UnvbIOQ+IJ+I+qV/QA6zCywdYbAzF+qHTDiZFxudYTP6ek4GA+51F/4Xn4EtiA4A7uIGnSJK0iJIK0SbTPgvV2gXkg9bfNcYXj3BrBJ38NUSpmIBIg721CbcR0JYmrlgazfVcNYC8Jl2EYQCDEagaLtSkXASx0WAcDMff/AAjQUKPJAnKb77IbQXaCZ0jfwTbm1D3SyRab/kFBxGEJdLWwJteY6SNSmvkTRF+HcLOpkEaggg+KJR4c151I6aKX6S4zEk6a9VHsnDS/rtZS5rwIc/6NSH7nHzA+i6vPwotLxJuZJH0Xk838hQlnvGp3iCB0BGqhUxbm20TtPE03SOyI/wDGwn/aAEvXptJgNsbzefiUqS2VRCliqj47hd10TVOk1pBfBJFxGiEWsEAFw85v6c0u8tBJMmd1D30ASu8NJOckX00HTqpGq+IIIbr1XhGUG0a2A2+XilzxdswBr0n5KG34QMdZhw5o1G/eIv5SuDDDMZkkebfnqq+lxIG8TBsnHY0iCT8kmmuwJPn+6BMdfBAqYgSTbzvC63GtBktBOk8rIzsU3LOUesabppAAl747hA6H7n6BLnHZO6RDt/zkhjHuc7K2+wCfpcEfWeA8FokTlGYnzFjY81pHjfwI5UfmYBmynX+UrR4dUqOOQt8fmAFcYvhwY5lMjUgTewmJJ8LwmsA5n9QObEMcBAMOMH42EIiknVlJfJSU+E1GXkPPQmx89kyG15AmxsZf8InVWWIxbXU2EUsjg157oMEZgO9J94XhU9EueSZ0sSdtlMtOxuvAapRc0tYIzaCSfz15FMf9NeWxIHWcs+G67TJImoAHSIvMWk3+CKxxfYlvnbzWWSuhUhd0MaGua0uB98Azy1SoxJn3vzz6K4xGEtBIA+XWfJI1eEMzAh+hEgxBjotak9tDcGGdxxwBayoWAkEtzOMkAXt1AgLVPwVIgGpi3ZhEZgREtY5xJy93UjfQXvbF4nhGaINNsawY+ACeqYIutUe1wtdpAIAtAMWsFpBuK2gxkXgwVTNU7pcwPIaXRL2ye9B8jsnKNYOpHD1Kp7RokNEyABI6H7Qg4fiFMe7WxFMkxlYWuEbASDa0x9knistPE06x7R7YgueGyAQTJAEA3IHitMIw2vPYmn2UnEaDi0vkCDBLmidYPmlDUDhDQCYgmSDPgd/JWvHcTScZpOLQXCW5QRMXKBhqFIOEEDOAbbEn3XH4+YXPfYWiv7YstlcD4D56o9WrNnOMxzNuusK+xfCXGSMotPpy9FSf9Lc0lxOYToRBHxuENlNA6GHL5yVWNI/vdY29fgjjg9Zwcc9EgT7pOoEm+X6qUtaBma0b2MaeG6RbiHtc7vFoOt7HfzQqrYNqujzcSMvduD0FvTwUG1HHYtHIX8CvBkgBsenxR/0wykCxG+qV10SFoVmkHQXiC523nZJ4l1T+2G85BGsbKVRliYk7xr6IlN5yyTEkiIn88FSpi7EDjYiZM7jbxCLSxh0tB0IQcUxrrMDZtefgVClgIsHjMTpIARSFRafpi68/EfWF5LOw9UEj5SV5L9jD0XO0iAOSBVrsNjz56olfExIjf1uksRiDBfE6D3RYfm6qgGWUWuIIMfBTxWDtJeIt0mN77qmo1TmzNBDdSSOXJPVsQ7JprpO08oP5CPwAvVxDhItl56z5hToBh7xZcmIjffe2qA5xADDpF436Qi4am4iwiDa3PmFDEM1KLJBDGgi+pB9NEoagqOAjSZHL80U3NJGmsjVM8PwLoJDRJ336zCSdIpIrscw7WB2F0aox8d2SGj08lZ0cE4nusnabbbpnA8DqPdcw02MC0IzS7G4lTh8YxsxSBdzPeM/Ra+hXcKedr8gABM0402kTN0TBezlCnfLJ5lOcRpB9J1PKb8raHZZy570loMTOH2iqGoxztGza8X6DkQtNh61d8EGkWmHbix8tYWKPDXZ3Mgho3Go1hbPC44sAZsBAkRoIEqW1HocU2R4o9xa4AsaBuQ8jqbCCsk3ENZAEtv4yY3laTjmLL2Aft3OnlG/+Fn24NuYEHM64A6n3YHOdEKWWmKSYOrXkaza8KTaJ7pBkuMQNdYE8rndanB+y7GilRq9/EPBdo4sYBrOVzSBsOZV7W9lqTILcO8gQZGd7bWu0E33uF1L01diSM601KVKHhzTnFyYDmjQgnzRKdZ5I71e+I1gEd7LBsf8At318Vpq3B6OIaW1qVRuUEh0loBAgZgbxdZah7JOcQe0ouYf9BNvA6lbtyj0tDpt0W3DqxLT/AN0/1K3ecGy3vOvBPu/29AFzguKBohx7SoDnILmAFsTIN79ETCcBpUgcrr7ljQ3TaQDaVZYjC06lHsi2Y/cbk35kaj6BNTb8Fe3IpuFua6phmOc/KWAnNTAJBbBzGZzTfn1Vvj/Zyh2T8tanmDCSQXF0gXMOeQZIi43VdT9nqTXsexz2lpBtESDoQRp4K9xVRrpIaGyCI6+gQnf/AEGEl0YTh3s7U7J5LQ4vbHeNgNYgCWukdCqjFcLq06gGUWAhonYayfDdb/AYV1Fu1SB77nv0vJcCTcW05aJzGcKbiKbXCASAQReCeu4Tlxpw/qZ04vZlOH0ahZ38wdGn4UUcPdUbBZEG3+bogqdmS2qIcLePx0T+HrUy3MdZPnyuuFGlmQ4h7P1WuLiAWRpNweiRr04vrsCrjiHGHAnM09G5o877RySJomrTD2M7hcZAOnlPis48rb2ie2KUqMd8yBFhB111XS7Yz4/wjU6bogS4dfFDxLTrBy7kea2YNCZeMxFK7uRsPAJg8NrPAcWgEcyY6WhNcOdTLxeHTqNptMhaVvBRIIqS6Od41A10QvpE9GXp8JaQQ5rWxqRYjzXWcLpTmbmBH7gQZI6LUYrgr3BwLRfkY15JXC8DdTbHe/3QR6gJNP7QWV/6QkA5z/xM/AryfdRqAkQBHMfK4leWeL+Scl8mLqAmRMk/AeJ6IFV8HK30sPkjuoXjPrFx9PgpDhRNs0/nNbykkyxFz3ASbHpy23UKGNdmga6TrAHQq6bwcRBMjf8AlSrYCkBlkg2kixjqVDnGhFfTe6pzI6WnpfX/AAmxhnNGXVxuNJsOYRqeFDDmzTtewAUMRiBGuWPXyhZ5X0NIULCSJFvp1PWCfJX2BqtszK0AW0381lqGOIlsA/6tN+UK14U4EuuCSI8J5AeiJpoqJfVg0MIETmPjHL/CBw3EvZmcXmAdNJgG35GiqKVWZ1Lpu0WHjZQw1YkuBJMc+nIKK7L0ayrxUjI+CWGRUHLTKR11RWcUpukNM2sD5yPVZHHYkk5ZLrg205Tqu4HFNaYMyL+MxZPDQvJaYnFRJmXE3O5XaAe5wdMCeX5HOVUio+o4hv8AcNeXOFpAwNeb2yg+J6BQ40XYzXoNIyGGiLEHe148U/7D8PYe1ruIJpFrbwIm896LrP1K7xtsYGngnfYvHEUMSwA9540N7Dabb81v6WLfJbM5vRvsLw9uI7Rxe14MQbNygGcuenciRNyrJvFOybGVr26hzX2M+SzXBMaGUq2dhNNzHZ5IBgA5gMvSfVZTi2Lo5QcMatKmWtyta5wI/qODjJM+9PkvRlrszW0b12JdinvptAYMjgQXZsxcIGg213VfhuE1wC1jM0G7pib/AOoD0Vf7IYjs6rjUzOeXVMt9obJM8gQr72dxoYKsCxvOXJfvXvqiskNScXoXdwvEf+w7yc37rzsFX/8AYfP+z/8ASZ4FxAMp1o0MmQMsHva/mynwTiOWlV3mSCDYHvaybbacksB+7ISGGrb0Kn/1+AlE7B9szCxo1LhvyGqd4LxENo1bzqcwdIEzvmsjcEqNq0alMhtW5LQXZwTqBLid4ScKGuVlbniwFgN4knqj0K0fZD4DUp4h7mHCUm5ZmOki0iNRCBw3F0qr6tM4VlM02uJhxJGUaxGxsnG09DlyKSponxfhTa7ItOjSTpPMTosl2dWiRScAXS7MNdTY2OsQtNwfitN/dnSxkfb7Ku49wfKTVpOkawJkeFtlHqOPWUV+TKMiixnC3vcKgLJykHMDYdOvVFwOHxLRl7mTlpbc6a+KlhMYdNxzVpSed1xal0jXTKuvhIBAFyZMaG2mmqqqtXKYeADF9PnC17SFDFcLo1BDmNuZ5fEI2FmQweEpPOYmoXakAgSBtI93wstNTrUCGtNMTA3uPT7oNP2Yp0yXU3OaSL3kHlslHYDEse4iHNP9pM6XseZVKf0SWIxlJpgmqz/dI9bp6hxCjp+oBHJ8fMxdZulSPu1A6Tz1kXnNoiMwI566En5QqjzRRNGzFBrgC1ocPI/JeWWax7bAZuoMT43Xk3JvdFaMJw+kMsEgumb9fqnu3DRe/QfdKU8JTj3vGD8+SYpsY0ak/Tn4rmk9kkauKMbAfzy+SUr4gNmB1t8zGibY5tg7XpM+iBU7MEta03uSdPDRP6AQdi3EnWNp+yhRpuqPy5p8fkn8PQpZpgvcbHWGjfzVpgMKGxlaGtHMSSec66J5pdIaQxwzgTB7wnndFccOHOaKeggEWn/CaGLY0ESJAvoqatiL5hmMzZokfL6qeTl8FOVdASbkwGt3OkmUXK0GSZkRFt0KBUhxJIBMA8wdTyvsgUcUO2gtLgZyxBGa405R5BYW3dEWWTiwtDW0iwRcgcrbo3COHYWo6GvLjGht8t0rVcXEl0QATabERoJ06CfooUKnZODgHEaCRvzkI4+d3spS2X1fhFOnGUR4G6TOpJkECIOsJmh7Qtc0y0tF4dueW3iq6ritgLwT9fRbSlbqJpaIPrgyAeh/Crj2ewuVvZge8/S1yRYSVS4LAglwklxGZ1oyzynbW/RXeHoXDpJykEEd3KRoQTcnquvhuLuiJdF3TrtpCpb3QcwGU6RNh+WVJxPEVKvfoUnHM0AHLoW1Hsdp1+ilhaGHNc5mEOkuLpjMTr3o1P3WmrVYcDSDabI9wNDmzM5hBbEz1XQpSnZOkUOHqvwwqPqCSO0fAgnKQNOtlDhnta1zKx7Ko0NZJFjIkNtfXvJ7HsMEudIOoAHpv6Kkx2N1pzSsYc0kjeQDDPC0nRQ+dxeKQ8b2WPCva1jqNZxp1QGtEyBPedEjvayUbh3tbSfRrOy1RkygyL98kAiDzVC3Ekjuig0ECQHRIGgc0s+BR8TWLrBuHyxdoqMa13iIAdG0qf5U/wDIsUXeG9qqXY1XEPaG5QZB/dMQRa8fdM+zvH2YmnVNJzgWgAFwjKTpsLWWfp4dzjlbh2hjiJFNjXscW6E9m6x6nmgcQNai4tY3s5InJaDqA7y0HJH8pt9MWKNfwSviSx5quLH/ALLiDYmTlPgo8Nxdcioa8tsQ3bPZxI947Cb81leHe1FZrn9q8HuHKBlIDiO7cNFp1uVX1uKVat3uBI0jLpedGj8KuXqIpaDEusH7T4elUg4eC7cQc3K29ytjSxzH5coLQ5oeGmJE/RZTg/DKVdoIoU2PbcB9iI5GPr5K+o4dzTmqtDXR1ytDdgY01Mm/ouiE2/wQ0hLjPBbmpTFtSPqEvhK0iLLecFqU6lMOD2vGkg6Wn1usvx/hvedUpj3SSYtI/uXJy8OLc4ftFxYiau0FdbUnxQ6dTMJtO439N1MC3ukdf5WDdl2M0qp3OiP2pItZLto2nw+K5lj8lZtNMAWI7QjvM7TaW+8RzIVFjhNPKxpJbJ6zMjXUWWjDzE/nxQw1kzlExrEKWt2Bi3Y2s6MjSWgNBvPeDW5r85XFtxhW/tA9N/qvK/cfwK0fE6GLLQQDqrGjiCMpJHLX6+So2zyKPQpPd4C0bbfZdDiiC6ZXnui062Gn58kZgzENJGUbaE7n8Crv0dVxA6EeRVtgcE5urQfA/llk0h9FphabBoI8EhxTH5XWmRunqhcBAboJ108VQcSIBB8+k635rPDaBssatcBhJJmLx71+ZS/akMuT5wOv22SIquqd+IAGpO87eSDjcaHCALDpc9ZULidiGcPirOa5vOBaOuv5dHoYeq5wqdmYEZcoDSSeXIdU9wenlpS+IdJAFyRAMHkp4zFNacsCY2JEaQBzIsT4KJS/s0kMUfUe1sVabpHdtpbU2mdR6JN2OJGUwBzg7K0d3Wl/f7wsDff+43IMGLJfC4MVQ5zhlZcRfUAb+JRHBboKFm40NAEiQNTtJ5hPYMmqD3iIgTHhOn5ZVGNwHZPALs0zfTTY8la8NxzWNOafIDkQBe2u62jxxtNAtGs/XUqhDaezCDLYcdIHM7mFZ/pbAbfD86LHYDi9FkFwh58fW5Wj4fxJrjNN4N7g3kbAj6rZeoUXtBGOMaDvwLSbsB6xfz2+qtm0yG3Q6DTrM+SsaDg4QYXfw4tXFESswuO4s5+fuGGu1BiIsJ85+CTo4XNLgQZv1WuxnsyzvOY0Em4DtJ8PRZ2twmuyHGm4XiGaQDr02Xl8nHyRk20ap2hUYaJsrrgT8I2m5tU0m1b5XVWy3bLB058iq/A0S94Y9rm5r5nB3d/8gR5KTaNoh2uuV1rxpHxThOt0BpcHiKLGsNGtgg8wKpa7KCP9MGx6FUnGscKNeMNVD2znMxUAe4uLhmN9+e6IzAMcCMhLuZbbS22tt0LEcPaGEsaYAm33P5Zay5m4gCdxyq4madE//EPmiUeO1psykCdxTaCqsYqLRUmbd3WekbfVN9mQM77GRLbSZWK55PyIPiONVJaajWkNJtlykTrDm3B6gq0wPHC5rWBzu80xLyTI1aeY0udisu+uC4EaSdRMdF0vhwABAzC7dhzAVe460xm04VT7BlsrDmGbWDc6X1IC1v6clucctDvzHULIcDo53NY4y1xGVxkZss2M2Fit/UADczT3RqRddvDyScaZm4+TDca4aGxWp2aT3hs0/ZJU62lvXQrZ/pssl0OY6SekakjosdxCgWvacrQwguJaTmi8DKbAaeqx5uDFuUXoadjbKwIGx6aJdjokEHx1HTwQqHeABMG9xpb+ESrhnNh0638pgLGSuNlWHDRHNQIHgutpOIkR1jZL1WmfyVivsaYTMfDw/leS+cm8ryLYUfMZAsIgDSPkpUq3QQFXdoZsfz8KLUpi3X6LoozLbB4mdPVPvxIaPe8TMeSreHt7nI2+KKLscSJMkLCb3QNnKmIDvdNtLEiUClYHM3vCJkTbbRHwrAXaR3SbeW2icyC5gWgJR3aArKmJcGhwaYIMW5TLrXjQeaRpUQ57bH3hIIvfaAtLSaDI6Ra2kFV2HoNLwQMpn9tpvEEaaKoTTWhlzVw7+zhuRgM3JmTyA03jxXK+HbSaW2ccozuMne7t7xOm3wAXkvDSTABI8gY+QQuIVSGw05Q5zgQN/eGpvpPqVy4u6LGMdjxaAXHYXuNyLaCyrsPxAscKQYABrJFib6nX7r1LFODJEAkC45G0eFkrRwjX1A1xN5M7rSEEuxdAeK4gOeADmtJ0gE2tHx6hMYHDtLg0gkfLSfRWVbBsp03ZRA9dtZ1VdgaxDnaGCG3ANi4bFdHE1JUhXo3GGwVPKBlaYtMT8VR18QHVTTY0ATsIkDVCp1XZQJsNBYRpyUxDS5zQAbabzdac8lKo/sz4Yu22bbh7KtVpLKY7JjZe4PEwA6wZqT3Ty81FtUQCCL3Eaqw9i+HU6ocyoCW5WvjMRd1joRaw9EAnvPbAAD3NEbAGy6uKdRVGj2xqjWeGgkepHyRWYsHUKpxmOdTY5wgkDefugYPij3NkxfJMD+4kH5KZerx00LDZo+0adp8lBzGE8jEQPqlcFVLgSdQY9Pqh46qQ5gH7pnyaSk+ZVbiisX8jNbEtYYsdFnOM8RJsHZQPeyx5LtZxIMk2JA8ALKopDNck96oGHwLQSvP9Rzvk/olQIbwOIMZwHCQZLhYi5kc0bF0jGbM05gbACRMAg/ZI1MU5oLG2aCYA0sCd0l+sdAFvfI8gXfZQkq0S0cNJpksaTINouSJNgNjYL1DjYaRSqNkam0EHUTuI5fND4NXc57wf7yOWg18UDjvccHDX3fLyWsJtNJhZZ4XjX9M05drLAbxFwJEctFqH+1NU02vY4RkgsLZgjUgDvExt1Xzlrz2jTJvmHwWmwNEXYZIyh07zbQjZHL6mXGlQ6PoHEfaBgod1riHd0zLdgbTqCJFtwqbg+NpPa5j4nKC0uMEg7Ab/ADMrIYjFOP8ASMFhdEHpJB8UvVxBD27zqDMco10Wi9S5JOhPRre6BYjLNjaw8d728022sHCGkFuWxEmZ1MHrss3jYDcoAhzmg+EgkT4qwwhLWgAmCYgmdSFUOSlSEdrucWPhxkiLfP5WVBguL1QezrAjaSCCT4jTxWjoPkOsLG3xSuJEHxH3WfJDWTGmVr8cczgHZYMGSCD1aTsvIbqV5330vc9F1c+cPgo//9k=",
+            "descripcion": "Visita al Chorro el Macho, las piedras Pintadas, el Mercado de Artesanías y el Níspero.",
+            "link": "./ElValleDeAnton",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+        {   "id": 17,
+            "paseo": "Aventura Coclé",
+            "imagen": "https://cdn-3.expansion.mx/dims4/default/fb62849/2147483647/strip/true/crop/624x351+0+0/resize/800x450!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2011%2F12%2F16%2Fdorado.jpg",
+            "descripcion": "Paseo por la Interamericana al Parque Arqueológico El Caño.",
+            "link": "./AventuraCocle",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        },
+
+
+        {   "id": 18,
+            "paseo": "Full Day Isla Taboga",
+            "imagen": "https://i.ytimg.com/vi/dNK_9vg3gH0/maxresdefault.jpg",
+            "descripcion": "Navega en aguas del Canal, pasando muy de cerca de embarcaciones que en tránsito a través de la vía interoceánica.",
+            "link": "./FullDayIslaTaboga",
+            "subtitulo": "Uno de los principales sitios arqueológicos de la Península de Yucatán",
+            "intro":"Ubicado en el municipio de Tinum, en el Estado de Yucatán. Las edificaciones principales que ahí perduran corresponden a la época de la declinación de la propia cultura maya denominada por los arqueólogos como el período post-clásico.",
+            "video":"https://www.youtube.com/embed/sO7U78pUr34",
+            "enlaceExt": "https://www.xcaret.com/es/parques-y-tours/tour-xichen-deluxe/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmluGfGLFeNP5A6saX57y9DHaj6VJ-BRtXIwBKEAY-Q0fFcnad4l8FSAaArgYEALw_wcB&gclsrc=aw.ds",
+            "dificultad": "Medio",
+            "dificultadLogo": "looks_two",
+            "fisico":"Normal",
+            "fisicoLogo":"accessibility",
+            "incluye": [
+                "Traslado redondo",
+                "Guía federal en diferentes idiomas",
+                "Entrada a la zona arqueológica y visita a cenote",
+                "Buffet en el restaurante"
+            ],
+            "tips": [
+                " Descubre por qué esta enorme ciudad precolombina jugó un importante rol en la civilización maya entre los años 600 y 1.200, y continuó siendo un centro de culto y peregrinaje hasta la llegada de los españoles. ",
+                "En la zona arqueológica, disfrutarás de un delicioso buffet y harás una visita a un auténtico cenote sagrado maya.",
+                "Requerimientos: Llevar repelente de bichos, protección solar, lentes oscuros, zapatos cómodos, traje de baño y toalla, cámara (45 pesos para pago de derecho de videograbaciones)",
+                "Recomendable llevar dinero en efectivo para gastos personales, souvenirs y las bebidas en el restaurante",
+                " Favor de confirmar su pick up con el agente de ventas o contacte directamente a la oficina",
+                " No incluido: Propinas, fotografías, Souvenirs, bebidas durante la comida.",
+                " No recomendada: Para personas con problemas para caminar",
+                "Niños a partir de los 12 años pagan tarifa de adulto, de 6 a 11 años pagan tarifa de menor y asiento garantizado."
+            
+            ]
+
+        }
+
+
     
     ]
 

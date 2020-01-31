@@ -7,3 +7,91 @@
     
 }
 
+.titulo {
+    position: relative;
+    top: 70%;
+    left: 6%;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    font-size: 10vh;
+}
+
+
+.foto-viajera{
+    max-width: 40%;
+    overflow: hidden;
+}
+
+.foto-viajera img{
+    width: 100%;
+}
+
+.textos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5vw;
+}
+
+.explicacion-de-pago {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:5vw;
+    background-color: whitesmoke;
+}
+
+.y-cuanto-pago{
+    display: flex;
+    align-items: center;
+    flex-direction: column;   
+}
+
+.y-cuanto-pago p {
+    margin:50px;
+}
+
+.solucion {
+    padding: 5%;
+			border:5px solid #78909c;
+			margin:10%;
+}
+
+.solucion p {
+    font-size: 20px;
+}
+
+.como-financiar-vacaciones {
+    background-image: url("https://cdn.pixabay.com/photo/2013/02/21/19/06/beach-84533_960_720.jpg");
+    height: 50vh;
+    background-color: black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    color:white;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.como-financiar-vacaciones h2 {
+    margin: 0 15vw;
+}
+
+@media (min-width: 1000px ) {
+
+    .solucion p {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 800px ) {
+
+    .como-financiar-vacaciones h2 {
+        font-size: 40px;
+    }
+
+    .explicacion-de-pago{
+        flex-direction: column;
+    }
+}

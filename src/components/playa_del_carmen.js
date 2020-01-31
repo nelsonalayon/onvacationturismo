@@ -4,6 +4,7 @@ import 'materialize-css/dist/css/materialize.min.css'
 import './playa_del_carmen.css'
 import mexico from '../img/logo_mexico.png'
 import Hotel from './tarjeta_hotel'
+import datosDestino from './datos_tarjetas_destino.json'
 
 import datosHotel from './datos_tarjeta_hoteles.json'
 import Paseos from './tarjeta_paseos'
@@ -23,30 +24,21 @@ class PlayaDelCarmen extends React.Component {
                         <div className = "row">
 
                             <div className = "col s12 center-align">                            
-                            <h1 className = "titulo ">Playa del<br/>
-                            Carmen</h1>
-                            <h3 className= "subtitulo">La riviera maya</h3>
+                            <h1 className = "titulo ">{datosDestino[2].nombre}</h1>
+                            <h3 className= "subtitulo">{datosDestino[2].slogan}</h3>
                             </div>
                         </div>
 
                 
                 <div className="row intro">                    
                     <div className="playa-del-carmen-texto z-depth-4"><p>
-                        Playa del Carmen, es uno de los destinos preferidos para vacacionar especialmente en el verando, ya que es lugar idílico situado en el corazón de la Riviera Maya con fina y blanca arena y aguas verde-azules.
-
-                        Siempre encontrarás una hamaca y una sombrilla para tomar el sol y descansar, sobre todo a los extremos de la población que ofrecen las zonas de playa más tranquilas.
-
-                        La ciudad es bañada por las aguas del Mar Caribe.
-
-                        Es el lugar ideal para viajar en familia, amigos, en pareja y ¿por que no? solo. 
-
-                        Te ofrece diferentes alternativas para que tus vacaciones sean inolvidables como disfrutar de la playa, conocer un poco más de su historia y disfrutar de la vida nocturna que ofrece
-
-                        ¿Quieres saber mas acerca de lo que te estás perdiendo en Playa del Carmen?</p>
+                    {datosDestino[2].descripcion}</p>
                         
-                        <div className = "mexico">
-                            <img src = {mexico} alt = "viva mexico" width = "200px" className = "mexico-hijo"/>
-                            <p className = "mexico-hijo">visitmexico.com</p>
+                    <div className = "mexico">
+                            <a href = {datosDestino[2].link_externo} target = "blank">
+                            <img src = {datosDestino[2].imagen_link_externo}/>
+                            <p className = "mexico-hijo">{datosDestino[2].texto_link_externo}</p>
+                            </a>
                         </div>
                         
                     </div>
@@ -55,31 +47,25 @@ class PlayaDelCarmen extends React.Component {
                          <div className= "video-container ">
                         <div className="">                        
                         
-                            <iframe width="auto" height ="auto"  src="https://www.youtube.com/embed/xKz9ioXMd_A" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen= {true}></iframe>
+                            <iframe width="auto" height ="auto"  src={datosDestino[2].video} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen= {true}></iframe>
                     
                         </div>
                     </div>    
-                    <h4>¿Donde queda Playa del Carmen?</h4>
+                    <h4>¿Donde queda {datosDestino[2].nombre}?</h4>
                     <div className ="mapa-container">
-                        <iframe className="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119468.4239291634!2d-87.14173688047644!3d20.653777820544253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e4323d22d4e61%3A0xe8c10b783bab4adc!2sPlaya+del+Carmen%2C+Q.R.%2C+M%C3%A9xico!5e0!3m2!1ses!2sco!4v1566494099631!5m2!1ses!2sco" frameBorder="0" allowFullScreen></iframe>
+                        <iframe className="google-map" src={datosDestino[2].ubicacion} frameBorder="0" allowFullScreen></iframe>
 
                     </div>   
-                    </div>
-
-                   
-                         
+                    </div>                        
 
                 </div>
-
                 
-
-
                     <hr/>
 
                     <h2>Nuestros hoteles</h2>
 
                 <div className= "hoteles">
-                    <Hotel datos = {datosHotel}/>
+                    <Hotel datos = {datosHotel.PlayaCarmen}/>
                 </div>
 
                      
@@ -89,7 +75,7 @@ class PlayaDelCarmen extends React.Component {
                     <h2>¿Deseas vivir una experiencia memorable? <br/>
                         Vamos a agregar paseos a tu aventura</h2>
 
-                    <Paseos datos = {datosPaseos}/>
+                    <Paseos datos = {datosPaseos.PlayaCarmen}/>
 
                     <div className="hero espectacular">
                         <h2 className = "titulo-blanco">Espectacular, ¿cierto?<br/>

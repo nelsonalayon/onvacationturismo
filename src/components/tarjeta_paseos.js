@@ -9,7 +9,7 @@ class Paseos extends React.Component {
     render(){
           return (
               <div className="row">
-                  {this.props.datos.PlayaCarmen.map(
+                  {this.props.datos.map(
                       (tarjeta) => {
                           return (
                             <div className="col s12 l4" key= {tarjeta.id}>                                
@@ -22,7 +22,7 @@ class Paseos extends React.Component {
                                             <p>{tarjeta.descripcion}</p>
                                         </div>
                                         <div className="card-action">
-                                            <a href="#">{tarjeta.paseo}</a>
+                                            <a href={tarjeta.link}>{tarjeta.paseo}</a>
                                         </div>
                                         </div>
                                     </div>

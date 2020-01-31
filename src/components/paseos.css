@@ -1,0 +1,30 @@
+.contenedor-imagen {
+  height: 75vh;
+  overflow: hidden; 
+  
+}
+
+.contenedor-video {
+  height: -webkit-fill-available;
+}
+
+
+
+.titulo-paseo { 
+  position: relative;
+  top: 50vh;
+  right: -25vw;  
+  text-shadow: 2px 2px 2px #3f3f3f;
+  color: whitesmoke;
+
+}
+
+@media (max-width: 700px) {
+  .titulo-paseo {     
+   
+    font-size: 2em;
+    top: 33vh;
+    right: 0vw; 
+  
+  }
+}

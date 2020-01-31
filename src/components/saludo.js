@@ -35,7 +35,7 @@ class Saludo extends React.Component {
 
             <div className= "saludo">
                 <div className="container center-align">
-                    <h1>Hola amigo turista,<br/>¿Cómo te llamas?</h1>
+                    <h1>Hola amigo turista</h1>
                     <form onSubmit = {this.handleSubmit}>
                         <input 
                             onChange= {this.props.onChange} 

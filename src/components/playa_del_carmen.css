@@ -24,7 +24,7 @@ hr {
 .hero {
     width: 100%;
     height: 100vh;
-    background-image: url(https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CANCUN.jpg)  ; 
+    /* background-image: url(https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CANCUN.jpg)  ;  */
     background-size: cover;
     position: static;
    
@@ -91,6 +91,8 @@ hr {
 .espectacular {
     position: relative;
     margin:20vh 0;
+    background-image: url("https://cdn.pixabay.com/photo/2013/02/21/19/06/beach-84533_960_720.jpg");
+    background-attachment: fixed;
 }
 
 .que-te-detiene {

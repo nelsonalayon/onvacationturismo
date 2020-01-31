@@ -3,6 +3,7 @@ import 'materialize-css/dist/css/materialize.min.css'
 import Destino from './tarjeta_destino'
 import datos from './datos_tarjetas_destino.json'
 
+
 class Destinos extends React.Component {
 
     state = {    
@@ -26,11 +27,7 @@ class Destinos extends React.Component {
         }
     }
 
-    
-    
-
-
-
+ 
     render() {
 
        
@@ -42,7 +39,7 @@ class Destinos extends React.Component {
         <div className= "container center-align">
            
            <h2>
-           Que bien <br/>
+           <br/>
             Para nosotros es un placer ayudarte <br/>a 
             programar tus vacaciones. <br/><br/>
             ¿Donde quieres vivir tu próxima aventura?

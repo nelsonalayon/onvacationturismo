@@ -2,47 +2,135 @@
     {   "id": 0,
         "nombre": "Guajira",
         "slogan": "Vive la cultura",
-        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-GUAJIRA.jpg",
+        "link": "/guajira",
+        "descripcion": "La Guajira está localizada en el caribe colombiano, la cultura predominante es la Wayúu quienes tienen un lenguaje propio, el wayuunaiki. Se caracteriza por sus paisajes desérticos, sus gigantescas dunas de arena, las aldeas pesqueras y los ranchos remotos del pueblo indígena Wayúu.",
+        "link_externo": "https://expotur-eco.com/siete-razones-conocer-la-guajira/",
+        "imagen_link_externo":"https://expotur-eco.com/wp-content/uploads/2017/09/logotipo-expotur-lost-city-ciudad-perdida-guajira-tayrona-park-nature-adventure-experiences-tour-santa-marta-colombia.png",
+        "texto_link_externo": "La Guajira: siete razones para conocerla",
+        "video": "https://www.youtube.com/embed/w_nMV_vc9gE",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1416867.3208829216!2d-73.22856031492655!3d11.218675754925943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e8b8914627238ff%3A0x22e6d8831a7d9716!2sLa%20Guajira!5e0!3m2!1ses!2sco!4v1574960966192!5m2!1ses!2sco"
+        
+        
     },
     {   "id": 1,
         "nombre": "San Andrés",
         "slogan": "El mar de los 7 colores",
-        "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/Images/Destinos-Hoteles/ON-VACATION-DESITNO-SAN-ANDRES.jpg",
+        "link": "/san_andres",
+        "descripcion": "Cerca de cuarenta sitios para bucear, unas de las mejores playas del Caribe, un mar azul pero que también es verde y de tonos lila, y gente llena de amabilidad… esos son algunos de los encantos de las islas de San Andrés, Providencia y Santa Catalina, ubicadas en el Caribe colombiano.",
+        "link_externo": "https://colombia.travel/es/san-andres-isla",
+        "imagen_link_externo":"https://colombia.travel/sites/default/files/inline-images/logo-colombia-co.png",
+        "texto_link_externo": "Un auténtico paraiso",
+        "video": "https://www.youtube.com/embed/cPhPMNUsoSA",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62314.02059552079!2d-81.73927356401506!3d12.540898416052693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f05a57a2812317f%3A0x39d7645f866b54c6!2sIsla%20de%20San%20Andr%C3%A9s!5e0!3m2!1ses!2sco!4v1574964508074!5m2!1ses!2sco"
+        
+        
     },
-    {   "id": 3,
+    {   "id": 2,
         "nombre": "Playa del Carmen",
         "slogan": "La riviera maya",
-        "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hoteles%20Canc%C3%BAn/Hotel%20Grand%20Princess/Slider.png?ver=2019-06-10-180650-280"
+        "imagen": "https://www.onvacation.com/portals/1080/Images/Home/Hoteles%20Canc%C3%BAn/Hotel%20Grand%20Princess/Slider.png?ver=2019-06-10-180650-280",
+        "link": "/playa_del_carmen",
+        "descripcion": "Playa del Carmen, es uno de los destinos preferidos para vacacionar especialmente en el verando, ya que es lugar idílico situado en el corazón de la Riviera Maya con fina y blanca arena y aguas verde-azules. Siempre encontrarás una hamaca y una sombrilla para tomar el sol y descansar, sobre todo a los extremos de la población que ofrecen las zonas de playa más tranquilas. La ciudad es bañada por las aguas del Mar Caribe. Es el lugar ideal para viajar en familia, amigos, en pareja y ¿por que no? solo. Te ofrece diferentes alternativas para que tus vacaciones sean inolvidables como disfrutar de la playa, conocer un poco más de su historia y disfrutar de la vida nocturna que ofrece ¿Quieres saber mas acerca de lo que te estás perdiendo en Playa del Carmen?",
+        "link_externo": "https://www.visitmexico.com/es/destinos-principales/quintana-roo/playa-del-carmen",
+        "imagen_link_externo":"https://www.paredro.com/wp-content/uploads/2018/12/Vive_Mexico.jpg",
+        "texto_link_externo": "Quintana Roo",
+        "video": "https://www.youtube.com/embed/MGsnO_9WC18",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119468.4239291634!2d-87.14173688047644!3d20.653777820544253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e4323d22d4e61%3A0xe8c10b783bab4adc!2sPlaya+del+Carmen%2C+Q.R.%2C+M%C3%A9xico!5e0!3m2!1ses!2sco!4v1566494099631!5m2!1ses!2sco"
+        
     },
-    {   "id": 4,
+    {   "id": 3,
         "nombre": "Eje Cafetero",
         "slogan": "Patrimonio histórico",
-        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-EJE-CAFETERO.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-EJE-CAFETERO.jpg",
+        "link": "/eje_cafetero",
+        "descripcion": "El Eje Cafetero, es una región geográfica, cultural, económica y ecológica de Colombia ubicada en los departamentos de Caldas, Risaralda, Quindío, la región norte del Valle del Cauca, el noroccidente del Tolima y las ciudades capitales de los tres primeros departamentos mencionados, siendo Pereira la ciudad más poblada de la región, con su área metropolitana de Centro Occidente, con más de 700.000 habitantes. Esta región fue una notable productora de caucho a comienzos del siglo XX pero luego se dedicó al café.",
+        "link_externo": "https://www.turismoquindio.com/10-consejos-para-visitar-el-quindio-y-el-eje-cafetero/",
+        "imagen_link_externo":"https://www.turismoquindio.com/wp-content/themes/turismoquindio/images/turismo-quindio-central-reservas.png",
+        "texto_link_externo": "10 consejos para visitar el eje cafetero",
+        "video": "https://www.youtube.com/embed/rpdRkZ5MNxU",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d179995.7784976973!2d-75.77200610372398!3d4.524947887530252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e473e9835b25db5%3A0x2f0b76e3a3cc50c5!2sEje%20Cafetero!5e0!3m2!1ses-419!2sco!4v1575126306581!5m2!1ses-419!2sco"
+        
     },
-    {   "id": 5,
+    {   "id": 4,
         "nombre": "Amazonas",
         "slogan": "Una aventura salvaje",
-        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-AMAZONAS.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-AMAZONAS.jpg",
+        "link": "/amazonas",
+        "descripcion": "Viaja a Amazonas y encontrarás felicidad, tranquilidad, encanto porque es cosiderada como el lugar del planeta con la mas fascinante e insospechada variedad de recursos naturales. La Amazonía es quizás una de las regiones colombianas mas diversa tanto por las poblaciones indígenas que allí habitan como en cuanto a flora y fauna.",
+        "link_externo": "https://encolombia.com/turismo/destinos-turisticos/destinos-colombianos/amazonas/leticia/",
+        "imagen_link_externo":"https://encolombia.com/wp-content/uploads/2017/06/logo-encolombia-nuevo.png",
+        "texto_link_externo": "Turismo en Leticia – Amazonas – Colombia",
+        "video": "https://www.youtube.com/embed/97ypDSjSDcE",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31832.70115660584!2d-69.95996568409409!3d-4.203121954086191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91f2f14c36488fbf%3A0xd9b14597a7c636c0!2sLeticia%2C%20Amazonas!5e0!3m2!1ses-419!2sco!4v1575137517808!5m2!1ses-419!2sco "
+        
     },
-    {   "id": 6,
+    {   "id": 5,
         "nombre": "Girardot",
         "slogan": "Fines de semana increibles",
-        "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/Fotos-Girardot-Web-01.jpg?ver=2019-06-27-201935-690"
+        "imagen": "https://www.onvacation.com/portals/1080/Hotel%20Girardot/Fotos-Girardot-Web-01.jpg?ver=2019-06-27-201935-690",
+        "link": "/girardot",
+        "descripcion": "Esta pequeña ciudad se ha convertido en el destino ideal para las vacaciones de los habitantes del centro del país, cuenta con un excelente clima, facilidades de transporte y diferentes atractivos turísticos.",
+        "link_externo": "https://encolombia.com/turismo/destinos-turisticos/destinos-colombianos/cundinamarca/girardot/",
+        "imagen_link_externo":"https://encolombia.com/wp-content/uploads/2017/06/logo-encolombia-nuevo.png",
+        "texto_link_externo": "Turismo en Girardot",
+        "video": "https://www.youtube.com/embed/xV_enosXu-4",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63656.447153748755!2d-74.82810076111498!3d4.311393737345221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f28ec54308e5f%3A0xad9e09275aa20260!2sGirardot%2C%20Cundinamarca!5e0!3m2!1ses-419!2sco!4v1575138407847!5m2!1ses-419!2sco"
+        
     },
-    {   "id": 7,
+    {   "id": 6,
         "nombre": "Santa Marta",
         "slogan": "Vive la chispa del Caribe",
-        "imagen": "https://www.onvacation.com/portals/1080/ON_VACATION_SANTA_MARTA.png"
+        "imagen": "https://www.onvacation.com/portals/1080/ON_VACATION_SANTA_MARTA.png",
+        "link": "/santa_marta",
+        "descripcion": "La bahía de Santa Marta en el Distrito Turístico, Cultural e Histórico, el cual no sólo recuperó su riqueza histórica y arquitectónica, sino que ahora le apuesta a conquistar muchos más turistas. Con vista a la marina de la ciudad, protagonista del desarrollo inmobiliario en la zona.",
+        "link_externo": "https://travelgrafia.co/blog/santa-marta/",
+        "imagen_link_externo":"https://travelgrafia.co/wp-content/themes/travelgrafia/img/Sello_blanco.png",
+        "texto_link_externo": "Santa Marta y sus alrededores",
+        "video": "https://www.youtube.com/embed/tgpeh3rdbNQ",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62614.47594335704!2d-74.21741665516105!3d11.231607344027934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef4f66ff59a173d%3A0x124b95fc153af9b8!2sSanta%20Marta%2C%20Magdalena!5e0!3m2!1ses-419!2sco!4v1575139146771!5m2!1ses-419!2sco"
+        
     },
-    {   "id": 8,
+    {   "id": 7,
         "nombre": "Cancún",
         "slogan": "Paraiso mexicano",
-        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CANCUN.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CANCUN.jpg",
+        "link": "/cancun",
+        "descripcion": "Es una verdadera joya del Caribe, situada en el estado de Quintana Roo en la región sureste de México, en la punta noreste de la Península de Yucatán, al norte de la Riviera Maya. Su nombre proviene de la lengua Maya y significa nido de serpientes. Lugar de belleza exuberante cuyas maravillosas playas, riqueza natural y cultural hechizan a sus visitantes.",
+        "link_externo": "https://www.visitmexico.com/es/destinos-principales/quintana-roo/cancun",
+        "imagen_link_externo":"https://www.paredro.com/wp-content/uploads/2018/12/Vive_Mexico.jpg",
+        "texto_link_externo": "Quintana Roo",
+        "video": "https://www.youtube.com/embed/xKz9ioXMd_A",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119096.83694121703!2d-86.91927402517982!3d21.121488645272944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c2b05aef653db%3A0xce32b73c625fcd8a!2zQ2FuY8O6biwgUS5SLiwgTcOpeGljbw!5e0!3m2!1ses-419!2sco!4v1575139427913!5m2!1ses-419!2sco"
+        
     },
-    {   "id": 9,
+    {   "id": 8,
         "nombre": "Curazao",
         "slogan": "La isla de los colores",
-        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CURACAO.jpg"
+        "imagen": "https://www.onvacation.com/portals/1080/ON-VACATION-DESITNO-CURACAO.jpg",
+        "link": "/curacao",
+        "descripcion": "Es un territorio autónomo del Reino de los Países Bajos. Situado en el sur del mar Caribe a unos 50 kilómetros de Venezuela y pertenece al grupo de islas de Sotavento junto con Aruba y Bonaire.",
+        "link_externo": "https://www.curacao.com/es/",
+        "imagen_link_externo":"https://www.mscnoticias.com.ve/wp-content/uploads/2018/05/curazao.gif",
+        "texto_link_externo": "La escapada al Caribe que te libera",
+        "video": "https://www.youtube.com/embed/wIpo5xhxN7I",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d499146.47833617544!2d-69.21319915997157!3d12.208829570053515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e849dbe62c7fdc7%3A0xfc7f9228dbc64723!2sCurazao!5e0!3m2!1ses-419!2sco!4v1575139883305!5m2!1ses-419!2sco"
+        
+    },
+
+    {   "id": 9,
+        "nombre": "Panamá",
+        "slogan": "El país que une los dos oceanos",
+        "imagen": "https://cdn.pixabay.com/photo/2017/03/30/18/34/panama-city-panama-2189313_960_720.jpg",
+        "link": "/panama",
+        "descripcion": "Ciudad de Panamá es una capital moderna situada junto al océano Pacífico y al canal artificial del mismo nombre. El Casco Viejo es el centro histórico, cuyas calles adoquinadas albergan monumentos de la era colonial, como el Palacio Presidencial de estilo neoclásico y plazas con cafeterías y bares repletas de buganvillas. Desde las esclusas de Miraflores se pueden ver los barcos que atraviesan el canal.",
+        "link_externo": "https://visitpanama.com/es/",
+        "imagen_link_externo":"https://www.festivalprisma.com/wp-content/uploads/2016/08/Logo-Panama-Versiones-1.jpg",
+        "texto_link_externo": "Conoce el país que cambió el horizonte y transformó el mapa del mundo",
+        "video": "https://www.youtube.com/embed/NwEHecWudvI",
+        "ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4041986.575927876!2d-82.35013681921532!3d8.376804151907347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa61583c8be2be3%3A0x79eee04d1fa59bcf!2zUGFuYW3DoQ!5e0!3m2!1ses-419!2sco!4v1575140220295!5m2!1ses-419!2sco"
+        
     }
     
 ]

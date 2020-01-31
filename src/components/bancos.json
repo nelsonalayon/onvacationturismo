@@ -55,9 +55,31 @@
         "boton":"https://pagosonline.onvacation.com"
          
     }
+  ],
 
-
-              
-
-
-        ]}
+  "finantodo": [
+    {
+      "id": 1,
+      "foto":"https://www.onvacation.com/portals/1080/ON-VACATION-LOGO-OFICIAL.jpg",
+      "cuenta":"En las cajas de las oficinas de On Vacation especificarle al cajero que se va a hacer una consignación a FINANTODO",
+      "nombreCuenta":"",
+      "nombreBanco": "OnVacation" 
+    },
+    {
+      "id": 2,
+      "foto":"https://www.dataifx.com/sites/default/files/davivienda_0.png",
+      "cuenta":"Cuenta de ahorros: 485100000994",
+      "nombreCuenta":"Nombre de la cuenta: FINANTODO",
+      "nombreBanco": "Davivienda" 
+    },
+    {
+      "id": 3,
+      "foto":"https://www.dataifx.com/sites/default/files/Bancolombia_8_2.jpg",
+      "cuenta":"Cuenta de ahorros: 3071143381",
+      "nombreCuenta":"Nombre de la cuenta: FINANTODO",
+      "nombreBanco": "Bancolombia" 
+    }
+  ]
+      
+      
+}

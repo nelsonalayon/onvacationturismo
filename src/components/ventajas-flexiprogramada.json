@@ -1,0 +1,56 @@
+[
+            {
+                "id": 0,
+                "foto":"https://cdn.pixabay.com/photo/2016/01/19/15/48/luggage-1149289_960_720.jpg",
+                "ventaja":"Lograr tus metas de inversión para vacaciones rápidamente"                 
+            }, 
+            {
+              "id": 1,
+              "foto":"https://cdn.pixabay.com/photo/2017/07/28/09/34/adventure-2548133_960_720.jpg",
+              "ventaja":"Irte de vacaciones sin deudas"  
+               
+          }, 
+          {
+            "id": 2,
+            "foto":"https://cdn.pixabay.com/photo/2014/07/31/22/50/photographer-407068_960_720.jpg",
+            "ventaja":"Escoger planes de vacaciones con excelentes tarifas"  
+        }, 
+        {
+          "id": 3,
+          "foto":"https://cdn.pixabay.com/photo/2017/08/01/01/17/sea-2562563_960_720.jpg",
+          "ventaja":"Acceder a promociones en destinos nacionales e internacionales"  
+           
+      }, 
+      {
+        "id": 4,
+        "foto":"https://cdn.pixabay.com/photo/2017/01/17/07/25/heart-1986105_960_720.jpg",
+        "ventaja":"Inviertes para tu sueño de viajar aunque no tengas definido el destino ni la fecha"  
+         
+    },
+
+    {
+      "id": 5,
+      "foto":"https://cdn.pixabay.com/photo/2014/11/03/10/44/camera-514992_960_720.jpg",
+      "ventaja":"Usar tus aportes despues de 90 días luego de tu primer pago"  
+       
+  },
+
+  {
+    "id": 6,
+    "foto":"https://cdn.pixabay.com/photo/2017/09/07/08/54/money-2724241_960_720.jpg",
+    "ventaja":"Usar los aportes para pago de la cuota inicial de vacaciones programadas"  
+     
+},
+
+{
+  "id": 7,
+  "foto":"https://cdn.pixabay.com/photo/2016/10/09/19/19/coins-1726618_960_720.jpg",
+  "ventaja":"Usar el 100% del valor aportado"  
+   
+}
+
+
+              
+
+
+        ]

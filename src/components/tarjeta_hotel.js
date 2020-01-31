@@ -9,7 +9,7 @@ class Hotel extends React.Component {
           return (
               <div className="row">
 
-                  {this.props.datos.PlayaCarmen.map(
+                  {this.props.datos.map(
                       (tarjeta) => {
                           return (
                             <div className="card col l6 s12 tarjetahotel" key= {tarjeta.id}>
@@ -18,7 +18,7 @@ class Hotel extends React.Component {
                                 </div>
                                 <div className="card-content">
                                     <span className="card-title activator grey-text text-darken-4"><strong>{tarjeta.hotel}</strong><i className="material-icons right">more_vert</i></span>
-                                    <p><Link to="/hotel">{tarjeta.slogan}</Link></p>
+                                    <p><Link to={tarjeta.link}>{tarjeta.slogan}</Link></p>
                                 </div>
                                 <div className="card-reveal">
                                     <span className="card-title grey-text text-darken-4">{tarjeta.hotel}<i className="material-icons right">close</i></span>
